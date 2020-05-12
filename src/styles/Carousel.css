@@ -1,0 +1,78 @@
+root {
+	--animation-name: enterLeft;
+}
+
+.carousel {
+	text-align: center;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
+.carouselContentList {
+	list-style: none;
+	min-height: 500px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	position: relative;
+	padding: 5px;
+}
+
+.carouselItem {
+	position: absolute;
+	width: 100%;
+}
+
+.hiddenCarouselContent {
+	display: none;
+}
+
+.animation {
+	position: relative;
+	animation-duration: 0.5s;
+	animation-timing-function: ease-out;
+	animation-fill-mode: forwards;
+	animation-name: var(--animation-name);
+}
+
+.carouselControlBox {
+	border: none;
+	padding: 0;
+	margin: 0;
+}
+
+.carouselControl {
+	color: inherit;
+	width: 50%;
+	background: none;
+	font: inherit;
+	outline: inherit;
+	padding: 0;
+	border: none;
+	border-top: 1px solid #454545;
+	border-bottom: 1px solid #454545;
+}
+
+.carouselControl:hover {
+	background-color: silver;
+	cursor: pointer;
+}
+
+@keyframes exit {
+	from {
+		opacity: 1;
+	}
+	to {
+		opacity: 0;
+	}
+}
+
+@keyframes enter {
+	from {
+		opacity: 0;
+	}
+	to {
+		opacity: 1;
+	}
+}
