@@ -1,5 +1,5 @@
 import React from "react";
-import {FaRegEnvelope, FaGithub, FaLinkedin, FaPhone} from "react-icons/fa";
+import {FaRegEnvelope, FaGithub, FaLinkedin, FaPhone, FaSpotify, FaSteam} from "react-icons/fa";
 import ResponsiveContainer from "./ResponsiveContainer";
 import "../styles/Footer.css";
 
@@ -25,6 +25,16 @@ const icons =
         icon: FaLinkedin,
         path: "https://www.linkedin.com/in/sidhant-puntambekar-0bb881130/"
     },
+    spotify:
+    {
+        icon: FaSpotify,
+        path: "https://open.spotify.com/user/sidhantnp"
+    },
+    steam:
+    {
+        icon: FaSteam,
+        path: "https://steamcommunity.com/id/sidhantnp"
+    }
 };
 const iconWidth = 100 / Object.keys(icons).length;
 

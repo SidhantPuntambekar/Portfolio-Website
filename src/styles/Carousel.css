@@ -9,31 +9,17 @@ root {
 	justify-content: space-between;
 }
 
-.carouselContentList {
+.carouselContent {
 	list-style: none;
 	min-height: 500px;
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
-	position: relative;
-	padding: 5px;
+	overflow: hidden;
 }
 
-.carouselItem {
-	position: absolute;
-	width: 100%;
-}
-
-.hiddenCarouselContent {
+.hiddenCarouselItem {
 	display: none;
-}
-
-.animation {
-	position: relative;
-	animation-duration: 0.5s;
-	animation-timing-function: ease-out;
-	animation-fill-mode: forwards;
-	animation-name: var(--animation-name);
 }
 
 .carouselControlBox {
@@ -59,20 +45,49 @@ root {
 	cursor: pointer;
 }
 
-@keyframes exit {
+/**
+ *
+ * TODO: fix these animations which are broken, presumably due to use on elements inside column-flexbox
+ *
+ */
+
+.animation {
+	animation-duration: 1s;
+	animation-name: var(--animation-name);
+}
+
+@keyframes exitLeft {
 	from {
-		opacity: 1;
+		margin-left: 0;
 	}
 	to {
-		opacity: 0;
+		width: 0;
 	}
 }
 
-@keyframes enter {
+@keyframes enterLeft {
 	from {
-		opacity: 0;
+		margin-left: 100%;
 	}
 	to {
-		opacity: 1;
+		margin-left: 0;
+	}
+}
+
+@keyframes exitRight {
+	from {
+		margin-right: 0;
+	}
+	to {
+		margin-left: 100%;
+	}
+}
+
+@keyframes enterRight {
+	from {
+		margin-right: 100%;
+	}
+	to {
+		margin-right: 0;
 	}
 }

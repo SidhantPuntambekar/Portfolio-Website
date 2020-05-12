@@ -1,5 +1,6 @@
 import React from "react";
 import Carousel from "../components/Carousel";
+import { carouselCounter } from "../components/Carousel";
 import Footer from "../components/Footer";
 import Header from "../components/Header";
 import ResponsiveContainer from "../components/ResponsiveContainer";
@@ -82,63 +83,49 @@ class App extends React.Component {
 		this.state = {
 			currentSelectedCategory: ""
 		};
-		this.previousSelectedCategory = null;
+		this.currentInformation = new CarouselInformation("", "", [new CarouselItem("", "", "")]);
 	}
 
-	componentDidUpdate(prevProps, prevState, snapshot) {
-		this.previousSelectedCategory = prevState.currentSelectedCategory;
+	componentWillUpdate(nextProps, nextState, nextContext) {
+		this.currentInformation = carouselInformation.find(information => information.title === nextState.currentSelectedCategory);
+		if (!this.currentInformation) {
+			this.currentInformation = new CarouselInformation("", "", [new CarouselItem("", "", "")]);
+		}
 	}
 
 	render() {
-		const getClassNameAndStyleOfCarouselElement = information => {
-			let className = this.state.currentSelectedCategory === information.title ? "" : "hidden";
-			const style = {};
-			if (this.previousSelectedCategory !== "" && [this.previousSelectedCategory, this.state.currentSelectedCategory].includes(information.title)) {
-				className = "animation";
-				style["--animation-name"] = this.state.currentSelectedCategory === information.title ? "fadeIn" : "fadeOut";
-			}
-			return [className, style];
-		};
 		return <div>
 			<Header />
 			<h2>About me</h2>
 			<ResponsiveContainer>
-				<img responsiveWidth="3" src={"images/me1.jpg"} alt={"Sidhant Puntambekar"} style={{width: "100%"}} />
-				<p responsiveWidth="9" style={{margin: "10px"}}>Welcome to my portfolio website. My name is Sidhant Puntambekar and I am 
+				<img responsiveWidth="3" src={"images/me.jpg"} alt={"Sidhant Puntambekar"} style={{width: "100%"}} />
+				<p responsiveWidth="9" style={{margin: "10px"}}>
+					Welcome to my portfolio website. My name is Sidhant Puntambekar and I am 
                     currently a freshman undergraduate at the University of Colorado, Boulder. I am currently majoring in Computer Science
                     and Molecular Cellular and Developmental Biology. While my main passions are in the areas of Computer Science and
                     Molecular Biology, I am enfatuated with learning about all subject areas. Some of my other favorite activities are 
                     reading up on military history, playing the guitar, playing the drums, and doing Tae Kwon Do. I also enjoy listening 
-                    to music and watching movies.</p>
+                    to music and watching movies.
+				</p>
 			</ResponsiveContainer>
 			<br/>
 			<h2>Slideshows</h2>
 			<p>Select one of the options from the list in each category</p>
 			<ResponsiveContainer>
 				<div responsiveWidth="4" style={{height: "100%", display: "flex", flexDirection: "column", justifyContent: "center"}}>
-					<SelectionList items={carouselInformation.map(information => information.title)} onSelection={category => this.setState({ ...this.state, currentSelectedCategory: category })} ariaLabel={"A list of buttons that make the carousel display my favorite items from the button's named category."} ariaControls={"carouselsContainer categoryDescriptionsContainer"} />
+					<SelectionList items={carouselInformation.map(information => information.title)} onSelection={category => this.setState({ ...this.state, currentSelectedCategory: category })} ariaLabel={"A list of buttons that make the carousel display my favorite items from the button's named category."} ariaControls={`carousel${carouselCounter - 1} categoryDescription`} />
 				</div>
-				<div responsiveWidth="8" id={"carouselsContainer"} aria-live={"polite"}>{
-					carouselInformation.map(information => {
-						const [className, style] = getClassNameAndStyleOfCarouselElement(information);
-						return <div className={`carouselContainer ${className}`} style={style} aria-hidden={this.state.currentSelectedCategory !== information.title} key={information.title}>
-							<Carousel title={information.title}>{
-								information.items.map(item => <div key={item}>
-									<h4>{item.name}</h4>
-									<img src={item.imageUrl} alt={item.name} height={150} style={{maxWidth: "295px"}} />
-									<p>{item.description}</p>
-								</div>)
-							}</Carousel>
-						</div>
-					})
-				}</div>
+				<div responsiveWidth="8" style={{margin: "10px"}}>
+					<Carousel title={this.currentInformation.title}>{
+						this.currentInformation.items.map(item => <div key={item}>
+							<h4>{item.name}</h4>
+							<img src={item.imageUrl} alt={item.name} height={150} style={{maxWidth: "295px"}} />
+							<p>{item.description}</p>
+						</div>)
+					}</Carousel>
+				</div>
 			</ResponsiveContainer>
-			<div id={"categoryDescriptionsContainer"} aria-live={"polite"}>{
-				carouselInformation.map(info => {
-					const [className, style] = getClassNameAndStyleOfCarouselElement(info);
-					return <p className={`categoryDescription ${className}`} style={style} aria-hidden={this.state.currentSelectedCategory !== info.title} key={info.title}>{info.description}</p>
-				})
-			}</div>
+			<p id={"categoryDescription"} style={{textAlign: "center", minHeight: "85px"}} aria-live={"polite"}>{this.currentInformation.description}</p>
 			<br/>
 			<Footer />
 		</div>
