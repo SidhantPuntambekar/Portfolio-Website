@@ -29,7 +29,7 @@ const carouselInformation = [
             new CarouselItem(
                 "Python",
                 "images/Python.png",
-                "Python was the first programming language I started learning. I believe it is the best beginner language because its intuitive syntax. Additionally, I like its ability to be used for all sorts of applications such as genomic data science and data visualization with softwares such as matplotlib and Matlab. Although many dislike Python for its pseudocode like syntax, I believe that it serves as a great introductory language to programming."
+                "Python was the first programming language I started learning. I believe it is the best beginner language because its intuitive syntax. Additionally, I like its ability to be used for all sorts of applications such as genomic data science and data visualization with softwares such as Matplotlib and Matlab. Although many dislike Python for its pseudocode like syntax, I believe that it serves as a great introductory language to programming."
             ),
             new CarouselItem(
                 "Java",
@@ -100,6 +100,61 @@ const carouselInformation = [
 				"Family Guy is one of my favorite comedy shows. It follows the interesting Griffin family in the town of Quahog, Rhode Island. The cutaway gags are a highlight of the show and some of the humor used is of the slapstick variety. Given that the show has been renewed for eighteen seasons, it is one of the most successful TV shows ever produced. I watch this show to get a good laugh in my free time."
 			),
 		]
+	),
+	new CarouselInformation
+	(
+		"Books",
+		"Here are a few of my favorite reads:",
+		[
+			new CarouselItem(
+				"Nineteen Eighty-Four",
+				"https://d31029zd06w0t6.cloudfront.net/wp-content/uploads/sites/38/2019/12/web1_1984-book-cover-art-book-cover-prints-2_1531c558-4ea7-4a8b-95f4-1fa3534f0ee9_1200x1200.jpg",
+				"Nineteen Eighty-Four by George Orwell tells the story of a dystopian society controlled by an anonymous Big Brother who the entire population worships seemingly as a god. Winston Smith is the main protagonist of the novel who works at the Ministry of Truth. He rewrites historical records to better conform the state's views and keep the ruling party in power. The state ruthlessly enforces a cult of personality through a secret police known as the Thought Police and Telescreens. The book reminds society of the dangers of a totalitarian leader and the cult of personality that is created around them. It also demonstrates the debate between security vs. privacy which is at the forefront of today's technology landscape."
+			),
+			new CarouselItem(
+				"The Catcher in the Rye",
+				"https://images-na.ssl-images-amazon.com/images/I/81OthjkJBuL.jpg",
+				"The Catcher in the Rye by J.D Salinger was one of the most influential books of the 20th century. The story follows the controversial character of Holden Caulfield who struggles to find his place in the world. Caulfield fails to connect with the real world and people around him which leads him to stay connected to his childish ways. The book represents the stuggles of growing up in the real world as well as alienation from others for the protection of oneself."
+			),
+			new CarouselItem(
+				"For Whom the Bell Tolls",
+				"https://upload.wikimedia.org/wikipedia/en/thumb/4/48/ErnestHemmingway_ForWhomTheBellTolls.jpg/178px-ErnestHemmingway_ForWhomTheBellTolls.jpg",
+				"For Whom the Bell Tolls is a novel written by Ernest Hemingway set to the backdrop of the Spanish Civil War. The novel follows Robert Jordan who is an American volunteer in one of the International Brigades fighting on the Republican side. He is tasked to blow up a bridge during the attack on the city of Segovia near the capital city of Madrid. The book paints a dark picture of the horror of the civil war which pitted Nazi backed Nationalists against the Soviet backed Republicans. Overall the book demonstrates themes such as camaraderie in war as well as making the ultimate sacrifice for a cause."
+
+			),
+			new CarouselItem(
+				"Heart of Darkness",
+				"https://kbimages1-a.akamaihd.net/e278c62e-943a-473e-846a-3e19bce5b5d8/1200/1200/False/heart-of-darkness-12.jpg",
+				"Heart of Darkness by Joseph Conrad tells the story of nineteenth century colonialism in Africa. More specifically, the expedition of Charles Marlow up the Congo River. Marlow goes in search of the mysterious Kurtz who is said to be lost in the heart of the African jungle. However, Marlow witnessses that Kurtz has become an almost god like figure to the native people in the river basin and that he has descended into madness being consumed with the wilderness around him. Marlow eventually rescues Kurtz, but Kurtz can't be saved in time as they leave the river basin. Marlow upon returning grows dissatisfied with the so called civilized world and lies to Kurtz's wife about his last words. The novel paints a grim picture of colonialism in Africa as well as the mistreatment of the native peoples in the Congo river basin. The novel also flips the narrative of which world is considered to be civilized or not."
+			)
+		]
+	),
+	new CarouselInformation
+	(
+		"Movies",
+		"My favorite genre of movie is action and adventure movies.",
+		[
+			new CarouselItem(
+				"James Bond Series from EON Productions",
+				"https://cdn.images.express.co.uk/img/dynamic/36/750x445/1178237.jpg",
+				"The James Bond film series is one of my favorite spy movie series of all time. Over the course of the franchise, they have produced 24 films with a 25th one on the way. The series follows intrepid hero James Bond 007 who is a British Secret Service agent working with MI6. Throughout the films, Bond is thrust into thwarting villain plots from all around the world. The series is the ultimate in exotic filming locations, villains, and overall machismo. I also enjoy the series for taking influence from the time period each film is produced in. Although I enjoy all films from the series, my personal favorites are Goldfinger, Thunderball, Live and Let Die, The Man with the Golden Gun, The Spy who Loved Me, A View to a Kill, License to Kill, Goldeneye, Tomorrow Never Dies, Casino Royale, and Skyfall."
+			),
+			new CarouselItem(
+				"Top Gun",
+				"https://images-na.ssl-images-amazon.com/images/G/01/digital/video/hero/Movies/MiscCategory7/B002A9VJ40_TopGun_UXPA1._SX1080_.jpg",
+				"Top Gun is another one of my favorite movies. The movie is set in the middle of the Cold War and follows Lt. Pete 'Maverick' Mitchell and Lt. Nick 'Goose' Bradshaw as they seek to become the best US Naval fighter pilots. The filming of this movie was a first for its time and features my favorite naval aircraft (F-14 Tomcat). The story delves into the past of Maverick and highlights the unique training program that the Naval Fighter Weapons school offers to new pilots."
+			),
+			new CarouselItem(
+				"The Hunt for Red October",
+				"https://upload.wikimedia.org/wikipedia/en/3/36/The_Hunt_for_Red_October_movie_poster.png",
+				"The Hunt for Red October is another Cold War thriller that centers around a defection by Soviet Submarine Captain named Marko Ramius. Ramius is in command of the new Typhoon class submarine Red October which features a new Caterpillar drive propulsion system that makes it virtually undetectable to sonar. After the submarine suddenly puts to sea, CIA analyst Jack Ryan has to convince his superiors that Ramius wants to defect to the West instead of preparing for a nuclear launch. The cat and mouse thriller sheds light on the life submariners and the large amount of power they hold as a nuclear deterrent."
+			),
+			new CarouselItem(
+				"Mission: Impossible",
+				"https://images-na.ssl-images-amazon.com/images/I/81MungkSCoL._SY445_.jpg",
+				"Mission: Impossible is another spy movie that deals with the theft a high priority NOC list of all IMF agents and their identities. Ethan Hunt is tasked with preventing the list from being sold to the highest bidder but is constantly being betrayed by a rogue IMF agent. The movie set the groundwork for the rest of the franchise but I believe that the first movie is the best one."
+			)
+		]
 	)
 ];
 
@@ -137,7 +192,7 @@ class App extends React.Component {
 			</ResponsiveContainer>
 			<br/>
 			<h2>Slideshows</h2>
-			<p>Select one of the options from the list in each category. These categories represent four of my favorite items.</p>
+			<p>Select one of the options from the list to see my four favorite things from each category.</p>
 			<ResponsiveContainer>
 				<div responsiveWidth="4" style={{height: "100%", display: "flex", flexDirection: "column", justifyContent: "center"}}>
 					<SelectionList items={carouselInformation.map(information => information.title)} onSelection={category => this.setState({ ...this.state, currentSelectedCategory: category })} ariaLabel={"A list of buttons that make the carousel display my favorite items from the button's named category."} ariaControls={`carousel${carouselCounter - 1} categoryDescription`} />
