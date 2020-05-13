@@ -9,7 +9,7 @@ const pages = {
 	"Programming": "/Programming",
 	"Music": "/Music",
     "Computational Biology": "/ComputationalBiology",
-    "History": "/Histroy"
+    "History": "/History"
 };
 //List of page names
 const pageNames = Object.keys(pages);

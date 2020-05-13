@@ -46,7 +46,7 @@ const icons =
         path: "https://www.instagram.com/sidhantnp"
     }
 };
-const iconWidth = 100 / Object.keys(icons).length;
+const iconWidth = 100 / (Object.keys(icons).length);
 
 export default () => (
 	<footer>
