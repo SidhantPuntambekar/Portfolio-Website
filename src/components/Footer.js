@@ -8,7 +8,7 @@ const icons =
     email: 
     {
         icon: FaRegEnvelope,
-        path: "mailto:Sidhant.Puntambekar@colorado.edu"
+        path: "mailto:sidhantnp@yahoo.com"
     },
     phone:
     {
