@@ -224,9 +224,58 @@ export default () => (
                 <img height="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/208-PU-52-LL-12_%2834371208606%29.jpg/220px-208-PU-52-LL-12_%2834371208606%29.jpg" alt="Doolittle Medal of Honor"></img>
                 <figcaption>Doolittle receiving the Medal of Honor</figcaption>
             </figure>
-
+            <figure>
+                <img height="200" src="https://secure-images.rarenewspapers.com/ebayimgs/6.17.2015/image020.jpg" alt="LA Times Doolittle"></img>
+                <figcaption>Los Angeles Times headline about the Doolittle Raid</figcaption>
+            </figure>
+            <figure>
+                <img height="200" src="https://www.ibiblio.org/hyperwar/OnlineLibrary/photos/images/g320000/g324232.jpg" alt= "USS Enterprise Escort"></img>
+                <figcaption>USS Fanning escorting USS Enterprise on the Doolittle Raid</figcaption>
+            </figure>
             <h3>Battle of the Coral Sea: May 4th-8th, 1942</h3>
-            <i><b></b></i>
+            <i><b>Up to the time of Coral Sea, I had only read in Hemmingway's novels about "the sweet smell of death". The area was a full disaster, and I realized what the "sweet smell of death" really was. There were parts and particles; some ship, some shipmate.
+            <br></br>-Otis Knight, Seaman First Class, USS Yorktown</b></i>
+            <br></br>
+            <br></br>
+            <i><b>The Tulagi operation was certainly disappointing in terms of ammunition expended to results obtained
+            <br></br>-Fleet Admiral Chester Nimitz</b></i>
+            <br></br>
+            <br></br>
+            The Battle of the Coral Sea was the first aircraft carrier engagement in the Pacific War. The United States was looking to halt Japanese expansion in the Dutch East Indies and the Solomon Islands. Japan's future ambitions also included capturing Port Moresby in New Guinea and also the invasion of Australia. The Japanese Combined fleet-under Isoroku Yamamoto and Shigeyoshi Inoue-was dispatched to begin the operation to take Port Moresby. After intercepting the Japanese transmissions about Port Moresby, Admiral of the Pacific Chester Nimitz and Admiral Frank J. Fletcher scrambled Task Force 17 made up of aircraft carriers USS Yorktown and USS Lexington, cruisers Minneapolis, Astoria, New Orleans, Chester, Portland, HMAS Australia, HMAS Hobart, Chicago, and 13 destroyers. The superior Japanese force contained carriers Shokaku, Zuikaku, and Shoho, cruisers Tenryu, Tatsuma, Aoba, Furutaka, Kinugasa, Kako, Myoko, Haguro, and 15 destroyers. Before Task Force 17 made it into the Coral Sea, the Combined Fleet had invaded Tulagi island in the Solomon islands on May 3rd, 1942. On the morning of May 7th, Fletcher launched his strike aircraft from carriers Yorktown and Lexington. The SBD Dauntless dive and TBD Devastator torpedo bombers encountered the light carrier Shoho and sunk her. Meanwhile, Japanese airstrikes from Shokaku and Zuikaku had discovered destroyer Sims and fleet oiler Neosho. The Val dive bombers and Kate torpedo bombers had sunk Neosho and badly damaged Sims. Both aircraft carrier forces had not sighted each other on the first day. On May 8th, the US strike aircraft located the Japanese carriers Shokaku and Zuikaku. Shokaku had received three 1,000 lb bombs which severely damaged her flight and hangar deck. The decision was made to withdraw Shokaku. However, the Japanese strike aircraft had also sighted Yorktown and Lexington. Yorktown avoided the torpedo bomber assaults, but Lexington was hit with two Type 91 Long Lance torpedoes which ruptured her aviation fuel storage. Fuel vapors began to spread throughout the ship. Lexington then took two bomb hits which caused fires. Yorktown took a bomb hit that penetrated four decks and killed 66 men. Many of the Japanese strike aircraft were shot down by Yorktown and Lexington strike aircraft. Lexington suffered two massive explosions following the strike and began to list. Her men abandoned ship, and she was left to sink. Yorktown and the rest of Task Force 17 retreated south to New Caledonia, while the Combined Fleet retreated North to Truk Atoll. The United States took a major blow by losing one of its fleet carriers and not sinking one of the Japanese fleet carriers. However, the United States had prevented the capture of Port Moresby. Defense of the port was left to the British and the Australians. Coral Sea was a Japanese tactical victory, but a United States strategic victory. 
+            <br></br>
+            <figure>
+                <img height="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/USS_Yorktown_%28CV-5%29_during_the_Battle_of_the_Coral_Sea%2C_April_1942.jpg/220px-USS_Yorktown_%28CV-5%29_during_the_Battle_of_the_Coral_Sea%2C_April_1942.jpg" alt="Yorktown before battle"></img>
+                <figcaption>Yorktown before the battle</figcaption>
+            </figure>
+            <figure>
+                <img height="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Zuikaku_air_raid.jpg/220px-Zuikaku_air_raid.jpg" alt="Zuikaku air raid"></img>
+                <figcaption>Aircraft readying on Zuikaku</figcaption>
+            </figure>
+            <figure>
+                <img height="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Coral_Sea_Neosho_Burning.jpg/220px-Coral_Sea_Neosho_Burning.jpg" alt="Neosho burning"></img>
+                <figcaption>Neosho on fire and sinking</figcaption>
+            </figure>
+            <figure>
+                <img height="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Shoho_g17026.jpg/220px-Shoho_g17026.jpg" alt="Shoho on fire"></img>
+                <figcaption>Shoho on fire and sinking</figcaption>
+            </figure>
+            <figure>
+                <img height="200" src="https://upload.wikimedia.org/wikipedia/commons/8/81/Zero_launching_from_a_Japanese_carrier.jpg" alt="Japanese Zero launching"></img>
+                <figcaption>Zeroes depart from Shokaku to strike the US carriers</figcaption>
+            </figure>
+            <figure>
+                <img height="200" src="https://pacificeagles.net/wp-content/uploads/2017/08/Lexington-sinking-in-Coral-Sea-678x381.jpg" alt="Lexington sinking"></img>
+                <figcaption>Lexington abandoned and sinking</figcaption>
+            </figure>
+            <figure>
+                <img height="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/USS_Yorktown_%28CV-5%29_in_a_dry_dock_at_the_Pearl_Harbor_Naval_Shipyard%2C_29_May_1942_%2880-G-13065%29.jpg/220px-USS_Yorktown_%28CV-5%29_in_a_dry_dock_at_the_Pearl_Harbor_Naval_Shipyard%2C_29_May_1942_%2880-G-13065%29.jpg" alt="Yorktown undergoing repairs"></img>
+                <figcaption>Yorktown undergoing repairs for Midway</figcaption>
+            </figure>
+            <figure>
+                <img height="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Coral_Sea_Japanese_Type_99.jpg/220px-Coral_Sea_Japanese_Type_99.jpg" alt="Japanese Dive Bombers search for US fleet"></img>
+                <figcaption>Japanese "Val" Dive Bombers head towards the US carriers</figcaption>
+            </figure>
+            <h3>Battle of Midway: June 4-7, 1942</h3>
         </p>
     </Layout>
 )
