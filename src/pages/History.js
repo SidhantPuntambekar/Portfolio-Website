@@ -275,7 +275,7 @@ export default () => (
                 <img height="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Coral_Sea_Japanese_Type_99.jpg/220px-Coral_Sea_Japanese_Type_99.jpg" alt="Japanese Dive Bombers search for US fleet"></img>
                 <figcaption>Japanese "Val" Dive Bombers head towards the US carriers</figcaption>
             </figure>
-            <h3>Battle of Midway: June 4-7, 1942</h3>
+            <h3>Battle of Midway: June 4th - 7th, 1942</h3>
         </p>
     </Layout>
 )
