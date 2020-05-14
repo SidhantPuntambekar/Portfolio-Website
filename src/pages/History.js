@@ -1,5 +1,6 @@
 import React from "react"
 import Layout from "../components/Layout"
+import "../styles/History.css"
 
 export default () => (
     <Layout>
@@ -19,6 +20,39 @@ export default () => (
             <br></br>
             <br></br>
             The origins of the Pacific War can be traced all the way back to the end of World War I in 1918 during the Treaty of Versailles negotiations. Japan and the US had fought as the Allies with Britain, France, and Russia (pulled out in 1917) during World War I. They faced the Central Powers who were Germany, Austria-Hungary, Bulgaria, and the Ottoman Empire. As a result of the talks, Germany was forced to make reparation payments to all of the allied powers except for two nations: Russia and Japan. Japan, after being shunned by the Allies at the Versailles conference, were deeply angered. During the 1920s, Japan started to build up its army with fresh recruits, its navy with new, fast ships, and its air wing with new fighter and bomber variants. As Hitler came to power in Germany during the 1920s and 1930s, the power of the Japanese government had switched from the Emperor to military generals and admirals. They formed an oligarchy and kept the Emperor out from any military affairs. The armed forces in Japan had ultimate control and decided what the country was going to do during the Pacific War. These generals kept the Emperor Hirohito as a figurehead of the government. One of these generals who grabbed the reigns of power was Hideki Tōjō. Tōjō was born in the Kōjimachi district of Tokyo in 1884. Tōjō was born into a military family and joined the army in 1905. He joined the army in the closing days of the Russo-Japanese War in 1905. In 1934, Tōjō was promoted to the rank of major general. He was strongly opposed to the coup that was planned in 1936 on the Emperor. In 1937, Tōjō led the invasion on the Chinese province of Manchuria along with generals Shigeru Honjō, Jirō Tamon, and Senjuro Hayashi. The 7th Japanese division entering Manchuria was numbered at 60,450 men facing off against a 160,000 man Chinese resistance. The Japanese force under Tamon attacked southern Manchuria in 1931 with the Jinzhou operation and occupied the city of Jinzhou and Nanjing. The Chinese government, led by Chiang Kai Shek was forced to resign and the Japanese took most of southern Manchuria. A northern offensive in early 1932 by Tamon raided the city of Harbin and completed the invasion. The Chinese leader in the north, Ma Zhanshan was forced to join the new Japanese backed government in Manchuria. The invasion of Manchuria proved to be the first offensive grab by Japan into Asia and the Pacific. The blitzkrieg of Japanese troops took the Chinese completely by surprise and led to the outbreak of the Second Sino-Japanese war which began in 1937. 
+            <br></br>
+            <figure>
+                <img border="0" height="200" src="https://upload.wikimedia.org/wikipedia/commons/f/f0/Hideki_Tojo.jpg" alt="Tojo" width="156"></img>
+                <figcaption>Tojo Hideki</figcaption>
+            </figure> 
+            <figure>
+                <img border="0" height="200" src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Tamon_Jiro.jpg" alt="Jiro" width="116"></img>
+                <figcaption>Jiro Tamon</figcaption>
+            </figure>
+            <figure>
+                <img border="0" height="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Shigeru_Honjo.jpg/220px-Shigeru_Honjo.jpg" alt="Shigeru" width="158"></img>
+                <figcaption>Shigeru Honjo</figcaption>
+            </figure>
+            <figure>
+                <img border="0" height="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Senjuro_Hayashi_suit.jpg/220px-Senjuro_Hayashi_suit.jpg" alt="Senjuro" width="134"></img>
+                <figcaption>Senjuro Hayashi</figcaption>
+            </figure>
+            <figure>
+                <img border="0" height="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Chiang_Kai-shek%EF%BC%88%E8%94%A3%E4%B8%AD%E6%AD%A3%EF%BC%89.jpg/220px-Chiang_Kai-shek%EF%BC%88%E8%94%A3%E4%B8%AD%E6%AD%A3%EF%BC%89.jpg" alt="Chiang Kai-Shek" width="150"></img>
+                <figcaption>Chiang Kai-Shek</figcaption>
+            </figure>
+            <figure>
+                <img border="0" height="200" src="http://vignette4.wikia.nocookie.net/totalwar-ar/images/8/80/Ma_Zhanshan.jpg/revision/latest?cb=20160829185254" alt="Ma" width="140"></img>
+                <figcaption>Ma Zhanshan</figcaption>
+            </figure>
+            <figure>
+                <img border="0" height="200" src="https://lyndenpacifictheater.files.wordpress.com/2014/04/ija_infantry_in_manchuria.jpg" alt="Japanese soldiers enter Manchuria"></img>
+                <figcaption>Japanese soldiers enter Manchuria.</figcaption>
+            </figure>
+            <figure>
+                <img border="0" height="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Mukden_1931_japan_shenyang.jpg/250px-Mukden_1931_japan_shenyang.jpg" alt="Shneyang"></img>
+                <figcaption>Japanese soldiers enter the city of Shenyang following the Mukden incident.</figcaption>
+            </figure>
 
             <h3>Second Sino-Japanese War: 1939-1945</h3>
             <i><b>Keep men, lose land: land can be taken again. Keep land, lose men: land and men are both lost.
@@ -30,6 +64,39 @@ export default () => (
             <br></br>
             <br></br>
             The Japanese invasion of Manchuria in 1937 became the precursor to the Second Sino-Japanese War which marked a six year conflict between China and Japan. For hundreds of years, China and Japan had been at each other's throats. This war with Japan and China had become more mechanized and deadly than previous wars. The Japanese took Manchuria and thus kept it until 1945 when the USSR invaded it. The war started initially with Japan taking over cities such as Harbin and Shanghai. Chiang Kai-Shek in response took a force and surrounded the Japanese International Settlement in Shanghai. The siege became a full scale battle and turned into the Battle of Shanghai. The Chinese launched airstrikes which hit the settlement. In response, the aircraft carrier force of the Japanese Navy launched many sorties into China. The fledgling Chinese Air Force was old and was comprised of World War I era biplanes. They were no match for the industrialized Japanese Air Force and Naval Air Arm which comprised of fast fighters and bombers. Examples were the Mitsubishi G4M "Betty" and the Nakajima Ki-27 "Nate". Many Chinese leaders knew that they would lose the war if the Japanese Navy and Air Force choked their supply lines from India and Burma. Chiang Kai-Shek made a deal with the General Claire Lee Chennault of the US Air Force. Chennault vowed to provide the Chinese with American pilots and planes to help address the Japanese atrocities. The American Volunteer Group or AVG was formed and became known throughout the world as the Flying Tigers. The Flying Tigers were the first time that Americans fought the Japanese in combat. The American and Chinese pilots accounted for 300 aerial victories in the new P-40 Warhawk. The skill of these pilots took the Japanese completely by surprise and caused them to halt bombings in mainland China. One of the major events of the Sino-Japanese War was the Nanking Massacre. After Japanese occupiers took control of the city of Nanking, they proceeded to rape and kill over 40,000-300,000 people. The Japanese showed their brutality to the world after the event became publicized. The world was shocked at what happened and remains one of the darkest periods in Chinese and world history. The war also marked the growing divide of the Communist party of China and the Nationalist party. Mao Zedong rose as one of the leading figures of the Communist party and Chiang Kai-Shek led the Nationalist party. After World War II, Mao Zedong and Chiang Kai-Shek would go to war over the idea of communism and would lead to a change in Chinese politics that continues into the modern era. The Second Sino-Japanese War marked the precursor to many events in Asia and the Pacific War as a whole.
+            <br></br>
+            <figure>
+                <img border="0" height="140" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Shanghai1937KMT_machine_gun_nest.jpg/240px-Shanghai1937KMT_machine_gun_nest.jpg" alt="Chinese MG nest" width="200"></img>
+                <figcaption>Chinese Machine Gun Nest.</figcaption>
+            </figure>
+            <figure>
+                <img border="0" height="194" src="https://s-media-cache-ak0.pinimg.com/236x/09/73/a0/0973a098322540b5e22d526c7545532f.jpg" alt="Biplane" width="200"></img>
+                <figcaption>Chinese Air Force Biplane.</figcaption>
+            </figure>
+            <figure>
+                <img border="0" height="183" src="http://upload.wikimedia.org/wikipedia/commons/5/58/Ki-27_2.jpg" alt="Nate" width="400"></img>
+                <figcaption>Japanese Ki-27 "Nate"</figcaption>
+            </figure>
+            <figure>
+                <img border="0" height="200" src="https://www.lonestarflight.org/public/styles/pilot_photo/public/Chenault.jpg?itok=2EHcZkE1&c=432d387b05e96742db18c76bb04d4bf7" alt="Chennault"></img>
+                <figcaption>Claire Lee Chennault</figcaption>
+            </figure>
+            <figure>
+                <img border="0" height="179" src="http://i2.cdn.cnn.com/cnnnext/dam/assets/160920082228-flying-tigers-3rd-squadron-hells-angels-exlarge-169.jpg" alt="Flying Tigers" width="320"></img>
+                <figcaption>Flying Tigers</figcaption>
+            </figure>
+            <figure>
+                <img border="0" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Nanking_bodies_1937.jpg/300px-Nanking_bodies_1937.jpg" alt="Nanking"></img>
+                <figcaption>Nanking after the Massacre</figcaption>
+            </figure>
+            <figure>
+                <img border="0" height="320" src="https://tshaonline.org/sites/default/files/images/handbook/CC/chennault_kai-shek.jpg" alt="Chennault+Chiang Kai-Shek" width="224"></img>
+                <figcaption>Claire Chennault and Chiang Kai-Shek</figcaption>
+            </figure>
+            <figure>
+                <img border="0" height="300" src="http://footage.framepool.com/shotimg/qf/114577171-cultural-revolution-japanese-flag-mao-zedong-second-sino-japanese-war.jpg" alt="Mao" width="400"></img>
+                <figcaption>A young Mao Zedong</figcaption>
+            </figure>
 
             <h3>Japanese Moves In the Pacific: 1940-1942</h3>
             After the successful invasion of China, Japan was eager to extend its empire across the Pacific. Japan as an island nation, needed to expand and conquer many other nations to keep their war machine going. Their ships, planes, and army needed oil to continue to function. An invasion across the Pacific would also give them notoriety, and gain the attention of Germany and Italy. In 1940, the Japanese started their campaign. They invaded Vichy French Indochina which comprised of present day Vietnam, Cambodia, and Laos. The French had turned the colony into a natural resources base which supplied rubber and tea. A few days after the invasion, Japan withdrew from the League of Nations and signed a military alliance with Germany and Italy thus forming the Axis Powers. The Japanese then moved on to Malaya, Singapore, and the Dutch East Indies. These nations had big oil reserves, and provided the Japanese a base to anchor ships, and to conduct their offensives into India, Australia, and the South Pacific. As a response, the US, Australia, France, Britain, and the Netherlands imposed a natural resource embargo on Japan. After the embargo, the Japanese further expanded into the Caroline, Gilbert, Solomons, and Marianas islands. With their territorial gains, the Allied powers knew that war would be imminent with Japan. 
@@ -59,7 +126,7 @@ export default () => (
             <br></br>-Lt. Col James Doolittle, US Air Force</b></i>
             <br></br>
             <br></br>
-            <i><b>Those bombers must have came from 'our new base in Shangri-La'
+            <i><b>Those bombers must have come from 'our new base in Shangri-La'
             <br></br>-Franklin Roosevelt in response to a question on the Doolittle Raid</b></i>
             <br></br>
             <br></br>
