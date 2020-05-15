@@ -3,6 +3,6 @@ import Layout from "../components/Layout";
 
 export default () => (
     <Layout>
-        <p>Check out my resume at this link: <a href="./ResumePuntambekarWebsite.pdf">Resume</a> or my GitHub at: <a href="https://www.github.com/SidhantPuntambekar">GitHub</a></p>
+        <p>Check out my resume at this link: <a href="./static/ResumePuntambekarWebsite.pdf">Resume</a> or my GitHub at: <a href="https://www.github.com/SidhantPuntambekar">GitHub</a></p>
     </Layout>
 )
