@@ -24,7 +24,7 @@ function CarouselItem(name, imageUrl, description)
 const carouselInformation = [
     new CarouselInformation(
         "Programming Languages",
-        "I like to write code to optimize the solution to a certain problem. My favorite programming languages often use object oriented principles but I often like using languages that can be used to model scientific situations.",
+        "I like to write code to optimize the solution to a certain problem. My favorite programming languages use object oriented principles but I often like using languages that can be used to model scientific situations.",
         [
             new CarouselItem(
                 "Python",
