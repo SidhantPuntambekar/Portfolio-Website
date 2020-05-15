@@ -185,7 +185,7 @@ class App extends React.Component {
 					Welcome to my portfolio website! My name is Sidhant Puntambekar and I am 
                     currently a freshman undergraduate at the University of Colorado, Boulder. I am currently majoring in Computer Science
                     and plan to minor in Molecular, Cellular, and Developmental Biology and Computational Biology. While my main passions are in the areas of Computer Science and
-                    Molecular Biology, I am enfatuated with learning about all subject areas. Some of my other favorite activities are chess, 
+                    Molecular Biology, I am infatuated with learning about all subject areas. Some of my other favorite activities are chess, 
                     reading up on military history, playing the guitar, playing the drums, and doing Tae Kwon Do. I also enjoy listening 
                     to music and watching movies.
 				</p>
