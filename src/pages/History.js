@@ -314,6 +314,10 @@ export default () => (
                 <img height="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Midway_survivor_on_PBY.jpg/220px-Midway_survivor_on_PBY.jpg"></img>
                 <figcaption>A rescued US airman on Midway Atoll</figcaption>
             </figure>
+            <figure>
+                <img height="200" src="https://cbsnews3.cbsistatic.com/hub/i/r/2017/06/02/7f602f2c-abae-44b3-9dd4-0b552ff67cbc/thumbnail/1200x630/d148571a7048d8f11ae09d34b30c0b30/battle-of-midway-dive-bombers-attack-japanese-ship-nara.jpg"></img>
+                <figcaption>Douglas SBD Dauntless dive bombers prepare to attack cruiser Mikuma</figcaption>
+            </figure>
         </p>
     </Layout>
 )
