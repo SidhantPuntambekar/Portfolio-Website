@@ -288,15 +288,15 @@ export default () => (
             <br></br>
             <figure>
                 <img height="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Aerial_view_of_Midway_Atoll_on_24_November_1941_%2880-G-451086%29.jpg/220px-Aerial_view_of_Midway_Atoll_on_24_November_1941_%2880-G-451086%29.jpg"></img>
-                <figcaption>Midway Atoll several months before the battle. The army airfield on the atoll is clearly visible.</figcaption>
+                <figcaption>Midway Atoll several months before the battle.</figcaption>
             </figure>
             <figure>
                 <img height="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/AkagiDeckApril42.jpg/220px-AkagiDeckApril42.jpg"></img>
-                <figcaption>Japanese carrier Akagi served as the flagship of the invasion fleet before she was sunk by US dive bombers.</figcaption>
+                <figcaption>Japanese carrier Akagi served as Japanese flagship.</figcaption>
             </figure>
             <figure>
                 <img height="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Douglas_TBD-1_Devastators_of_VT-6_are_spotted_for_launch_aboard_USS_Enterprise_%28CV-6%29_on_4_June_1942_%2880-G-41686%29.jpg/220px-Douglas_TBD-1_Devastators_of_VT-6_are_spotted_for_launch_aboard_USS_Enterprise_%28CV-6%29_on_4_June_1942_%2880-G-41686%29.jpg"></img>
-                <figcaption>TBD Devestator Torpedo bombers from VT-6 ready on the flight deck on USS Enterprise to attack the Japanese fleet.</figcaption>
+                <figcaption>TBD Devestator torpedo bombers on the flight deck on USS Enterprise.</figcaption>
             </figure>
             <figure>
                 <img height="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/USS_Yorktown_%28CV-5%29_is_hit_by_a_torpedo_on_4_June_1942.jpg/220px-USS_Yorktown_%28CV-5%29_is_hit_by_a_torpedo_on_4_June_1942.jpg"></img>
