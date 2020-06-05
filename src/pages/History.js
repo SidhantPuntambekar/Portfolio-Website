@@ -308,7 +308,7 @@ export default () => (
             </figure>
             <figure>
                 <img height="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Japanese_heavy_cruiser_Mikuma_sinking_on_6_June_1942_%2880-G-414422%29.jpg/220px-Japanese_heavy_cruiser_Mikuma_sinking_on_6_June_1942_%2880-G-414422%29.jpg"></img>
-                <figcaption>Mikuma sinking after attacks from SBD Dauntless dive bombers and US submarine Tambor</figcaption>
+                <figcaption>Mikuma sinking after attacks from dive bombers and USS Tambor</figcaption>
             </figure>
             <figure>
                 <img height="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Midway_survivor_on_PBY.jpg/220px-Midway_survivor_on_PBY.jpg"></img>
@@ -319,6 +319,7 @@ export default () => (
                 <figcaption>Douglas SBD Dauntless dive bombers prepare to attack cruiser Mikuma</figcaption>
             </figure>
         </p>
+
         <h2>The Solomon Islands Campaign</h2>
         <p>
             <h3>Battle of Tulagi and Gavutu- Tanambogo</h3>
