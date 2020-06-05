@@ -319,5 +319,9 @@ export default () => (
                 <figcaption>Douglas SBD Dauntless dive bombers prepare to attack cruiser Mikuma</figcaption>
             </figure>
         </p>
+        <h2>The Solomon Islands Campaign</h2>
+        <p>
+            <h3>Battle of Tulagi and Gavutu- Tanambogo</h3>
+        </p>
     </Layout>
 )
