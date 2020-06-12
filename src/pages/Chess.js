@@ -10,5 +10,8 @@ export default () =>
         Welcome to the chess page of my website. This page is meant to highlight my favorite chess games throuhgout the years.
         </p>
         <h2>1972 World Chess Championship</h2>
+        <p>
+            
+        </p>
     </Layout>
 )
