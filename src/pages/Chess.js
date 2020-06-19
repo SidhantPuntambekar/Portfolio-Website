@@ -16,7 +16,7 @@ export default () =>
             <br></br>-Jim Slater</b></i>
             <br></br>
             <br></br>
-            The 1972 World Chess Championship was played between World Chess Champion Boris Vasiljevic Spassky of the Soviet Union and Challenger Robert James Fischer of the United States. It was held in Reykjavik, Iceland during the height of the Cold War. Previously, Spassky had won the Candidates tournament of 1966 and 1969 and faced World Champion Tigran Petrosian losing to him in 1966 by a margin of 12<sup>1</sup>&frasl;<sup>2</sup> to 11<sup>1</sup>&frasl;<sup>2</sup> and beating him in 1969 by a margin of 12<sup>1</sup>&frasl;<sup>2</sup> to 10<sup>1</sup>&frasl;<sup>2</sup>. Spassky was known as a player that 
+            The 1972 World Chess Championship was played between World Chess Champion Boris Vasiljevic Spassky of the Soviet Union and Challenger Robert James Fischer of the United States. It was held in Reykjavik, Iceland during the height of the Cold War. Previously, Spassky had won the Candidates tournament of 1966 and 1969 and faced World Champion Tigran Petrosian losing to him in 1966 by a margin of 12<sup>1</sup>&frasl;<sup>2</sup> to 11<sup>1</sup>&frasl;<sup>2</sup> and beating him in 1969 by a margin of 12&frac12; to 10&frac12;. Spassky was known as a player that 
             <figure>
                 <img height = "200" src = "https://d53j7mnhlzrdg.cloudfront.net/series/best-games-of-boris-spassky.jpg"></img>
                 <figcaption>Boris Vasiljevic Spassky, World Chess Defending Champion, USSR</figcaption>
