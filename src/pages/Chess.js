@@ -81,7 +81,7 @@ export default () =>
                 <figcaption>GM Lothar Schmid starts the clock with Fischer absent.</figcaption>
             </figure>
             <figure>
-                <img height = "200" src = "https://upload.https://www.nysun.com/pics/3985.jpg.org/wikipedia/commons/thumb/3/34/Bobby_Fischer_1972.jpg/200px-Bobby_Fischer_1972.jpg"></img>
+                <img height = "200" src = "https://images.csmonitor.com/csmarchives/2011/09/0916-Bobby-Fischer-review.jpg?alias=standard_900x600"></img>
                 <figcaption>Fischer arrives late and he and Spassky shake</figcaption>
             </figure>
             <figure>
@@ -94,6 +94,10 @@ export default () =>
             </figure>
             <br></br>
             <br></br>
+            <h3>Game 3: Modern Benoni, Classical Main Line (A77)</h3>
+            <b>Move Order: 1.d4 Nf6 2.c4 e6 3.Nf3 c5 4.d5 exd5 5.cxd5 d6 6.Nc3 g6 7.Nd2 Nbd7 8.e4 Bg7 9.Be2 0-0 10.0-0 Re8 11.Qc2 Nh5 (diagram) 12.Bxh5 gxh5 13.Nc4 Ne5 14.Ne3 Qh4 15.Bd2 Ng4 16.Nxg4 hxg4 17.Bf4 Qf6 18.g3 Bd7 19.a4 b6 20.Rfe1 a6 21.Re2 b5 22.Rae1 Qg6 23.b3 Re7 24.Qd3 Rb8 25.axb5 axb5 26.b4 c4 27.Qd2 Rbe8 28.Re3 h5 29.R3e2 Kh7 30.Re3 Kg8 31.R3e2 Bxc3 32.Qxc3 Rxe4 33.Rxe4 Rxe4 34.Rxe4 Qxe4 35.Bh6 Qg6 36.Bc1 Qb1 37.Kf1 Bf5 38.Ke2 Qe4+ 39.Qe3 Qc2+ 40.Qd2 Qb3 41.Qd4 Bd3+</b>
+            <br></br>
+            <b><a href="http://www.chessgames.com/perl/chessgame?gid=1044727">Game Link</a></b>
         </p>
     </Layout>
 )
