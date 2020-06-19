@@ -74,6 +74,26 @@ export default () =>
             <br></br>
             <br></br>
             <b>The score following Game 1 in the 1972 World Chess Championship is now 1 - 0 in favor of Spassky.</b>
+            <br></br>
+            <br></br>
+            <figure>
+                <img height = "200" src = "https://en.chessbase.com/Portals/all/thumbs/066/66585.jpeg"></img>
+                <figcaption>GM Lothar Schmid starts the clock with Fischer absent.</figcaption>
+            </figure>
+            <figure>
+                <img height = "200" src = "https://upload.https://www.nysun.com/pics/3985.jpg.org/wikipedia/commons/thumb/3/34/Bobby_Fischer_1972.jpg/200px-Bobby_Fischer_1972.jpg"></img>
+                <figcaption>Fischer arrives late and he and Spassky shake</figcaption>
+            </figure>
+            <figure>
+                <img height = "200" src = "https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/pete/phpEwVnvI.jpeg"></img>
+                <figcaption>Fischer captures a piece</figcaption>
+            </figure>
+            <figure>
+                <img height = "200" src = "https://en.chessbase.com/portals/4/files/news/2012/fischer09-spassky.jpg"></img>
+                <figcaption>Fischer blunders his bishop which loses the game.</figcaption>
+            </figure>
+            <br></br>
+            <br></br>
         </p>
     </Layout>
 )
