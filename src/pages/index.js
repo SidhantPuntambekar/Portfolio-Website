@@ -132,7 +132,7 @@ const carouselInformation = [
 	new CarouselInformation
 	(
 		"Movies",
-		"My favorite genre of movie is action and adventure movies.",
+		"My favorite genre of movie is action and adventure.",
 		[
 			new CarouselItem(
 				"James Bond Series from EON Productions",
