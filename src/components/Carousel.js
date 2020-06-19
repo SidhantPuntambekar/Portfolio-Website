@@ -10,41 +10,36 @@ class Carousel extends React.Component {
 		this.state = {
 			currentItemIndex: 0
 		};
-		this.carouselNumber = carouselCounter;
-		carouselCounter++;
 		this.oldItemIndex = null;
-		this.changeDirection = null;
 	}
 
 	movePosition(amount) {
 		this.oldItemIndex = this.state.currentItemIndex;
-		this.changeDirection = amount > 0? "rtl" : "ltr";
 		this.setState({
 			...this.state,
 			currentItemIndex: this.state.currentItemIndex + amount
 		});
 	}
 
-	componentWillUpdate(nextProps, nextState, nextContext) {
-		const numberChildren = React.Children.toArray(nextProps.children).length;
-		if (nextProps.children !== this.props.children) {
-			this.changeDirection = null;
+	componentDidUpdate(prevProps, prevState, snapshot) {
+		const numberChildren = React.Children.toArray(this.props.children).length;
+		if (this.props.children !== prevProps.children) {
 			this.oldItemIndex = null;
 		}
-		let newPosition = nextState.currentItemIndex % numberChildren;
+		let newPosition = this.state.currentItemIndex % numberChildren;
 		while (newPosition < 0) {
 			newPosition += numberChildren;
 		}
-		if (nextState.currentItemIndex !== newPosition) {
+		if (this.state.currentItemIndex !== newPosition) {
 			this.setState({
-				...nextState,
+				...this.state,
 				currentItemIndex: newPosition
 			});
 		}
 	}
 
 	render() {
-		const id = `carousel${this.carouselNumber}`;
+		const id = `carousel${this.props.title}`;
 		const makeCarouselControls = () => (
 			<fieldset className={"carouselControlBox"} aria-label={"carousel controls"} aria-controls={id}>
 				<button className={"carouselControl"} onClick={() => this.movePosition(-1)} aria-label={"previous"}>&#10094;</button>
@@ -54,19 +49,17 @@ class Carousel extends React.Component {
 		return <div className={"carousel"} id={id} aria-live={"polite"}>
 			<h3>{this.props.title}</h3>
 			{makeCarouselControls()}
-			<ul className={"carouselContent"}>{
+			<ul className={"carouselContentList"}>{
 				React.Children.toArray(this.props.children).map((child, index) => {
-					let className = this.state.currentItemIndex === index? "" : "hiddenCarouselItem";
+					let childContainerClassName = this.state.currentItemIndex === index ? "" : "hidden";
 					let style = {};
-					if (this.changeDirection !== null && [this.state.currentItemIndex, this.oldItemIndex].includes(index)) {
-						className = "animation";
-						if (index === this.state.currentItemIndex) {
-							style["--animation-name"] = "enter" + (this.changeDirection === "rtl"? "Right" : "Left");
-						} else {
-							style["--animation-name"] = "exit" + (this.changeDirection === "rtl"? "Left" : "Right");
-						}
+					if (this.oldItemIndex !== null && [this.state.currentItemIndex, this.oldItemIndex].includes(index)) {
+						childContainerClassName = "animation";
+						style["--animation-name"] = index === this.state.currentItemIndex ? "fadeIn" : "fadeOut";
 					}
-					return <li aria-hidden={index !== this.state.currentItemIndex} className={className} style={style}>{child}</li>
+					return <li aria-hidden={index !== this.state.currentItemIndex} className={"carouselItem"} key={index}>
+						<div className={childContainerClassName} style={style}>{child}</div>
+					</li>
 				})
 			}</ul>
 			{makeCarouselControls()}
