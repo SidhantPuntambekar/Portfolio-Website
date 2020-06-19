@@ -9,17 +9,28 @@ root {
 	justify-content: space-between;
 }
 
-.carouselContent {
+.carouselContentList {
 	list-style: none;
 	min-height: 500px;
 	display: flex;
 	flex-direction: column;
-	justify-content: left;
-	overflow: hidden;
+	justify-content: center;
 }
 
-.hiddenCarouselItem {
+.carouselItem {
+	position: absolute;
+}
+
+.hiddenCarouselContent {
 	display: none;
+}
+
+.animation {
+	position: relative;
+	animation-duration: 0.5s;
+	animation-timing-function: ease-out;
+	animation-fill-mode: forwards;
+	animation-name: var(--animation-name);
 }
 
 .carouselControlBox {
@@ -45,43 +56,20 @@ root {
 	cursor: pointer;
 }
 
-.animation {
-	animation-duration: 1s;
-	animation-name: var(--animation-name);
-}
-
-@keyframes exitLeft {
+@keyframes exit {
 	from {
-		margin-left: 0;
+		opacity: 1;
 	}
 	to {
-		width: 0;
+		opacity: 0;
 	}
 }
 
-@keyframes enterLeft {
+@keyframes enter {
 	from {
-		margin-left: 100%;
+		opacity: 0;
 	}
 	to {
-		margin-left: 0;
-	}
-}
-
-@keyframes exitRight {
-	from {
-		margin-right: 0;
-	}
-	to {
-		margin-left: 100%;
-	}
-}
-
-@keyframes enterRight {
-	from {
-		margin-right: 100%;
-	}
-	to {
-		margin-right: 0;
+		opacity: 1;
 	}
 }

@@ -1,6 +1,7 @@
 import React from "react";
 import "../styles/Carousel.css";
 
+
 export let carouselCounter = 0;
 
 class Carousel extends React.Component {
@@ -10,6 +11,8 @@ class Carousel extends React.Component {
 		this.state = {
 			currentItemIndex: 0
 		};
+		this.carouselNumber = carouselCounter;
+		carouselCounter++;
 		this.oldItemIndex = null;
 	}
 
@@ -21,25 +24,25 @@ class Carousel extends React.Component {
 		});
 	}
 
-	componentDidUpdate(prevProps, prevState, snapshot) {
-		const numberChildren = React.Children.toArray(this.props.children).length;
-		if (this.props.children !== prevProps.children) {
+	componentWillUpdate(nextProps, nextState, nextContext) {
+		const numberChildren = React.Children.toArray(nextProps.children).length;
+		if (nextProps.children !== this.props.children) {
 			this.oldItemIndex = null;
 		}
-		let newPosition = this.state.currentItemIndex % numberChildren;
+		let newPosition = nextState.currentItemIndex % numberChildren;
 		while (newPosition < 0) {
 			newPosition += numberChildren;
 		}
-		if (this.state.currentItemIndex !== newPosition) {
+		if (nextState.currentItemIndex !== newPosition) {
 			this.setState({
-				...this.state,
+				...nextState,
 				currentItemIndex: newPosition
 			});
 		}
 	}
 
 	render() {
-		const id = `carousel${this.props.title}`;
+		const id = `carousel${this.carouselNumber}`;
 		const makeCarouselControls = () => (
 			<fieldset className={"carouselControlBox"} aria-label={"carousel controls"} aria-controls={id}>
 				<button className={"carouselControl"} onClick={() => this.movePosition(-1)} aria-label={"previous"}>&#10094;</button>
@@ -51,13 +54,13 @@ class Carousel extends React.Component {
 			{makeCarouselControls()}
 			<ul className={"carouselContentList"}>{
 				React.Children.toArray(this.props.children).map((child, index) => {
-					let childContainerClassName = this.state.currentItemIndex === index ? "" : "hidden";
+					let childContainerClassName = this.state.currentItemIndex === index ? "" : "hiddenCarouselContent";
 					let style = {};
 					if (this.oldItemIndex !== null && [this.state.currentItemIndex, this.oldItemIndex].includes(index)) {
 						childContainerClassName = "animation";
-						style["--animation-name"] = index === this.state.currentItemIndex ? "fadeIn" : "fadeOut";
+						style["--animation-name"] = index === this.state.currentItemIndex ? "enter" : "exit";
 					}
-					return <li aria-hidden={index !== this.state.currentItemIndex} className={"carouselItem"} key={index}>
+					return <li aria-hidden={index !== this.state.currentItemIndex} className={"carouselItem"}>
 						<div className={childContainerClassName} style={style}>{child}</div>
 					</li>
 				})
