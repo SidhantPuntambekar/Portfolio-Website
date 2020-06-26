@@ -47,7 +47,7 @@ export default () =>
             <br></br>
             <br></br>
             <h3>Game 1: Nimzo-Indian Defense, Normal Variation. Gligoric System, Bernstein Defense (E56)</h3>
-            <b>Move Order: 1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 Bb4 5.e3 0-0 6.Bd3 c5 7.0-0 Nc6 8.a3 Ba5 9.Ne2 dxc4 10.Bxc4 Bb6 11.dxc5 Qxd1 12.Rxd1 Bxc5 13.b4 Be7 14.Bb2 Bd7 15.Rac1 Rfd8 16.Ned4 Nxd4 17.Nxd4 Ba4 18.Bb3 Bxb3 19.Nxb3 Rxd1+ 20.Rxd1 Rc8 21.Kf1 Kf8 22.Ke2 Ne4 23.Rc1 Rxc1 24.Bxc1 f6 25.Na5 Nd6 26.Kd3 Bd8 27.Nc4 Bc7 28.Nxd6 Bxd6 29.b5 Bxh2 30.g3 h5 31.Ke2 h4 32.Kf3 Ke7 33.Kg2 hxg3 34.fxg3 Bxg3 35.Kxg3 Kd6 36.a4 Kd5 37.Ba3 Ke4 38.Bc5 a6 39.b6 f5 40.Kh4 f4 41.exf4 Kxf4 42.Kh5 Kf5 43.Be3 Ke4 44.Bf2 Kf5 45.Bh4 e5 46.Bg5 e4 47.Be3 Kf6 48.Kg4 Ke5 49.Kg5 Kd5 50.Kf5 a5 51.Bf2 g5 52.Kxg5 Kc4 53.Kf5 Kb4 54.Kxe4 Kxa4 55.Kd5 Kb5 56.Kd6</b>
+            <b>Move Order: 1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 Bb4 5.e3 0-0 6.Bd3 c5 7.0-0 Nc6 8.a3 Ba5 9.Ne2 dxc4 10.Bxc4 Bb6 11.dxc5 Qxd1 12.Rxd1 Bxc5 13.b4 Be7 14.Bb2 Bd7 15.Rac1 Rfd8 16.Ned4 Nxd4 17.Nxd4 Ba4 18.Bb3 Bxb3 19.Nxb3 Rxd1+ 20.Rxd1 Rc8 21.Kf1 Kf8 22.Ke2 Ne4 23.Rc1 Rxc1 24.Bxc1 f6 25.Na5 Nd6 26.Kd3 Bd8 27.Nc4 Bc7 28.Nxd6 Bxd6 29.b5 Bxh2 30.g3 h5 31.Ke2 h4 32.Kf3 Ke7 33.Kg2 hxg3 34.fxg3 Bxg3 35.Kxg3 Kd6 36.a4 Kd5 37.Ba3 Ke4 38.Bc5 a6 39.b6 f5 40.Kh4 f4 41.exf4 Kxf4 42.Kh5 Kf5 43.Be3 Ke4 44.Bf2 Kf5 45.Bh4 e5 46.Bg5 e4 47.Be3 Kf6 48.Kg4 Ke5 49.Kg5 Kd5 50.Kf5 a5 51.Bf2 g5 52.Kxg5 Kc4 53.Kf5 Kb4 54.Kxe4 Kxa4 55.Kd5 Kb5 56.Kd6 1 - 0</b>
             <br></br>
             <b><a href="https://www.chessgames.com/perl/chessgame?gid=1044722">Game Link</a></b>
             <br></br>
@@ -95,7 +95,7 @@ export default () =>
             <br></br>
             <br></br>
             <h3>Game 3: Modern Benoni, Classical Main Line (A77)</h3>
-            <b>Move Order: 1.d4 Nf6 2.c4 e6 3.Nf3 c5 4.d5 exd5 5.cxd5 d6 6.Nc3 g6 7.Nd2 Nbd7 8.e4 Bg7 9.Be2 0-0 10.0-0 Re8 11.Qc2 Nh5 12.Bxh5 gxh5 13.Nc4 Ne5 14.Ne3 Qh4 15.Bd2 Ng4 16.Nxg4 hxg4 17.Bf4 Qf6 18.g3 Bd7 19.a4 b6 20.Rfe1 a6 21.Re2 b5 22.Rae1 Qg6 23.b3 Re7 24.Qd3 Rb8 25.axb5 axb5 26.b4 c4 27.Qd2 Rbe8 28.Re3 h5 29.R3e2 Kh7 30.Re3 Kg8 31.R3e2 Bxc3 32.Qxc3 Rxe4 33.Rxe4 Rxe4 34.Rxe4 Qxe4 35.Bh6 Qg6 36.Bc1 Qb1 37.Kf1 Bf5 38.Ke2 Qe4+ 39.Qe3 Qc2+ 40.Qd2 Qb3 41.Qd4 Bd3+</b>
+            <b>Move Order: 1.d4 Nf6 2.c4 e6 3.Nf3 c5 4.d5 exd5 5.cxd5 d6 6.Nc3 g6 7.Nd2 Nbd7 8.e4 Bg7 9.Be2 0-0 10.0-0 Re8 11.Qc2 Nh5 12.Bxh5 gxh5 13.Nc4 Ne5 14.Ne3 Qh4 15.Bd2 Ng4 16.Nxg4 hxg4 17.Bf4 Qf6 18.g3 Bd7 19.a4 b6 20.Rfe1 a6 21.Re2 b5 22.Rae1 Qg6 23.b3 Re7 24.Qd3 Rb8 25.axb5 axb5 26.b4 c4 27.Qd2 Rbe8 28.Re3 h5 29.R3e2 Kh7 30.Re3 Kg8 31.R3e2 Bxc3 32.Qxc3 Rxe4 33.Rxe4 Rxe4 34.Rxe4 Qxe4 35.Bh6 Qg6 36.Bc1 Qb1 37.Kf1 Bf5 38.Ke2 Qe4+ 39.Qe3 Qc2+ 40.Qd2 Qb3 41.Qd4 Bd3+ 0 - 1</b>
             <br></br>
             <b><a href="http://www.chessgames.com/perl/chessgame?gid=1044727">Game Link</a></b>
             <br></br>
@@ -122,6 +122,12 @@ export default () =>
             <br></br>
             <br></br>
             <b>The score following Game 3 in the 1972 World Chess Championship is now 2 - 1 in favor of Spassky</b>
+            <br></br>
+            <br></br>
+            <h3>Game 4: Sicilian Defense: Fischer-Sozin Attack, Leonhardt Variation (B88)</h3>
+            <b>Move Order: 1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bc4 e6 7.Bb3 Be7 8.Be3 0-0 9.0-0 a6 10.f4 Nxd4 11.Bxd4 b5 12.a3 Bb7 13.Qd3 a5 14.e5 dxe5 15.fxe5 Nd7 16.Nxb5 Nc5 17.Bxc5 Bxc5+ 18.Kh1 Qg5 19.Qe2 Rad8 20.Rad1 Rxd1 21.Rxd1 h5 22.Nd6 Ba8 23.Bc4 h4 24.h3 Be3 25.Qg4 Qxe5 26.Qxh4 g5 27.Qg4 Bc5 28.Nb5 Kg7 29.Nd4 (diagram) Rh8 30.Nf3 Bxf3 31.Qxf3 Bd6 32.Qc3 Qxc3 33.bxc3 Be5 34.Rd7 Kf6 35.Kg1 Bxc3 36.Be2 Be5 37.Kf1 Rc8 38.Bh5 Rc7 39.Rxc7 Bxc7 40.a4 Ke7 41.Ke2 f5 42.Kd3 Be5 43.c4 Kd6 44.Bf7 Bg3 45.c5+ &frac12; - &frac12;</b>
+            <br></br>
+            <b><a href="http://www.chessgames.com/perl/chessgame?gid=1044365">Game Link</a></b>
         </p>
     </Layout>
 )
