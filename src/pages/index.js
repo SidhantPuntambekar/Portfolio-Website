@@ -81,7 +81,7 @@ const carouselInformation = [
 		[
 			new CarouselItem(
 				"Billions",
-				"https://vignette.wikia.nocookie.net/billions/images/c/ce/S04.jpg/revision/latest?cb=20190424070649",
+				"https://www.sho.com/site/image-bin/images/1032076_0_0/1032076_0_0_01h_1280x640.jpg",
 				"One of my favorite TV shows right now is Billions. This show follows a powerful hedge fund manager named Bobby Axelrod and a shrewd prosecutor named Chuch Rhoades. Axe is known for always squeezing the maximum amount of profit for his investors by any means possible including insider trading techniques while Chuck is always on his heels trying to apprehend him. The series also features intriguing characters such as Taylor Mason, Dollar Bill, and Chuck's wife Wendy Rhoades. I think the writers of this show are incredible given the plethora of allusions in the dialogue as well as the suspense built with the cat and mouse game of Wall Street hedge funds and government authorities."
 			),
 			new CarouselItem(
