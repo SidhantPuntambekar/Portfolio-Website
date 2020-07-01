@@ -1,5 +1,5 @@
 import React from "react";
-import {FaRegEnvelope, FaGithub, FaLinkedin, FaPhone, FaSpotify, FaSteam, FaFacebook, FaInstagram, FaChessPawn} from "react-icons/fa";
+import {FaRegEnvelope, FaGithub, FaLinkedin, FaPhone, FaSpotify, FaSteam, FaFacebook, FaInstagram, FaChessKing} from "react-icons/fa";
 import ResponsiveContainer from "./ResponsiveContainer";
 import "../styles/Footer.css";
 
@@ -47,7 +47,7 @@ const icons =
     },
     chess:
     {   
-        icon: FaChessPawn,
+        icon: FaChessKing,
         path: "https://www.chess.com/member/xlongshotz68"
     }
 };
