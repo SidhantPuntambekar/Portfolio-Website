@@ -1,5 +1,5 @@
 import React from "react";
-import {FaRegEnvelope, FaGithub, FaLinkedin, FaPhone, FaSpotify, FaSteam, FaFacebook, FaInstagram, FaChessKing} from "react-icons/fa";
+import {FaRegEnvelope, FaGithub, FaLinkedin, FaPhone, FaSpotify, FaSteam, FaFacebook, FaInstagram, FaTwitter, FaChessKing} from "react-icons/fa";
 import ResponsiveContainer from "./ResponsiveContainer";
 import "../styles/Footer.css";
 
@@ -44,6 +44,11 @@ const icons =
     {
         icon: FaInstagram,
         path: "https://www.instagram.com/sidhantnp"
+    },
+    twitter:
+    {
+        icon: FaTwitter,
+        path: "https://twitter.com/SidPuntambekar"
     },
     chess:
     {   
