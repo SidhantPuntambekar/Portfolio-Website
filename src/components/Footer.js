@@ -48,7 +48,7 @@ const icons =
     twitter:
     {
         icon: FaTwitter,
-        path: "https://twitter.com/SidPuntambekar"
+        path: "https://twitter.com/sidhantnp"
     },
     chess:
     {   
