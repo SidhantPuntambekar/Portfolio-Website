@@ -642,7 +642,7 @@ export default () => (
         7.bxc3 d6 8.e4 e5 9.d5 Ne7 10.Nh4 h6 11.f4 Ng6 12.Nxg6 fxg6 13.fxe5 dxe5
         14.Be3 b6 15.0-0 0-0 16.a4 a5 17.Rb1 Bd7 18.Rb2 Rb8 19.Rbf2 Qe7 20.Bc2
         g5 21.Bd2 Qe8 22.Be1 Qg6 23.Qd3 Nh5 24.Rxf8+ Rxf8 25.Rxf8+ Kxf8 26.Bd1
-        Nf4 (diagram) 27.Qc2 Bxa4 0 - 1
+        Nf4 27.Qc2 Bxa4 0 - 1
       </b>
       <br></br>
       <b>
@@ -650,6 +650,7 @@ export default () => (
           Game Link
         </a>
       </b>
+      <br></br>
       <i>
         <b>
           "He is quite lazy, so he didn't work too much on chess."
@@ -717,7 +718,51 @@ export default () => (
       rook playing Rbf2. Fischer now involves his queen with Qe7 instead of Qc7
       which would blunder the position. A potential line would be (19. Rbf2 Qc7
       20. Bxh6 gxh6 21. Rxf6 Rxf6 22. Rxf6). Spaasky plays Bc2 trying to
-      remanouver the unimpressive light squared bishop
+      remanouver the unimpressive light squared bishop to a more active square.
+      At this point in the game, Fischer can immediately simplify by playing 21.
+      Ng4 22. Rxf8 Rxf8 23. Rxf8 Qxf8 24. Qe2 Nxe3 25. Qxe3 24. g5 which
+      guarantees him at least a draw with excellent play. With this imagined
+      line, Fischer's kingside can't be penetrated unless Spaasky wants to lose
+      material and it is very hard for white to push for a win. Instead of going
+      for the preivously mentioned drawing line, Fischer plays g5 on move 21.
+      Spaasky moves the dark squared bishop back playing Bd2 with ideas of
+      swinging the bishop to the e1-h4 diagonal and landing it on the g3 square.
+      Fischer plays Qe8 and Spaasky continues Be1. Fischer plays Qg6 trying to
+      get the black queen to a more active square and Spaasky plays Qd3 shoring
+      up the white center. Fischer moves Nh5 which prompts all of te rooks to be
+      traded. Spaasky plays Rxf8+ and Fischer recaptures playing Rxf8. Spaasky
+      trades again playing Rxf8+ and now Fischer recaptures with the king
+      playing Kxf8. Spaasky plays Bd1 which comes with a threat of capturing the
+      black knight on h5. The white queen can also come to b1 to put pressure on
+      the backwards b6 pawn and keep the black queen on the sixth rank. Fischer
+      moves the knight from h5 to f4 (Nf4). Spaasky, in time trouble, makes the
+      move Qc2?? on move 27 which completely blunders the position for white.
+      Following this move, Fischer played Bxa4 and Spaasky immediately resigned
+      the game.
+      <br></br>
+      <br></br>
+      Spaasky resigned because if he played Qxa4 seemingly capturing the
+      unguarded bishop, Fischer has Qxe4 and now there are unstoppable
+      checkmates with Qxe1# and Qxg2#. Spaasky could prolong by either moving
+      the king to f2 or the queen to d2 but these both lose since Kf2 is an
+      unstoppable mate in four with 28. Kf2 Nd3+ 29. Kg3 Qh3+ 30. Kf3 Qf4+ 31.
+      Ke2 Nc1# and Qd2 would force Spaasky down three pawns. The line would be
+      28. Qd2 Bxd1 29. Qxd1 Qxe4 30. Qd2 a4. Spaasky could have easily gone into
+      drawing lines very easily in this game, but he chose to fight for a win
+      which cost him with Fischer's Bxa4.
+      <br></br>
+      <br></br>
+      After game 5, Fischer conveniently found his hotel swimming pool empty and
+      relaxed there alone for the entire night in celebration of tying the
+      match.
+      <br></br>
+      <br></br>
+      <b>
+        The score following Game 5 in the 1972 World Chess Championship is now
+        2.5 - 2.5 tied.
+      </b>
+      <br></br>
+      <br></br>
     </p>
   </Layout>
 )
