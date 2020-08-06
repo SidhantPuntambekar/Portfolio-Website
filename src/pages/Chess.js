@@ -86,6 +86,7 @@ export default () => (
         <img
           height="200"
           src="https://d53j7mnhlzrdg.cloudfront.net/series/best-games-of-boris-spassky.jpg"
+          alt="Spaasky"
         ></img>
         <figcaption>
           Boris Vasiljevic Spassky, World Chess Defending Champion, USSR
@@ -95,6 +96,7 @@ export default () => (
         <img
           height="200"
           src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Bobby_Fischer_1972.jpg/200px-Bobby_Fischer_1972.jpg"
+          alt="Fischer"
         ></img>
         <figcaption>
           Robert James Fischer, World Chess Championship Challenger, USA
@@ -104,6 +106,7 @@ export default () => (
         <img
           height="200"
           src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Tigran_Petrosian_1962.jpg/220px-Tigran_Petrosian_1962.jpg"
+          alt="Petrosian"
         ></img>
         <figcaption>Tigran Petrosian</figcaption>
       </figure>
@@ -111,6 +114,7 @@ export default () => (
         <img
           height="200"
           src="https://www.chesshistory.com/winter/pics/cn5198_fischer.jpg"
+          alt="Newspaper"
         ></img>
         <figcaption>
           Newspaper headline indicating the increase of prize fund money.
@@ -268,6 +272,7 @@ export default () => (
         <img
           height="200"
           src="https://en.chessbase.com/Portals/all/thumbs/066/66585.jpeg"
+          alt="Game 1 start clock"
         ></img>
         <figcaption>
           GM Lothar Schmid starts the clock with Fischer absent.
@@ -277,6 +282,7 @@ export default () => (
         <img
           height="200"
           src="https://images.csmonitor.com/csmarchives/2011/09/0916-Bobby-Fischer-review.jpg?alias=standard_900x600"
+          alt="Fischer arrives"
         ></img>
         <figcaption>
           Fischer arrives late and he and Spassky shake hands
@@ -286,6 +292,7 @@ export default () => (
         <img
           height="200"
           src="https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/pete/phpEwVnvI.jpeg"
+          alt="Capturing a piece"
         ></img>
         <figcaption>Fischer captures a piece</figcaption>
       </figure>
@@ -293,6 +300,7 @@ export default () => (
         <img
           height="200"
           src="https://en.chessbase.com/portals/4/files/news/2012/fischer09-spassky.jpg"
+          alt="Blunder"
         ></img>
         <figcaption>
           Fischer blunders his bishop which loses the game.
@@ -782,6 +790,7 @@ export default () => (
           Game Link
         </a>
       </b>
+      <br></br>
       <br></br>
     </p>
   </Layout>
