@@ -5,8 +5,8 @@ export default () => (
   <Layout>
     <p>
       Check out my resume here:{" "}
-      <a href="../ResumePuntambekarWebsite.pdf">Resume</a> or my GitHub at:{" "}
-      <a href="https://www.github.com/SidhantPuntambekar">GitHub</a>
+      <a href={"../ResumePuntambekarWebsite.pdf"}>Resume</a> or my GitHub at:{" "}
+      <a href={"https://www.github.com/SidhantPuntambekar"}>GitHub</a>.
     </p>
   </Layout>
 )
