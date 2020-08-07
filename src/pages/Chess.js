@@ -791,6 +791,14 @@ export default () => (
         </a>
       </b>
       <br></br>
+      <i>
+        <b>
+          "Let's not bother with such nonsense – I'll play the [Tartakower]
+          Defence. What can he achieve?..."
+          <br></br>-Spaasky on Fischer's change to 1. c4 and 1. d4
+        </b>
+      </i>
+      <br></br>
       <br></br>
     </p>
   </Layout>
