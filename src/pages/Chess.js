@@ -86,7 +86,7 @@ export default () => (
         <img
           height="200"
           src="https://d53j7mnhlzrdg.cloudfront.net/series/best-games-of-boris-spassky.jpg"
-          alt="Spaasky"
+          alt="Spassky"
         ></img>
         <figcaption>
           Boris Vasiljevic Spassky, World Chess Defending Champion, USSR
@@ -674,8 +674,8 @@ export default () => (
       the game, a new Mercedes car, and exclusive use of the hotel swimming pool
       where Fischer would be able to relax away from everyone else. All of these
       demands were not met by the Icelandic chess federation, but Fischer
-      decided to play on. Spaasky's seconds also advocated for a rest day before
-      the game while Fischer sorted out his demands, but Spaasky himself refused
+      decided to play on. Spassky's seconds also advocated for a rest day before
+      the game while Fischer sorted out his demands, but Spassky himself refused
       because he would have the white pieces to come and play for a win. Game 5
       was another critical game in the 1972 World Chess Championship since a win
       would tie Fischer with Spassky in terms of points and would be another
@@ -683,79 +683,79 @@ export default () => (
       white pieces. The game was played on the main stage in the playing hall.
       <br></br>
       <br></br>
-      Spaasky opens with d4 which is the typical Spaasky Queen's pawn opening.
-      Fischer replies Nf6 and Spaasky plays c4 transposing into the Queen's
+      Spassky opens with d4 which is the typical Spassky Queen's pawn opening.
+      Fischer replies Nf6 and Spassky plays c4 transposing into the Queen's
       gambit game with an intention to play into a Nimzo-Indian defense. Fischer
-      plays e6 and Spaasky plays Nc3 which is standard theory of the Queen's
-      Gambit declined and Fischer goes for the Nimzo-Indian with Bb4. Spaasky
+      plays e6 and Spassky plays Nc3 which is standard theory of the Queen's
+      Gambit declined and Fischer goes for the Nimzo-Indian with Bb4. Spassky
       plays Nf3 (the future Kasparov variation) which allows Fischer to decide
       which line of the Nimzo-Indian the game will follow. Fischer challenges
-      the center and Spaasky's d4 pawn with c5 which entices e3 to be played
-      (Huebner variation). Spaasky obliges and plays e3 and Fischer goes for
-      Nc6. Spaasky develops his light squared bishop with Bd3 and Fischer, as is
-      standard in the Nimzo-Indian, captures Spaasky's knight on c3 with his b4
-      bishop. Fischer plays Bxc3 and Spaasky recaptures with bxc3. This
+      the center and Spassky's d4 pawn with c5 which entices e3 to be played
+      (Huebner variation). Spassky obliges and plays e3 and Fischer goes for
+      Nc6. Spassky develops his light squared bishop with Bd3 and Fischer, as is
+      standard in the Nimzo-Indian, captures Spassky's knight on c3 with his b4
+      bishop. Fischer plays Bxc3 and Spassky recaptures with bxc3. This
       recapture messes up white's pawn structure and may become a potential
       weakness later in the game. Fischer strengthens his c5 pawn with d6 and
-      Spaasky plays e4 which gains nice control over the center. Fischer
-      instinctively plays e5 and Spaasky closes the center with d5. Fischer
+      Spassky plays e4 which gains nice control over the center. Fischer
+      instinctively plays e5 and Spassky closes the center with d5. Fischer
       moves his inactive knight on c6 to e7 (Ne7) which will allow the knight to
-      defend the black kingside. Spaasky plays an excellent move with Nh4 with
+      defend the black kingside. Spassky plays an excellent move with Nh4 with
       intentions of playing Nf5 in the future to attack Fischer's kingside if
       there is a kingside castle. Fischer also plays an excellent counter with
       h6 preparing to play g5 to kick the white h4 knight away and prevent an f4
-      idea by Spaasky. Spaasky, at this point, spends 25 minutes contemplating
+      idea by Spassky. Spassky, at this point, spends 25 minutes contemplating
       his next move and he pushes f4. Fischer instantly plays the best move in
       the position which is Ng6 which attacks the f4 pawn and challenging the
-      knight on h4. Spaasky decides to eliminate the g6 knight and plays Nxg6
-      with Fischer recapturing with fxg6. Spaasky grabs a pawn with fxe5 and
-      Fischer recaptures with dxe5. Spaasky now develops his dark squared bishop
+      knight on h4. Spassky decides to eliminate the g6 knight and plays Nxg6
+      with Fischer recapturing with fxg6. Spassky grabs a pawn with fxe5 and
+      Fischer recaptures with dxe5. Spassky now develops his dark squared bishop
       with Be3 with tempo attacking the c5 pawn. Fischer simply defends with b6
-      and now Spaasky, in this position, can't really push for a win with the
+      and now Spassky, in this position, can't really push for a win with the
       white pieces. Both of the white bishops are somewhat caged in and Fischer
       has solid pawn structures on both the kingside and queenside.
       <br></br>
       <br></br>
-      Both players castle (0-0) and on move sixteen, Spaasky pushes a4 trying to
+      Both players castle (0-0) and on move sixteen, Spassky pushes a4 trying to
       start an attack on the queenside. Fischer prevents further expansion
-      pushing a5 which locks down the queenside. Spaasky plays Rb1 trying to
+      pushing a5 which locks down the queenside. Spassky plays Rb1 trying to
       capture the backwards b6 pawn and Fischer plays a nice move with Bd7 which
-      develops and attacks the a4 pawn. Spaasky moves Rb2 with ideas of doubling
+      develops and attacks the a4 pawn. Spassky moves Rb2 with ideas of doubling
       rooks on the F file and pushing on the kingside now. Fischer plays Rb8 in
-      case Spaasky doesn't move his rook and Spaasky conversely does move his
+      case Spassky doesn't move his rook and Spassky conversely does move his
       rook playing Rbf2. Fischer now involves his queen with Qe7 instead of Qc7
       which would blunder the position. A potential line would be (19. Rbf2 Qc7
-      20. Bxh6 gxh6 21. Rxf6 Rxf6 22. Rxf6). Spaasky plays Bc2 trying to
+      20. Bxh6 gxh6 21. Rxf6 Rxf6 22. Rxf6). Spassky plays Bc2 trying to
       remanouver the unimpressive light squared bishop to a more active square.
       At this point in the game, Fischer can immediately simplify by playing 21.
       Ng4 22. Rxf8 Rxf8 23. Rxf8 Qxf8 24. Qe2 Nxe3 25. Qxe3 24. g5 which
       guarantees him at least a draw with excellent play. With this imagined
-      line, Fischer's kingside can't be penetrated unless Spaasky wants to lose
+      line, Fischer's kingside can't be penetrated unless Spassky wants to lose
       material and it is very hard for white to push for a win. Instead of going
       for the preivously mentioned drawing line, Fischer plays g5 on move 21.
-      Spaasky moves the dark squared bishop back playing Bd2 with ideas of
+      Spassky moves the dark squared bishop back playing Bd2 with ideas of
       swinging the bishop to the e1-h4 diagonal and landing it on the g3 square.
-      Fischer plays Qe8 and Spaasky continues Be1. Fischer plays Qg6 trying to
-      get the black queen to a more active square and Spaasky plays Qd3 shoring
+      Fischer plays Qe8 and Spassky continues Be1. Fischer plays Qg6 trying to
+      get the black queen to a more active square and Spassky plays Qd3 shoring
       up the white center. Fischer moves Nh5 which prompts all of te rooks to be
-      traded. Spaasky plays Rxf8+ and Fischer recaptures playing Rxf8. Spaasky
+      traded. Spassky plays Rxf8+ and Fischer recaptures playing Rxf8. Spassky
       trades again playing Rxf8+ and now Fischer recaptures with the king
-      playing Kxf8. Spaasky plays Bd1 which comes with a threat of capturing the
+      playing Kxf8. Spassky plays Bd1 which comes with a threat of capturing the
       black knight on h5. The white queen can also come to b1 to put pressure on
       the backwards b6 pawn and keep the black queen on the sixth rank. Fischer
-      moves the knight from h5 to f4 (Nf4). Spaasky, in time trouble, makes the
+      moves the knight from h5 to f4 (Nf4). Spassky, in time trouble, makes the
       move Qc2?? on move 27 which completely blunders the position for white.
-      Following this move, Fischer played Bxa4 and Spaasky immediately resigned
+      Following this move, Fischer played Bxa4 and Spassky immediately resigned
       the game.
       <br></br>
       <br></br>
-      Spaasky resigned because if he played Qxa4 seemingly capturing the
+      Spassky resigned because if he played Qxa4 seemingly capturing the
       unguarded bishop, Fischer has Qxe4 and now there are unstoppable
-      checkmates with Qxe1# and Qxg2#. Spaasky could prolong by either moving
+      checkmates with Qxe1# and Qxg2#. Spassky could prolong by either moving
       the king to f2 or the queen to d2 but these both lose since Kf2 is an
       unstoppable mate in four with 28. Kf2 Nd3+ 29. Kg3 Qh3+ 30. Kf3 Qf4+ 31.
-      Ke2 Nc1# and Qd2 would force Spaasky down three pawns. The line would be
-      28. Qd2 Bxd1 29. Qxd1 Qxe4 30. Qd2 a4. Spaasky could have easily gone into
+      Ke2 Nc1# and Qd2 would force Spassky down three pawns. The line would be
+      28. Qd2 Bxd1 29. Qxd1 Qxe4 30. Qd2 a4. Spassky could have easily gone into
       drawing lines very easily in this game, but he chose to fight for a win
       which cost him with Fischer's Bxa4.
       <br></br>
@@ -795,7 +795,7 @@ export default () => (
         <b>
           "Let's not bother with such nonsense – I'll play the [Tartakower]
           Defence. What can he achieve?..."
-          <br></br>-Spaasky on Fischer's change to 1. c4
+          <br></br>-Spassky on Fischer's change to 1. c4
         </b>
       </i>
       <br></br>
@@ -803,120 +803,120 @@ export default () => (
       After Fischer's lonely celebration in the swimming pool following Game 5,
       the American was extremely confident as the match was now tied. He
       indicated to his second (Lombardy) that he had a surprise in store for
-      Spaasky in Game 6. Spaasky, on the other hand, did not seem phased and
+      Spassky in Game 6. Spassky, on the other hand, did not seem phased and
       played ping pong with his team the same night of his Game 5 loss. The
-      Soviet Chess Federation implored Spaasky to prepare adequately for his
+      Soviet Chess Federation implored Spassky to prepare adequately for his
       future games, but he decided against this. When informed of Fischer's
-      "surprise" for Game 6, Spaasky replied that if the game transposed into a
+      "surprise" for Game 6, Spassky replied that if the game transposed into a
       Queen's Gambit declined, he would play the Tartakower defense in which he
       had never lost a game.
       <br></br>
       <br></br>
       Fischer opens with c4 which is a relatively new opening since he played it
       only once against Lev Polugaevsky at the 1970 Interzonal tournament.
-      Spaasky replies e6 and Fischer plays Nf3. Spaasky strikes in the center
+      Spassky replies e6 and Fischer plays Nf3. Spassky strikes in the center
       with d5 and Fischer transposes into the Queen's Gambit declined with d4.
-      Spaasky plays Nf6 and Fischer plays Nc3 which is standard theory of the
-      Queen's Gambit Declined. Spaasky moves his dark squared bishop with Be7
-      and Fischer responds with an aggressive Bg5 adding pressure to Spaasky's
-      f6 knight and as a result, Spaasky castles (0-0) to safety. Fischer
+      Spassky plays Nf6 and Fischer plays Nc3 which is standard theory of the
+      Queen's Gambit Declined. Spassky moves his dark squared bishop with Be7
+      and Fischer responds with an aggressive Bg5 adding pressure to Spassky's
+      f6 knight and as a result, Spassky castles (0-0) to safety. Fischer
       activates his light squared bishop by playing e3. This move is quite
       common in the Rubinstein system as it allows the light squared bishop to
-      defend the c4 pawn in the QGD. Spaasky plays h6 to kick Fischer's dark
-      squared bishop back and Fischer obliges playing Bh4. Spaasky now plays b6
+      defend the c4 pawn in the QGD. Spassky plays h6 to kick Fischer's dark
+      squared bishop back and Fischer obliges playing Bh4. Spassky now plays b6
       and finally the game enters the Tartakower defense of the Queen's Gambit
       Declined.
       <br></br>
       <br></br>A capture fest now occurs on the board with Fischer playing cxd5
-      and Spaasky recapturing with Nxd5. A trade of dark squared bishops occurs
-      with Bxe7 and Qxe7. Fischer trades a pair of knights with Nxd5 and Spaasky
+      and Spassky recapturing with Nxd5. A trade of dark squared bishops occurs
+      with Bxe7 and Qxe7. Fischer trades a pair of knights with Nxd5 and Spassky
       plays exd5. A common position of the Tartakower defense is reached with
-      Fischer's Rc1 and Spaasky develops with Be6. An alterantive could have
+      Fischer's Rc1 and Spassky develops with Be6. An alterantive could have
       been developing to b7 (Bb7) but a series of captures in the center could
       have made the bishop on the B file somewhat vulnerable to white's c1 rook.
-      Fischer develops his queen playing Qa4 and Spaasky strikes in the center
+      Fischer develops his queen playing Qa4 and Spassky strikes in the center
       with c5. Fischer piles up on the c5 pawn immediately with Qa3 which allows
       white's queen and rook to pin the c5 pawn. If the c5 pawn is pushed,
-      Spaasky loses his undefended queen. Spaasky instead defends the c5 pawn
+      Spassky loses his undefended queen. Spassky instead defends the c5 pawn
       with Rc8. Fischer now plays an excellent move with Bb5 which prevents
-      Spaasky from developing his knight to a useful square (a6, c6, and d7 are
-      all covered by the bishop). Spaasky wants to kick the powerful white light
+      Spassky from developing his knight to a useful square (a6, c6, and d7 are
+      all covered by the bishop). Spassky wants to kick the powerful white light
       squared bishop away and thus plays a6. Fischer now plays dxc5 which keeps
       the pressure on the black kingside. The light squared bishop still can't
       be captured by the a6 pawn since Fischer will just pick up the black a8
-      rook with Qxa8. Spaasky instead plays bxc5 and Fischer gets his king to
-      safety with castles (0-0). Spaasky plays Ra7 which is the problem move for
+      rook with Qxa8. Spassky instead plays bxc5 and Fischer gets his king to
+      safety with castles (0-0). Spassky plays Ra7 which is the problem move for
       black in this position. A better continutation from this position could
       have been Qb7 and then Qb6. However, Ra7 looks promising because the black
       queen defends the rook and soon axb5 will be played if Fischer doesn't
       move his bishop. Realizing this, Fischer simply moves the bishop back with
-      Be7. Spaasky now develops his knight with Nd7 and Fischer immediately
+      Be7. Spassky now develops his knight with Nd7 and Fischer immediately
       capitalizes with Nd4. The problem for black with this move is that cxd4 by
-      black is not an option as the c8 rook hangs. Spaasky now plays Qf8 but
+      black is not an option as the c8 rook hangs. Spassky now plays Qf8 but
       this allows Fischer too much and he can now simplify the game. Fischer
-      starts with Nxe6 eliminating black's light squared bishop and Spaasky
+      starts with Nxe6 eliminating black's light squared bishop and Spassky
       recaptures the white knight with fxe6.
       <br></br>
       <br></br>Black's position now comprises of a nice pawn center but an
       unimpressive rook on a7 and a knight that still has to find a purpose in
-      the game. Fischer attacks Spaasky's pawn center with e4. Spaasky now has
+      the game. Fischer attacks Spassky's pawn center with e4. Spassky now has
       options of either capturing on e4 with his d5 pawn or he can push d5 to
       d4. A capture with dxe4 is not impressive since it doubles black's pawns
-      and allows Fischer to double rooks on the C file. Instead, Spaasky pushes
+      and allows Fischer to double rooks on the C file. Instead, Spassky pushes
       with d4 which also is not the best move which would have been c4. The move
       c4 is better since it offers a trade of queens and if Fischer declined
-      with Qh3 (going after the backwards e6 pawn), Spaasky easily defends with
-      Qf7 and all is well for black. After Spaasky's d4 push, Fischer moves f4
+      with Qh3 (going after the backwards e6 pawn), Spassky easily defends with
+      Qf7 and all is well for black. After Spassky's d4 push, Fischer moves f4
       which is a solid move (establishing further control of the e5 square which
-      prevents the black knight from jumping to e5 or pushing e5). Spaasky plays
+      prevents the black knight from jumping to e5 or pushing e5). Spassky plays
       Qe7 to defend the e6 pawn (Fischer's plan is to move Qh3 and Bc4 to attack
       the e6 pawn twice). Fischer pushes e5 which improves white's central
-      control considerably. Spaasky plays Rb8 to go after the white b2 pawn, but
-      Fischer ignores this attack instead playing Bc4. Spaasky moves his king
+      control considerably. Spassky plays Rb8 to go after the white b2 pawn, but
+      Fischer ignores this attack instead playing Bc4. Spassky moves his king
       away from the white bishop's diagonal with Kh8 and Fischer plays Qh3
-      establishing the double attack on the e6 pawn. Spaasky defends with Nf8
+      establishing the double attack on the e6 pawn. Spassky defends with Nf8
       and Fischer improves with b3. Now the white B pawn is defended by the a2
-      pawn. Spaasky pushes a5 hoping to break open the white kingside but
-      Fischer intends to break black's position with f5. Spaasky captures with
+      pawn. Spassky pushes a5 hoping to break open the white kingside but
+      Fischer intends to break black's position with f5. Spassky captures with
       exf5 and Fischer recaptures with Rxf5.
       <br></br>
       <br></br>
-      Spaasky now remanouvers his knight with Nh7 with the intention of playing
+      Spassky now remanouvers his knight with Nh7 with the intention of playing
       Ng5. Nh7 also comes with poison in the position since if white plays Rf7
       with an attack on the queen and maybe winning the a7 rook if the queen
-      moves, Spaasky could play Ng5 with a fork on the rook and queen. Fischer
-      would capture the black queen with Rxe7 and Spaasky would capture the
+      moves, Spassky could play Ng5 with a fork on the rook and queen. Fischer
+      would capture the black queen with Rxe7 and Spassky would capture the
       white queen with Nxh3+ and now white loses a tempo with the check. The
       line would look like 27.Rxf5 Nh7 28. Rf7 Ng5 29. Rxe7 Nxh3+. Fischer
-      instead smartly doubles rooks with Rcf1 and Spaasky plays Qd8 which gets
+      instead smartly doubles rooks with Rcf1 and Spassky plays Qd8 which gets
       the queen away from threats on the seventh rank (Rf7). Fischer plays
       another excellent move with Qg3 which introduces checkmating ideas into
-      the position. Spaasky now has to prevent white's passed E pawn from being
+      the position. Spassky now has to prevent white's passed E pawn from being
       pushed and plays Re7. Fischer prevents the black knight from jumping to g5
-      by playing h4. Spaasky plays Rbb7 which adds another defender to the
-      seventh rank and Fischer pushes his passed E pawn with e6. Spaasky defends
+      by playing h4. Spassky plays Rbb7 which adds another defender to the
+      seventh rank and Fischer pushes his passed E pawn with e6. Spassky defends
       with c5 pawn with Rbc7. Fischer now centralizes his queen with Qe5
-      preparing to further push the passed E pawn. Spaasky must add more
+      preparing to further push the passed E pawn. Spassky must add more
       defenders and does with Qe8. Black's position is now being boxed in by
-      white. Fischer plays a4 and now black is in zugzwang. Spaasky must repeat
+      white. Fischer plays a4 and now black is in zugzwang. Spassky must repeat
       moves to keep the game going with Qd8 and Fischer improves his backwards
-      rook with R1f2. Spaasky repeats with Qe8 and Fischer now plays R2f3.
-      Spaasky once again plays Qe8 and now Fischer starts his new attack with
-      Bd3 aligning the bishop with the black h7 knight. Spaasky once again plays
+      rook with R1f2. Spassky repeats with Qe8 and Fischer now plays R2f3.
+      Spassky once again plays Qe8 and now Fischer starts his new attack with
+      Bd3 aligning the bishop with the black h7 knight. Spassky once again plays
       Qe8 and Fischer creates a queen-bishop battery with Qe4.
       <br></br>
       <br></br>
-      Spaasky now plays Nf6 but Fischer captures playing Rxf6. Spaasky
-      recaptures the rook with gxf6 and Fischer reacptures with Rxf6. Spaasky
+      Spassky now plays Nf6 but Fischer captures playing Rxf6. Spassky
+      recaptures the rook with gxf6 and Fischer reacptures with Rxf6. Spassky
       now moves his king with Kg8. Fischer moves Bc4 and now black is completely
-      lost. Spaasky played Kh8 and Fischer played Qf4. Following this move,
-      Spaasky resigned the game as the threat of Rf8+ by white wins on the spot
+      lost. Spassky played Kh8 and Fischer played Qf4. Following this move,
+      Spassky resigned the game as the threat of Rf8+ by white wins on the spot
       (black loses the queen). After winning Game 6, Fischer now takes the lead
-      over Spaasky. Following Spaasky's resignation, the spectators watching in
+      over Spassky. Following Spassky's resignation, the spectators watching in
       the playing hall rose and up and gave a standing ovation for Fischer
-      beating Spaasky in the Tartakower defense. Spaasky also stood up and
+      beating Spassky in the Tartakower defense. Spassky also stood up and
       applauded Fischer for his brilliant win. Fischer was overwhelmed by
-      Spaasky's sportsmanship and left the playing hall immediately.
+      Spassky's sportsmanship and left the playing hall immediately.
       <br></br>
       <br></br>
       <b>
