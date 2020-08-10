@@ -4,7 +4,7 @@ import Layout from "../components/Layout"
 export default () => (
   <Layout>
     <p>
-      Welcome to my Resume page. Check out my{" "}
+      Welcome to my resume page. Check out my{" "}
       <a
         href={
           "https://drive.google.com/file/d/1fK9AA9fNa7nWl52VrlSl9GBVqzF0jzKe/view?usp=sharing"
