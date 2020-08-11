@@ -9,7 +9,6 @@ import {
   FaFacebook,
   FaInstagram,
   FaTwitter,
-  FaChessKing,
 } from "react-icons/fa"
 import ResponsiveContainer from "./ResponsiveContainer"
 import "../styles/Footer.css"
@@ -50,10 +49,6 @@ const icons = {
   twitter: {
     icon: FaTwitter,
     path: "https://twitter.com/sidhantnp",
-  },
-  chess: {
-    icon: FaChessKing,
-    path: "https://www.chess.com/member/xlongshotz68",
   },
 }
 const iconWidth = 100 / Object.keys(icons).length
