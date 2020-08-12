@@ -36,7 +36,7 @@ const icons = {
   },
   steam: {
     icon: FaSteam,
-    path: "https://steamcommunity.com/id/sidhantnp",
+    path: "https://steamcommunity.com/profiles/76561198399574126",
   },
   facebook: {
     icon: FaFacebook,
