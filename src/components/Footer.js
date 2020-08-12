@@ -12,6 +12,7 @@ import {
 } from "react-icons/fa"
 import ResponsiveContainer from "./ResponsiveContainer"
 import "../styles/Footer.css"
+import { IconContext } from "react-icons"
 
 const icons = {
   email: {
@@ -58,17 +59,24 @@ export default () => (
     <ResponsiveContainer responsiveWidths={[3, 9]}>
       <div style={{ width: "100%", textAlign: "center" }}>Contact me:</div>
       <div style={{ width: "100%" }}>
-        {Object.keys(icons).map(icon => (
-          <a
-            className={"footerLink"}
-            href={icons[icon].path}
-            style={{ width: `${iconWidth}%` }}
-            key={icon}
-            aria-label={icon}
-          >
-            {icons[icon].icon()}
-          </a>
-        ))}{" "}
+        <IconContext.Provider
+          value={{
+            size: "30px",
+            className: "global-class-name",
+          }}
+        >
+          {Object.keys(icons).map(icon => (
+            <a
+              className={"footerLink"}
+              href={icons[icon].path}
+              style={{ width: `${iconWidth}%` }}
+              key={icon}
+              aria-label={icon}
+            >
+              {icons[icon].icon()}
+            </a>
+          ))}{" "}
+        </IconContext.Provider>
       </div>
     </ResponsiveContainer>
   </footer>
