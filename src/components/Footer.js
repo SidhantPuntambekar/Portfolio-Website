@@ -56,7 +56,7 @@ const iconWidth = 100 / Object.keys(icons).length
 
 export default () => (
   <footer>
-    <ResponsiveContainer responsiveWidths={[3, 9]}>
+    <ResponsiveContainer responsiveWidths={[4, 12]}>
       <div style={{ width: "100%", textAlign: "center" }}>Contact me:</div>
       <div style={{ width: "100%" }}>
         <IconContext.Provider
