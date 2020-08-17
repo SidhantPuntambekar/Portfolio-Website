@@ -139,7 +139,11 @@ export default () => (
       </b>
       <br></br>
       <b>
-        <a href="https://www.chessgames.com/perl/chessgame?gid=1044722">
+        <a
+          href="https://www.chessgames.com/perl/chessgame?gid=1044722"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
           Game Link
         </a>
       </b>
@@ -320,7 +324,11 @@ export default () => (
       </b>
       <br></br>
       <b>
-        <a href="http://www.chessgames.com/perl/chessgame?gid=1044727">
+        <a
+          href="http://www.chessgames.com/perl/chessgame?gid=1044727"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
           Game Link
         </a>
       </b>
@@ -485,7 +493,11 @@ export default () => (
       </b>
       <br></br>
       <b>
-        <a href="http://www.chessgames.com/perl/chessgame?gid=1044365">
+        <a
+          href="http://www.chessgames.com/perl/chessgame?gid=1044365"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
           Game Link
         </a>
       </b>
@@ -654,7 +666,11 @@ export default () => (
       </b>
       <br></br>
       <b>
-        <a href="https://www.chessgames.com/perl/chessgame?gid=1044723">
+        <a
+          href="https://www.chessgames.com/perl/chessgame?gid=1044723"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
           Game Link
         </a>
       </b>
@@ -786,7 +802,11 @@ export default () => (
       </b>
       <br></br>
       <b>
-        <a href="https://www.chessgames.com/perl/chessgame?gid=1044366">
+        <a
+          href="https://www.chessgames.com/perl/chessgame?gid=1044366"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
           Game Link
         </a>
       </b>
@@ -942,7 +962,11 @@ export default () => (
       </b>
       <br></br>
       <b>
-        <a href="http://www.chessgames.com/perl/chessgame?gid=1044728">
+        <a
+          href="http://www.chessgames.com/perl/chessgame?gid=1044728"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
           Game Link
         </a>
       </b>

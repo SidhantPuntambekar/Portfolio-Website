@@ -3,12 +3,13 @@ import {
   FaRegEnvelope,
   FaGithub,
   FaLinkedin,
-  FaPhone,
+  FaPhoneSquare,
   FaSpotify,
   FaSteam,
   FaFacebook,
   FaInstagram,
   FaTwitter,
+  FaReddit,
 } from "react-icons/fa"
 import ResponsiveContainer from "./ResponsiveContainer"
 import "../styles/Footer.css"
@@ -20,7 +21,7 @@ const icons = {
     path: "mailto:sidhantnp@yahoo.com",
   },
   phone: {
-    icon: FaPhone,
+    icon: FaPhoneSquare,
     path: "tel:7202508098",
   },
   github: {
@@ -29,7 +30,7 @@ const icons = {
   },
   linkedin: {
     icon: FaLinkedin,
-    path: "https://www.linkedin.com/in/sidhant-puntambekar-0bb881130/",
+    path: "https://www.linkedin.com/in/sidhant-puntambekar/",
   },
   spotify: {
     icon: FaSpotify,
@@ -51,14 +52,19 @@ const icons = {
     icon: FaTwitter,
     path: "https://twitter.com/sidhantnp",
   },
+  reddit: {
+    icon: FaReddit,
+    path: "https://www.reddit.com/user/XLongshotz68",
+  },
 }
-const iconWidth = 100 / Object.keys(icons).length
 
 export default () => (
   <footer>
-    <ResponsiveContainer responsiveWidths={[4, 12]}>
-      <div style={{ width: "100%", textAlign: "center" }}>Contact me:</div>
-      <div style={{ width: "100%" }}>
+    <ResponsiveContainer responsiveWidths={[3, 9]}>
+      <div mx="auto" style={{ textAlign: "center" }}>
+        Contact me:
+      </div>
+      <div mx="auto">
         <IconContext.Provider
           value={{
             size: "30px",
@@ -68,10 +74,12 @@ export default () => (
           {Object.keys(icons).map(icon => (
             <a
               className={"footerLink"}
+              target="_blank"
+              rel="noopener noreferrer"
               href={icons[icon].path}
-              style={{ width: `${iconWidth}%` }}
               key={icon}
               aria-label={icon}
+              px="5"
             >
               {icons[icon].icon()}
             </a>
