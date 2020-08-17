@@ -61,7 +61,7 @@ const icons = {
 export default () => (
   <footer>
     <ResponsiveContainer responsiveWidths={[3, 9]}>
-      <div mx="auto" style={{ textAlign: "center" }}>
+      <div mx="auto" style={{ textAlign: "left" }}>
         Contact me:
       </div>
       <div mx="auto">
