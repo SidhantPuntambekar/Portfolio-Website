@@ -940,7 +940,7 @@ export default () => (
       <br></br>
       <br></br>
       <b>
-        The score following Game 5 in the 1972 World Chess Championship is now
+        The score following Game 6 in the 1972 World Chess Championship is now
         3.5 - 2.5 in favor of Fischer.
       </b>
       <br></br>

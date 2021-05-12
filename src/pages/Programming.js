@@ -25,8 +25,7 @@ const programming = () => (
       <Card style={{ width: "18rem" }}>
         <Card.Img
           variant="top"
-          src="https://raw.githubusercontent.com/rnabioco/clustifyr-web-app/main/logo.png"
-          style={{ height: "500px", width: "500px" }}
+          src="https://rnabioco.github.io/clustifyr/reference/figures/logo.png"
         ></Card.Img>
         <Card.Body>
           <Card.Title>ClustifyR Web Application</Card.Title>
@@ -81,11 +80,33 @@ const programming = () => (
           <Card.Text>
             Cyberhood Project for HackCU VI. Keeping networks safer for everyone
             using a wifi sniffer program called Kismet while storing device data
-            in a MongoDB database with analysis in MongoDB Compass.
+            in a MongoDB database with analysis in MongoDB Compass. Written
+            primarily in Python while website primarily using HTML/CSS/JS.
           </Card.Text>
           <a
             class="btn btn-primary"
             href="https://github.com/SidhantPuntambekar/team-cyberhood-1"
+            target="blank"
+          >
+            Link
+          </a>
+        </Card.Body>
+      </Card>
+      <Card style={{ width: "18rem" }}>
+        <Card.Img variant="top" src="../../images/stonkpeg.png"></Card.Img>
+        <Card.Body>
+          <Card.Title>StonkView</Card.Title>
+          <Card.Text>
+            StonkView provides a one stop shop stock watchlist website where
+            traders can actively interact with stock chart analysis and make
+            better trading decisions based on that information. Used
+            NodeJS/ExpressJS framework with EJS templating and Bootstrap CSS.
+            Also used MongoDB to store user information and stock holdings as
+            well as PassportJS/BCrypt for user authentication.
+          </Card.Text>
+          <a
+            class="btn btn-primary"
+            href="https://stonkview.herokuapp.com/"
             target="blank"
           >
             Link
