@@ -175,9 +175,8 @@ class App extends React.Component {
       <div>
         <Header />
         <h2>About Me</h2>
-        <ResponsiveContainer>
+        <ResponsiveContainer responsiveWidths={[3, 9]}>
           <img
-            responsiveWidth="3"
             src={"images/me.jpg"}
             alt={"Sidhant Puntambekar"}
             style={{ width: "100%" }}
@@ -201,9 +200,8 @@ class App extends React.Component {
           Select one of the options from the list to see my four favorite things
           from each category.
         </p>
-        <ResponsiveContainer>
+        <ResponsiveContainer responsiveWidths={[3, 9]}>
           <div
-            responsiveWidth="4"
             style={{
               height: "100%",
               display: "flex",
