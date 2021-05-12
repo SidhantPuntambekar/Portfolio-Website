@@ -52,7 +52,7 @@ const carouselInformation = [
     [
       new CarouselItem(
         "AC/DC",
-        "https://nationalpostcom.files.wordpress.com/2014/04/acdc-retirement.jpg?quality=80&strip=all&w=780",
+        "https://upload.wikimedia.org/wikipedia/commons/9/9e/ACDC_In_Tacoma_2009.jpg",
         "Despite them not playing anymore, AC/DC is one of my favorite rock bands. They constantly have produced hit rock songs starting from 1973. Their first album, High Voltage, introduces the band's signature three power chord style. AC/DC have produced consistantly quality albums like Highway to Hell and The Razor's Edge with songs such as Thunderstruck and Back in Black. The album Back in Black consequently became the second highest selling album of all time only behind Michael Jackson's Thriller."
       ),
       new CarouselItem(
