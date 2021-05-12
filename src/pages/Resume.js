@@ -23,7 +23,8 @@ const resume = () => (
       <a href={"https://www.github.com/SidhantPuntambekar"} target="blank">
         GitHub
       </a>
-      .
+      . In addition, feel free to check out my{" "}
+      <a href="../Programming">Programming</a> page as well.
     </p>
     <p>
       I have developed numerous personal projects and applications throughout my

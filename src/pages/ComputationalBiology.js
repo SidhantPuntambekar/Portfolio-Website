@@ -5,10 +5,17 @@ export default () => (
   <Layout>
     <h2>Computational Biology</h2>
     <p>
-      This page serves as a collection of fascinating things I learn in
-      Computational Biology.
+      This page serves as a collection of fascinating professional experiences
+      and things I learn in Computational Biology.
     </p>
-    <h2>RNA Bioscience Initiative Summer Internship Program 2020</h2>
+    <h2>
+      Summer Institute in Biomedical Informatics 2021, Harvard Medical School
+    </h2>
+    <p>Stay tuned. Will be working in the Sunyaev lab under Dr. Evan Koch.</p>
+    <h2>
+      RNA Bioscience Initiative Summer Internship Program 2020, University of
+      Colorado Anschutz School of Medicine
+    </h2>
     <p>
       This past summer, I interned at the RNA Bioscience Initiative at the
       University of Colorado Anschutz Medical School in the RBI Fellows Group.
@@ -41,12 +48,27 @@ export default () => (
       be easily viewed by researchers.{" "}
     </p>
     <p>
-      Currently, I have created a mouse cell atlas with 321 total cell types to
-      improve benchmarking of novel mouse scRNA-seq data and contributed util
-      functions to clustifyr which facilitate adding new gene expression
-      profiles to the atlas. My future goals working with the Fellows Group are
-      to improve the quality of data uploaded to NCBI GEO and complete the cell
-      atlas to be used in conjunction with clustifyr.{" "}
+      I also created a mouse cell atlas with 321 total cell types to improve
+      benchmarking of novel mouse scRNA-seq data and contributed util functions
+      to clustifyr which facilitate adding new gene expression profiles to the
+      atlas. My future goals working with the Fellows Group are to improve the
+      quality of data uploaded to NCBI GEO and complete the cell atlas to be
+      used in conjunction with ClustifyR.{" "}
+    </p>
+    <p>
+      During the school year of 2020-2021, I worked on creating an RShiny web
+      application for the ClustifyR library as well as contributing to the
+      Someta library which is designed to monitor and record metadata
+      submissions to NCBI GEO records. We also managed to publish a research
+      essay in the esteemed PLOS Biology Journal regarding the scRNA-seq
+      metadata submission problem with NCBI GEO. The paper is available{" "}
+      <a
+        target="blank"
+        href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001077"
+      >
+        here
+      </a>
+      .{" "}
     </p>
   </Layout>
 )

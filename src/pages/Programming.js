@@ -20,6 +20,11 @@ const programming = () => (
       </a>
       .
     </p>
+    <h2>Skills</h2>
+    <p>
+      For a full list of my programming skills and competancies, please feel
+      free to check out my Résumé page <a href="../Resume">here</a>.
+    </p>
     <h2>Project Showcase</h2>
     <CardDeck>
       <Card style={{ width: "18rem" }}>

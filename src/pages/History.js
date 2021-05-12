@@ -4,7 +4,7 @@ import "../styles/History.css"
 
 export default () => (
   <Layout>
-    <h2>The Pacific War</h2>
+    <h1>The Pacific War</h1>
     <p>
       Hello and welcome to the History page of my website. One of my passions in
       school has always been history. I want to share with you my knowledge of
@@ -248,7 +248,7 @@ export default () => (
         <img
           border="0"
           height="200"
-          src="https://www.lonestarflight.org/public/styles/pilot_photo/public/Chenault.jpg?itok=2EHcZkE1&c=432d387b05e96742db18c76bb04d4bf7"
+          src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Claire_L._Chennault.jpg/220px-Claire_L._Chennault.jpg"
           alt="Chennault"
         ></img>
         <figcaption>Claire Lee Chennault</figcaption>
@@ -276,7 +276,7 @@ export default () => (
         <img
           border="0"
           height="200"
-          src="https://tshaonline.org/sites/default/files/images/handbook/CC/chennault_kai-shek.jpg"
+          src="https://250722-778774-raikfcquaxqncofqfm.stackpathdns.com/images/handbook/entries/CC/chiang_soong_chennault.jpg"
           alt="Chennault+Chiang Kai-Shek"
           width="224"
         ></img>
@@ -286,9 +286,9 @@ export default () => (
         <img
           border="0"
           height="200"
-          src="http://footage.framepool.com/shotimg/qf/114577171-cultural-revolution-japanese-flag-mao-zedong-second-sino-japanese-war.jpg"
+          src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Mao_1925.jpg/220px-Mao_1925.jpg"
           alt="Mao"
-          width="400"
+          width="200"
         ></img>
         <figcaption>A young Mao Zedong</figcaption>
       </figure>
@@ -481,6 +481,17 @@ export default () => (
           alt="Destroyed B-17"
         ></img>
         <figcaption>A destroyed B-17 following the attack.</figcaption>
+      </figure>
+      <figure>
+        <img
+          height="200"
+          src="https://www.gchq.gov.uk/images/Japanese_planes_prepare_to_attack_Pearl_Harbor-768x512px.jpg"
+          alt="Ready to attack!"
+        ></img>
+        <figcaption>
+          Mitsubishi A6M Zeros ready on the flight deck of a Japanese carrier
+          prior to the attack
+        </figcaption>
       </figure>
       <h3>First Indian Ocean Raid: March 31st, 1942 - April 10th, 1942</h3>
       <i>
@@ -788,7 +799,7 @@ export default () => (
           alt="Japanese Zero launching"
         ></img>
         <figcaption>
-          Zeroes depart from Shokaku to strike the US carriers
+          Zeros depart from Shokaku to strike the US carriers
         </figcaption>
       </figure>
       <figure>
@@ -926,14 +937,6 @@ export default () => (
       <figure>
         <img
           height="200"
-          src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Aerial_view_of_Midway_Atoll_on_24_November_1941_%2880-G-451086%29.jpg/220px-Aerial_view_of_Midway_Atoll_on_24_November_1941_%2880-G-451086%29.jpg"
-          alt="Midway"
-        ></img>
-        <figcaption>Midway Atoll several months before the battle.</figcaption>
-      </figure>
-      <figure>
-        <img
-          height="200"
           src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/AkagiDeckApril42.jpg/220px-AkagiDeckApril42.jpg"
           alt="Akagi"
         ></img>
@@ -957,16 +960,6 @@ export default () => (
         ></img>
         <figcaption>
           Yorktown under attack from Kate torpedo bombers from Hiryu
-        </figcaption>
-      </figure>
-      <figure>
-        <img
-          height="200"
-          src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Japanese_aircraft_carrier_Hiryu_adrift_and_burning_on_5_June_1942_%28NH_73065%29.jpg/220px-Japanese_aircraft_carrier_Hiryu_adrift_and_burning_on_5_June_1942_%28NH_73065%29.jpg"
-          alt="Hiryu burning"
-        ></img>
-        <figcaption>
-          Hiryu shortly before sinking following hits from Enterprise and Hornet
         </figcaption>
       </figure>
       <figure>
@@ -997,85 +990,108 @@ export default () => (
           Douglas SBD Dauntless dive bombers prepare to attack cruiser Mikuma
         </figcaption>
       </figure>
+      <figure>
+        <img
+          height="200"
+          src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Japanese_aircraft_carrier_Hiryu_adrift_and_burning_on_5_June_1942_%28NH_73065%29.jpg/220px-Japanese_aircraft_carrier_Hiryu_adrift_and_burning_on_5_June_1942_%28NH_73065%29.jpg"
+          alt="Hiryu burning"
+        ></img>
+        <figcaption>
+          Hiryu shortly before sinking following hits from Enterprise and Hornet
+        </figcaption>
+      </figure>
+      <figure>
+        <img
+          height="200"
+          src="https://nationalinterest.org/sites/default/files/main_images/23876676272_39224239bb_b.jpg"
+          alt="Starboard Mikuma"
+        ></img>
+        <figcaption>Starboard view of Mikuma on fire</figcaption>
+      </figure>
     </p>
+
     <h2>The Solomon Islands Campaign</h2>
-    <h3>Battle of Tulagi and Gavutu-Tanambogo: August 7-9 1942</h3>
-    With the momentum following the sinking of four Japanese aircraft carriers
-    at Midway, the United States was eager to open up an offensive in the
-    Japanese controlled South Pacific. The Japanese had plans to invade New
-    Guinea and continue with the invasion of Australia and New Zealand. A
-    Japanese occupation of Australia and New Zealand would cut the British and
-    American trade routes and ties in the South Pacific. The United States
-    launched an invasion of the Solomon Islands where the Japanese had several
-    strategic airfields and naval bases (Rabaul being the primary one). The
-    United States chose to invade the small islands of Tulagi and
-    Gavutu-Tanambogo to establish a beachead near Florida and Guadalcanal
-    islands. From Tulagi and Gavutu-Tanambogo, the Americans could turn their
-    attention to the much larger islands in the Solomon chain and retake them
-    one by one. Douglas SBD Dauntless dive bombers from the new aircraft carrier
-    USS Wasp destroyed Japanese shore facilities and anti-aircraft nests while
-    Grumman F4F Wildcats strafed Japanese fighters and sea planes that were
-    anchored in the harbors. The Americans also had naval bombardment with the
-    cruiser USS San Juan and destroyers USS Monseen and USS Buchanan. US Marines
-    soon landed on Tulagi at 8:00 AM on August 7th and established a beachead
-    unopposed and began marching to the strategic outpost of Hill 281. By
-    nightfall, the Marines had captured almost 2/5ths of Tulagi without
-    encountering too much Japanese resistance. However, the Japanese
-    counterattacked at night and made slight progress by pushing the Marines
-    back. The resistance on Tulagi could not destroy the Americans completely
-    and by the afternoon of August 8th, Tulagi was confidently in American
-    hands.
-    <br></br>
-    <br></br>
-    The Marines also landed on Gavutu and Tanambogo islands at noon on August
-    7th. The occupation followed a similar cadence to the occupation of Tulagi
-    where US Marines made major progress but had to stop at nightfall. The
-    Japanese attacked in the night but failed to destroy the majoritry of the
-    American force. Constant naval bombardment also allowed the islets to be
-    captured by the end of August 9th. The United States lost 122 men occupying
-    the islands while the Japanese lost 863 men. After establishing control of
-    Tulagi and Gavutu-Tanambogo, General Alexander Vandgrift landed 11,000
-    Marines on the island of Guadalcanal. The Americans captured the strategic
-    Japanese airfield at the Lunga River and renamed it Henderson Field. This
-    airfield would become extremely important for control of Guadalcanal and the
-    rest of the Solomon islands campaign.
-    <br></br>
-    <figure>
-      <img
-        height="200"
-        src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TulagiBeachBlue.jpg/300px-TulagiBeachBlue.jpg"
-        alt="Landing at Tulagi"
-      ></img>
-      <figcaption>US Marines land ashore on Tulagi</figcaption>
-    </figure>
-    <figure>
-      <img
-        height="200"
-        src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/TulagiBattle1942.gif/220px-TulagiBattle1942.gif"
-        alt="Aerial of Tulagi"
-      ></img>
-      <figcaption>
-        Aerial photo of the US Marine advance to Hill 281 on Tulagi
-      </figcaption>
-    </figure>
-    <figure>
-      <img
-        height="200"
-        src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/TulagiRupertus.jpg/220px-TulagiRupertus.jpg"
-        alt="Rupertus superivising Tulagi assault"
-      ></img>
-      <figcaption>General Rupertus observes the landings on Tulagi</figcaption>
-    </figure>
-    <figure>
-      <img
-        height="200"
-        src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/TulagiMarineOfficers.jpg/220px-TulagiMarineOfficers.jpg"
-        alt="US Marines on Tulagi"
-      ></img>
-      <figcaption>
-        US Marine officers after the successful capture of Tulagi
-      </figcaption>
-    </figure>
-    <h3>Battle of Savo Island: August 8-9 1942</h3>
+    <p>
+      <h3>Battle of Tulagi and Gavutu-Tanambogo: August 7-9 1942</h3>
+      With the momentum following the sinking of four Japanese aircraft carriers
+      at Midway, the United States was eager to open up an offensive in the
+      Japanese controlled South Pacific. The Japanese had plans to invade New
+      Guinea and continue with the invasion of Australia and New Zealand. A
+      Japanese occupation of Australia and New Zealand would cut the British and
+      American trade routes and ties in the South Pacific. The United States
+      launched an invasion of the Solomon Islands where the Japanese had several
+      strategic airfields and naval bases (Rabaul being the primary one). The
+      United States chose to invade the small islands of Tulagi and
+      Gavutu-Tanambogo to establish a beachead near Florida and Guadalcanal
+      islands. From Tulagi and Gavutu-Tanambogo, the Americans could turn their
+      attention to the much larger islands in the Solomon chain and retake them
+      one by one. Douglas SBD Dauntless dive bombers from the new aircraft
+      carrier USS Wasp destroyed Japanese shore facilities and anti-aircraft
+      nests while Grumman F4F Wildcats strafed Japanese fighters and sea planes
+      that were anchored in the harbors. The Americans also had naval
+      bombardment with the cruiser USS San Juan and destroyers USS Monseen and
+      USS Buchanan. US Marines soon landed on Tulagi at 8:00 AM on August 7th
+      and established a beachead unopposed and began marching to the strategic
+      outpost of Hill 281. By nightfall, the Marines had captured almost 2/5ths
+      of Tulagi without encountering too much Japanese resistance. However, the
+      Japanese counterattacked at night and made slight progress by pushing the
+      Marines back. The resistance on Tulagi could not destroy the Americans
+      completely and by the afternoon of August 8th, Tulagi was confidently in
+      American hands.
+      <br></br>
+      <br></br>
+      The Marines also landed on Gavutu and Tanambogo islands at noon on August
+      7th. The occupation followed a similar cadence to the occupation of Tulagi
+      where US Marines made major progress but had to stop at nightfall. The
+      Japanese attacked in the night but failed to destroy the majoritry of the
+      American force. Constant naval bombardment also allowed the islets to be
+      captured by the end of August 9th. The United States lost 122 men
+      occupying the islands while the Japanese lost 863 men. After establishing
+      control of Tulagi and Gavutu-Tanambogo, General Alexander Vandgrift landed
+      11,000 Marines on the island of Guadalcanal. The Americans captured the
+      strategic Japanese airfield at the Lunga River and renamed it Henderson
+      Field. This airfield would become extremely important for control of
+      Guadalcanal and the rest of the Solomon islands campaign.
+      <br></br>
+      <figure>
+        <img
+          height="200"
+          src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/TulagiBattle1942.gif/220px-TulagiBattle1942.gif"
+          alt="Aerial of Tulagi"
+        ></img>
+        <figcaption>
+          Aerial photo of the US Marine advance to Hill 281 on Tulagi
+        </figcaption>
+      </figure>
+      <figure>
+        <img
+          height="200"
+          src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/TulagiRupertus.jpg/220px-TulagiRupertus.jpg"
+          alt="Rupertus superivising Tulagi assault"
+        ></img>
+        <figcaption>
+          General Rupertus observes the landings on Tulagi
+        </figcaption>
+      </figure>
+      <figure>
+        <img
+          height="200"
+          src="https://upload.wikimedia.org/wikipedia/commons/3/3d/TulagiBeachBlue.jpg"
+          alt="US Marines on Tulagi"
+        ></img>
+        <figcaption>Marines wade ashore on Tulagi</figcaption>
+      </figure>
+      <figure>
+        <img
+          height="200"
+          src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/TulagiMarineOfficers.jpg/220px-TulagiMarineOfficers.jpg"
+          alt="US Marines on Tulagi"
+        ></img>
+        <figcaption>
+          US Marine officers after the successful capture of Tulagi
+        </figcaption>
+      </figure>
+      <h3>Battle of Savo Island: August 8-9 1942</h3>
+    </p>
   </Layout>
 )
