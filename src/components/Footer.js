@@ -57,33 +57,31 @@ const icons = {
     path: "https://www.reddit.com/user/XLongshotz68",
   },
 }
+const iconWidth = 100 / Object.keys(icons).length
 
 export default () => (
   <footer>
     <ResponsiveContainer responsiveWidths={[3, 9]}>
-      <div mx="auto" style={{ textAlign: "left" }}>
-        Contact me:
-      </div>
-      <div mx="auto">
+      <div style={{ width: "100%", textAlign: "left" }}>Contact/Follow me:</div>
+      <div style={{ width: "100%" }}>
         <IconContext.Provider
           value={{
-            size: "30px",
+            size: "25px",
             className: "global-class-name",
           }}
         >
           {Object.keys(icons).map(icon => (
             <a
               className={"footerLink"}
-              target="_blank"
-              rel="noopener noreferrer"
+              target="blank"
               href={icons[icon].path}
+              style={{ width: `${iconWidth}%` }}
               key={icon}
               aria-label={icon}
-              px="5"
             >
               {icons[icon].icon()}
             </a>
-          ))}{" "}
+          ))}
         </IconContext.Provider>
       </div>
     </ResponsiveContainer>
