@@ -1,5 +1,8 @@
 import React from "react"
 import Layout from "../components/Layout"
+import Figure from "react-bootstrap/Figure"
+// import FigureImage from "react-bootstrap/FigureImage"
+// import FigureCaption from "react-bootstrap/FigureCaption"
 import "../styles/History.css"
 
 export default () => (
@@ -74,87 +77,88 @@ export default () => (
       completely by surprise and led to the outbreak of the Second Sino-Japanese
       war which began in 1937.
       <br></br>
-      <figure>
-        <img
+      <Figure>
+        <Figure.Image
           border="0"
           height="200"
           src="https://upload.wikimedia.org/wikipedia/commons/f/f0/Hideki_Tojo.jpg"
           alt="Tojo"
-          width="156"
-        ></img>
-        <figcaption>Tojo Hideki</figcaption>
-      </figure>
-      <figure>
-        <img
-          border="0"
-          height="200"
-          src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Tamon_Jiro.jpg"
-          alt="Jiro"
-          width="116"
-        ></img>
-        <figcaption>Jiro Tamon</figcaption>
-      </figure>
-      <figure>
-        <img
+          width="200"
+        ></Figure.Image>
+        <Figure.Caption>Tojo Hideki</Figure.Caption>
+      </Figure>
+      <Figure>
+        <Figure.Image
           border="0"
           height="200"
           src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Shigeru_Honjo.jpg/220px-Shigeru_Honjo.jpg"
           alt="Shigeru"
-          width="158"
-        ></img>
-        <figcaption>Shigeru Honjo</figcaption>
-      </figure>
-      <figure>
-        <img
-          border="0"
-          height="200"
-          src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Senjuro_Hayashi_suit.jpg/220px-Senjuro_Hayashi_suit.jpg"
-          alt="Senjuro"
-          width="134"
-        ></img>
-        <figcaption>Senjuro Hayashi</figcaption>
-      </figure>
-      <figure>
-        <img
+          width="200"
+        ></Figure.Image>
+        <Figure.Caption>Shigeru Honjo</Figure.Caption>
+      </Figure>
+      <Figure>
+        <Figure.Image
           border="0"
           height="200"
           src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Chiang_Kai-shek%EF%BC%88%E8%94%A3%E4%B8%AD%E6%AD%A3%EF%BC%89.jpg/220px-Chiang_Kai-shek%EF%BC%88%E8%94%A3%E4%B8%AD%E6%AD%A3%EF%BC%89.jpg"
           alt="Chiang Kai-Shek"
-          width="150"
-        ></img>
-        <figcaption>Chiang Kai-Shek</figcaption>
-      </figure>
-      <figure>
-        <img
+          width="200"
+        ></Figure.Image>
+        <Figure.Caption>Chiang Kai-Shek</Figure.Caption>
+      </Figure>
+      <Figure>
+        <Figure.Image
           border="0"
           height="200"
           src="http://vignette4.wikia.nocookie.net/totalwar-ar/images/8/80/Ma_Zhanshan.jpg/revision/latest?cb=20160829185254"
           alt="Ma"
-          width="140"
-        ></img>
-        <figcaption>Ma Zhanshan</figcaption>
-      </figure>
-      <figure>
-        <img
+          width="200"
+        ></Figure.Image>
+        <Figure.Caption>Ma Zhanshan</Figure.Caption>
+      </Figure>
+      <Figure>
+        <Figure.Image
           border="0"
           height="200"
           src="https://lyndenpacifictheater.files.wordpress.com/2014/04/ija_infantry_in_manchuria.jpg"
           alt="Japanese soldiers enter Manchuria"
-        ></img>
-        <figcaption>Japanese soldiers enter Manchuria.</figcaption>
-      </figure>
-      <figure>
-        <img
+          width="200"
+        ></Figure.Image>
+        <Figure.Caption>Japanese soldiers enter Manchuria.</Figure.Caption>
+      </Figure>
+      <Figure>
+        <Figure.Image
           border="0"
           height="200"
           src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Mukden_1931_japan_shenyang.jpg/250px-Mukden_1931_japan_shenyang.jpg"
           alt="Shneyang"
-        ></img>
-        <figcaption>
+          width="200"
+        ></Figure.Image>
+        <Figure.Caption>
           Japanese soldiers enter the city of Shenyang following the Mukden
           incident.
-        </figcaption>
-      </figure>
+        </Figure.Caption>
+      </Figure>
+      <Figure>
+        <Figure.Image
+          border="0"
+          height="200"
+          src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Senjuro_Hayashi_suit.jpg/220px-Senjuro_Hayashi_suit.jpg"
+          alt="Senjuro"
+          width="200"
+        ></Figure.Image>
+        <Figure.Caption>Senjuro Hayashi</Figure.Caption>
+      </Figure>
+      <Figure>
+        <Figure.Image
+          src="https://i.ebayimg.com/images/g/GKYAAOSwImRYhRtF/s-l300.jpg"
+          alt="Jiro"
+        ></Figure.Image>
+        <Figure.Caption>Jiro Tamon</Figure.Caption>
+      </Figure>
+    </p>
+    <p>
       <h3>Second Sino-Japanese War: 1939-1945</h3>
       <i>
         <b>
@@ -214,84 +218,86 @@ export default () => (
       into the modern era. The Second Sino-Japanese War marked the precursor to
       many events in Asia and the Pacific War as a whole.
       <br></br>
-      <figure>
-        <img
+      <Figure>
+        <Figure.Image
           border="0"
           height="200"
           src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Shanghai1937KMT_machine_gun_nest.jpg/240px-Shanghai1937KMT_machine_gun_nest.jpg"
           alt="Chinese MG nest"
           width="200"
-        ></img>
-        <figcaption>Chinese Machine Gun Nest.</figcaption>
-      </figure>
-      <figure>
-        <img
+        ></Figure.Image>
+        <Figure.Caption>Chinese Machine Gun Nest.</Figure.Caption>
+      </Figure>
+      <Figure>
+        <Figure.Image
           border="0"
           height="200"
           src="https://s-media-cache-ak0.pinimg.com/236x/09/73/a0/0973a098322540b5e22d526c7545532f.jpg"
           alt="Biplane"
           width="200"
-        ></img>
-        <figcaption>Chinese Air Force Biplane.</figcaption>
-      </figure>
-      <figure>
-        <img
+        ></Figure.Image>
+        <Figure.Caption>Chinese Air Force Biplane.</Figure.Caption>
+      </Figure>
+      <Figure>
+        <Figure.Image
           border="0"
           height="200"
           src="http://upload.wikimedia.org/wikipedia/commons/5/58/Ki-27_2.jpg"
           alt="Nate"
           width="400"
-        ></img>
-        <figcaption>Japanese Ki-27 "Nate"</figcaption>
-      </figure>
-      <figure>
-        <img
+        ></Figure.Image>
+        <Figure.Caption>Japanese Ki-27 "Nate"</Figure.Caption>
+      </Figure>
+      <Figure>
+        <Figure.Image
           border="0"
           height="200"
           src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Claire_L._Chennault.jpg/220px-Claire_L._Chennault.jpg"
           alt="Chennault"
-        ></img>
-        <figcaption>Claire Lee Chennault</figcaption>
-      </figure>
-      <figure>
-        <img
+        ></Figure.Image>
+        <Figure.Caption>Claire Lee Chennault</Figure.Caption>
+      </Figure>
+      <Figure>
+        <Figure.Image
           border="0"
           height="200"
           src="http://i2.cdn.cnn.com/cnnnext/dam/assets/160920082228-flying-tigers-3rd-squadron-hells-angels-exlarge-169.jpg"
           alt="Flying Tigers"
           width="320"
-        ></img>
-        <figcaption>Flying Tigers</figcaption>
-      </figure>
-      <figure>
-        <img
+        ></Figure.Image>
+        <Figure.Caption>Flying Tigers</Figure.Caption>
+      </Figure>
+      <Figure>
+        <Figure.Image
           border="0"
           height="200"
           src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Nanking_bodies_1937.jpg/300px-Nanking_bodies_1937.jpg"
           alt="Nanking"
-        ></img>
-        <figcaption>Nanking after the Massacre</figcaption>
-      </figure>
-      <figure>
-        <img
+        ></Figure.Image>
+        <Figure.Caption>Nanking after the Massacre</Figure.Caption>
+      </Figure>
+      <Figure>
+        <Figure.Image
           border="0"
           height="200"
           src="https://250722-778774-raikfcquaxqncofqfm.stackpathdns.com/images/handbook/entries/CC/chiang_soong_chennault.jpg"
           alt="Chennault+Chiang Kai-Shek"
           width="224"
-        ></img>
-        <figcaption>Claire Chennault and Chiang Kai-Shek</figcaption>
-      </figure>
-      <figure>
-        <img
+        ></Figure.Image>
+        <Figure.Caption>Claire Chennault and Chiang Kai-Shek</Figure.Caption>
+      </Figure>
+      <Figure>
+        <Figure.Image
           border="0"
           height="200"
           src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Mao_1925.jpg/220px-Mao_1925.jpg"
           alt="Mao"
           width="200"
-        ></img>
-        <figcaption>A young Mao Zedong</figcaption>
-      </figure>
+        ></Figure.Image>
+        <Figure.Caption>A young Mao Zedong</Figure.Caption>
+      </Figure>
+    </p>
+    <p>
       <h3>Japanese Moves In the Pacific: 1940-1942</h3>
       After the successful invasion of China, Japan was eager to extend its
       empire across the Pacific. Japan as an island nation, needed to expand and
@@ -313,45 +319,51 @@ export default () => (
       Solomons, and Marianas islands. With their territorial gains, the Allied
       powers knew that war would be imminent with Japan.
       <br></br>
-      <figure>
-        <img
+      <Figure>
+        <Figure.Image
           height="149"
           src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Japanese_base_at_Dublon_Island_Truk_in_February_1944.jpg"
           alt="Truk"
           width="200"
-        ></img>
-        <figcaption>
+        ></Figure.Image>
+        <Figure.Caption>
           Truk Atoll in the Caroline Islands as a Japanese Base.
-        </figcaption>
-      </figure>
-      <figure>
-        <img
+        </Figure.Caption>
+      </Figure>
+      <Figure>
+        <Figure.Image
           height="142"
           src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Japanese_troops_entering_Saigon_in_1941.jpg/300px-Japanese_troops_entering_Saigon_in_1941.jpg"
           alt="Indochina"
           width="200"
-        ></img>
-        <figcaption>Japanese forces entering Saigon in Vietnam.</figcaption>
-      </figure>
-      <figure>
-        <img
+        ></Figure.Image>
+        <Figure.Caption>
+          Japanese forces entering Saigon in Vietnam.
+        </Figure.Caption>
+      </Figure>
+      <Figure>
+        <Figure.Image
           height="200"
           src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Ww2_131.jpg"
           alt="Philippines"
-        ></img>
-        <figcaption>Japanese forces move through the Philippines.</figcaption>
-      </figure>
-      <figure>
-        <img
+          width="200"
+        ></Figure.Image>
+        <Figure.Caption>
+          Japanese forces move through the Philippines.
+        </Figure.Caption>
+      </Figure>
+      <Figure>
+        <Figure.Image
           height="200"
           src="https://ww2days.com/images/Holland_Japanese_attacks_Dutch_East_Indies_1_580x396.jpg"
           alt="Map of Dutch East Indies invasion"
-        ></img>
-        <figcaption>
+          width="200"
+        ></Figure.Image>
+        <Figure.Caption>
           Map of Japanese expansion in the Dutch East Indies (modern day
           Indonesia).
-        </figcaption>
-      </figure>
+        </Figure.Caption>
+      </Figure>
     </p>
     <h2>The Beginning</h2>
     <p>
@@ -408,91 +420,106 @@ export default () => (
       declarations of war on Germany and Italy. World War II had officially
       begun for the United States.
       <br></br>
-      <figure>
-        <img
-          height="200"
+      <Figure>
+        <Figure.Image
+          height="400"
           src="https://s-media-cache-ak0.pinimg.com/originals/19/ca/e5/19cae5b7574da72423ca44990a7e58f3.jpg"
           alt="Kate leaving Shokaku"
-          width="200"
-        ></img>
-        <figcaption>
+          width="400"
+        ></Figure.Image>
+        <Figure.Caption>
           A "Kate" torpedo bomber leaves aircraft carrier Shokaku
-        </figcaption>
-      </figure>
-      <figure>
-        <img
-          height="200"
+        </Figure.Caption>
+      </Figure>
+      {/* <Figure>
+        <Figure.Image
+          height="400"
           src="https://c1.staticflickr.com/4/3289/2330916553_c680d1dd6f_b.jpg"
           alt="Battleship Row"
           width="400"
-        ></img>
-        <figcaption>Battleship Row</figcaption>
-      </figure>
-      <figure>
-        <img
-          height="200"
+        ></Figure.Image>
+        <Figure.Caption>Battleship Row</Figure.Caption>
+      </Figure> */}
+      <Figure>
+        <Figure.Image
+          height="400"
           src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Attack_on_Pearl_Harbor_Japanese_planes_view.jpg/1200px-Attack_on_Pearl_Harbor_Japanese_planes_view.jpg"
           alt="Attack on Pearl Harbor"
-          width="320"
-        ></img>
-        <figcaption>Japanese planes attacking Pearl Harbor</figcaption>
-      </figure>
-      <figure>
-        <img
-          height="200"
-          src="https://media1.britannica.com/eb-media/81/71381-004-534732C4.jpg"
+          width="400"
+        ></Figure.Image>
+        <Figure.Caption>Japanese planes attacking Pearl Harbor</Figure.Caption>
+      </Figure>
+      <Figure>
+        <Figure.Image
+          height="400"
+          src="https://www.nist.gov/sites/default/files/images/2017/06/29/uss_arizona_burning_after_japanese_attack.jpg"
           alt="USS Arizona"
-          width="320"
-        ></img>
-        <figcaption>USS Arizona sinking</figcaption>
-      </figure>
-      <figure>
-        <img
-          height="200"
+          width="400"
+        ></Figure.Image>
+        <Figure.Caption>USS Arizona sinking</Figure.Caption>
+      </Figure>
+      <Figure>
+        <Figure.Image
+          height="400"
           src="https://www.defensemedianetwork.com/wp-content/uploads/2011/12/Pearl_harborBB-Row.jpg"
           alt="Carnage on American Ships"
-        ></img>
-        <figcaption>Three US Battleships on fire and sunk</figcaption>
-      </figure>
-      <figure>
-        <img
-          height="200"
-          src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQipjkrBzqzlFkRYOoiw5nXbZlk-0tyLI-NheHBOyQQO8cQSAjf&usqp=CAU"
-          alt="Hickam Airfiled"
-        ></img>
-        <figcaption>
-          Hickam Airfield burning after the first Japanese attack
-        </figcaption>
-      </figure>
-      <figure>
-        <img
-          height="200"
+          width="400"
+        ></Figure.Image>
+        <Figure.Caption>Three US Battleships on fire and sunk</Figure.Caption>
+      </Figure>
+      <Figure>
+        <Figure.Image
+          height="400"
           src="https://sites.google.com/a/bsd7.org/america-combo/_/rsrc/1429735646178/workshops/-a-day-of-infamy-analyzing-fdr-s-speech/fdr0906b1.jpg"
           alt="FDR Pearl Harbor"
-        ></img>
-        <figcaption>
+          width="400"
+        ></Figure.Image>
+        <Figure.Caption>
           President Franklin D. Roosevelt addressing Congress
-        </figcaption>
-      </figure>
-      <figure>
-        <img
-          height="200"
-          src="https://nationalinterest.org/sites/default/files/main_images/A633%20%281%29.jpg"
-          alt="Destroyed B-17"
-        ></img>
-        <figcaption>A destroyed B-17 following the attack.</figcaption>
-      </figure>
-      <figure>
-        <img
-          height="200"
+        </Figure.Caption>
+      </Figure>
+      {/* <Figure>
+        <Figure.Image
+          height="1000"
+          src="https://c1.staticflickr.com/4/3289/2330916553_c680d1dd6f_b.jpg"
+          alt="Battleship Row"
+        ></Figure.Image>
+        <Figure.Caption>Battleship Row</Figure.Caption>
+      </Figure> */}
+      <Figure>
+        <Figure.Image
+          height="400"
           src="https://www.gchq.gov.uk/images/Japanese_planes_prepare_to_attack_Pearl_Harbor-768x512px.jpg"
           alt="Ready to attack!"
-        ></img>
-        <figcaption>
+          width="400"
+        ></Figure.Image>
+        <Figure.Caption>
           Mitsubishi A6M Zeros ready on the flight deck of a Japanese carrier
           prior to the attack
-        </figcaption>
-      </figure>
+        </Figure.Caption>
+      </Figure>
+      <Figure>
+        <Figure.Image
+          height="400"
+          src="https://nationalinterest.org/sites/default/files/main_images/A633%20%281%29.jpg"
+          alt="Destroyed B-17"
+          width="400"
+        ></Figure.Image>
+        <Figure.Caption>A destroyed B-17 following the attack.</Figure.Caption>
+      </Figure>
+      <Figure>
+        <Figure.Image
+          height="400"
+          src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQipjkrBzqzlFkRYOoiw5nXbZlk-0tyLI-NheHBOyQQO8cQSAjf&usqp=CAU"
+          alt="Hickam Airfiled"
+          width="400"
+        ></Figure.Image>
+        <Figure.Caption>
+          Hickam Airfield burning after the first Japanese attack
+        </Figure.Caption>
+      </Figure>
+    </p>
+    <p>
       <h3>First Indian Ocean Raid: March 31st, 1942 - April 10th, 1942</h3>
       <i>
         <b>
@@ -535,39 +562,45 @@ export default () => (
       carrier attacks, the British did not challenge the later raids on Darwin
       in Australia and the invasion of Guadalcanal.
       <br></br>
-      <figure>
-        <img
+      <Figure>
+        <Figure.Image
           height="200"
           src="https://movingimages.files.wordpress.com/2012/04/indian-ocean-raid-april-1942.jpg"
           alt="Indian Ocean Raid"
           width="320"
-        ></img>
-        <figcaption>Map of the First Indian Ocean Raid</figcaption>
-      </figure>
-      <figure>
-        <img
+        ></Figure.Image>
+        <Figure.Caption>Map of the First Indian Ocean Raid</Figure.Caption>
+      </Figure>
+      <Figure>
+        <Figure.Image
           height="200"
           src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/GF_in_Indian_Ocean%2C_1942.jpg/220px-GF_in_Indian_Ocean%2C_1942.jpg"
           alt="Japanese Carrier force"
-        ></img>
-        <figcaption>Japanese Fast Aircraft Carrier Force</figcaption>
-      </figure>
-      <figure>
-        <img
+        ></Figure.Image>
+        <Figure.Caption>Japanese Fast Aircraft Carrier Force</Figure.Caption>
+      </Figure>
+      <Figure>
+        <Figure.Image
           height="200"
           src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Dorsetshire%26Cornwall.jpg/300px-Dorsetshire%26Cornwall.jpg"
           alt="British cruisers sinking"
-        ></img>
-        <figcaption>HMS Cornwall and HMS Dorsetshire under attack</figcaption>
-      </figure>
-      <figure>
-        <img
+        ></Figure.Image>
+        <Figure.Caption>
+          HMS Cornwall and HMS Dorsetshire under attack
+        </Figure.Caption>
+      </Figure>
+      <Figure>
+        <Figure.Image
           height="200"
           src="https://pacificeagles.net/wp-content/uploads/2017/02/Zuikaku_Indian_Ocean_April_1942-678x381.jpg"
           alt="Japanese attack Colombo"
-        ></img>
-        <figcaption>Japanese aircraft prepare to attack Colombo</figcaption>
-      </figure>
+        ></Figure.Image>
+        <Figure.Caption>
+          Japanese aircraft prepare to attack Colombo
+        </Figure.Caption>
+      </Figure>
+    </p>
+    <p>
       <h3>The Doolittle Raid: April 18th, 1942</h3>
       <i>
         <b>
@@ -623,80 +656,92 @@ export default () => (
       reduced. Japan enjoyed this naval advantage all the way up until
       Guadalcanal.
       <br></br>
-      <figure>
-        <img
-          height="200"
-          src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Army_B-25_%28Doolittle_Raid%29.jpg/300px-Army_B-25_%28Doolittle_Raid%29.jpg"
-          alt="B-25 taking off from Hornet"
-        ></img>
-        <figcaption>
-          A B-25 lifts off from the carrier USS Hornet for Japan
-        </figcaption>
-      </figure>
-      <figure>
-        <img
+      <Figure>
+        <Figure.Image
           height="200"
           src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Dolittle_Raider%2C_Plane_1.jpg/1280px-Dolittle_Raider%2C_Plane_1.jpg"
           alt="Doolittle and his men"
-        ></img>
-        <figcaption>
+          width="200"
+        ></Figure.Image>
+        <Figure.Caption>
           Colonel Doolittle and his B-25 flight crew aboard Hornet
-        </figcaption>
-      </figure>
-      <figure>
-        <img
+        </Figure.Caption>
+      </Figure>
+      <Figure>
+        <Figure.Image
           height="200"
           src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/USS_Hornet_%28CV-8%29_with_USS_Gwin_%28DD-433%29_during_Doolittle_Raid_1942.jpg/1280px-USS_Hornet_%28CV-8%29_with_USS_Gwin_%28DD-433%29_during_Doolittle_Raid_1942.jpg"
           alt="B-25s on Hornet"
-        ></img>
-        <figcaption>Hornet with her task force and the B-25s</figcaption>
-      </figure>
-      <figure>
-        <img
-          height="200"
-          src="https://upload.wikimedia.org/wikipedia/commons/5/51/No.23-NittoMaru-1942.jpg"
-          alt="Nitto Maru"
-        ></img>
-        <figcaption>
-          Nitto Maru sinking after hits from US cruiser Nashville
-        </figcaption>
-      </figure>
-      <figure>
-        <img
-          height="200"
-          src="https://upload.wikimedia.org/wikipedia/commons/c/c1/DoolittleRaiders_China_h97502.jpg"
-          alt="Doolittle and his men with the Chinese"
-        ></img>
-        <figcaption>Doolittle and his men with the Chinese</figcaption>
-      </figure>
-      <figure>
-        <img
-          height="200"
-          src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/208-PU-52-LL-12_%2834371208606%29.jpg/220px-208-PU-52-LL-12_%2834371208606%29.jpg"
-          alt="Doolittle Medal of Honor"
-        ></img>
-        <figcaption>Doolittle receiving the Medal of Honor</figcaption>
-      </figure>
-      <figure>
-        <img
-          height="200"
-          src="https://secure-images.rarenewspapers.com/ebayimgs/6.17.2015/image020.jpg"
-          alt="LA Times Doolittle"
-        ></img>
-        <figcaption>
-          Los Angeles Times headline about the Doolittle Raid
-        </figcaption>
-      </figure>
-      <figure>
-        <img
+          width="200"
+        ></Figure.Image>
+        <Figure.Caption>
+          Hornet with her task force and the B-25s
+        </Figure.Caption>
+      </Figure>
+      <Figure>
+        <Figure.Image
           height="200"
           src="https://www.ibiblio.org/hyperwar/OnlineLibrary/photos/images/g320000/g324232.jpg"
           alt="USS Enterprise Escort"
-        ></img>
-        <figcaption>
+          width="200"
+        ></Figure.Image>
+        <Figure.Caption>
           USS Fanning escorting USS Enterprise on the Doolittle Raid
-        </figcaption>
-      </figure>
+        </Figure.Caption>
+      </Figure>
+      <Figure>
+        <Figure.Image
+          height="200"
+          src="https://upload.wikimedia.org/wikipedia/commons/c/c1/DoolittleRaiders_China_h97502.jpg"
+          alt="Doolittle and his men with the Chinese"
+          width="200"
+        ></Figure.Image>
+        <Figure.Caption>Doolittle and his men with the Chinese</Figure.Caption>
+      </Figure>
+      <Figure>
+        <Figure.Image
+          height="200"
+          src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/208-PU-52-LL-12_%2834371208606%29.jpg/220px-208-PU-52-LL-12_%2834371208606%29.jpg"
+          alt="Doolittle Medal of Honor"
+          width="200"
+        ></Figure.Image>
+        <Figure.Caption>Doolittle receiving the Medal of Honor</Figure.Caption>
+      </Figure>
+      <Figure>
+        <Figure.Image
+          height="200"
+          src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Army_B-25_%28Doolittle_Raid%29.jpg/300px-Army_B-25_%28Doolittle_Raid%29.jpg"
+          alt="B-25 taking off from Hornet"
+          width="auto"
+        ></Figure.Image>
+        <Figure.Caption>
+          A B-25 lifts off from the carrier USS Hornet for Japan
+        </Figure.Caption>
+      </Figure>
+      <Figure>
+        <Figure.Image
+          height="200"
+          src="https://secure-images.rarenewspapers.com/ebayimgs/6.17.2015/image020.jpg"
+          alt="LA Times Doolittle"
+          width="200"
+        ></Figure.Image>
+        <Figure.Caption>
+          Los Angeles Times headline about the Doolittle Raid
+        </Figure.Caption>
+      </Figure>
+      <Figure>
+        <Figure.Image
+          height="200"
+          src="https://upload.wikimedia.org/wikipedia/commons/5/51/No.23-NittoMaru-1942.jpg"
+          alt="Nitto Maru"
+          width="200"
+        ></Figure.Image>
+        <Figure.Caption>
+          Nitto Maru sinking after hits from US cruiser Nashville
+        </Figure.Caption>
+      </Figure>
+    </p>
+    <p>
       <h3>Battle of the Coral Sea: May 4th-8th, 1942</h3>
       <i>
         <b>
@@ -760,74 +805,84 @@ export default () => (
       the Australians. Coral Sea was a Japanese tactical victory, but a United
       States strategic victory.
       <br></br>
-      <figure>
-        <img
-          height="200"
-          src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/USS_Yorktown_%28CV-5%29_during_the_Battle_of_the_Coral_Sea%2C_April_1942.jpg/220px-USS_Yorktown_%28CV-5%29_during_the_Battle_of_the_Coral_Sea%2C_April_1942.jpg"
-          alt="Yorktown before battle"
-        ></img>
-        <figcaption>Yorktown before the battle</figcaption>
-      </figure>
-      <figure>
-        <img
+      <Figure>
+        <Figure.Image
           height="200"
           src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Zuikaku_air_raid.jpg/220px-Zuikaku_air_raid.jpg"
           alt="Zuikaku air raid"
-        ></img>
-        <figcaption>Aircraft readying on Zuikaku</figcaption>
-      </figure>
-      <figure>
-        <img
+          width="200"
+        ></Figure.Image>
+        <Figure.Caption>Aircraft readying on Zuikaku</Figure.Caption>
+      </Figure>
+      <Figure>
+        <Figure.Image
           height="200"
           src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Coral_Sea_Neosho_Burning.jpg/220px-Coral_Sea_Neosho_Burning.jpg"
           alt="Neosho burning"
-        ></img>
-        <figcaption>Neosho on fire and sinking</figcaption>
-      </figure>
-      <figure>
-        <img
+          width="200"
+        ></Figure.Image>
+        <Figure.Caption>Neosho on fire and sinking</Figure.Caption>
+      </Figure>
+      <Figure>
+        <Figure.Image
           height="200"
           src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Shoho_g17026.jpg/220px-Shoho_g17026.jpg"
           alt="Shoho on fire"
-        ></img>
-        <figcaption>Shoho on fire and sinking</figcaption>
-      </figure>
-      <figure>
-        <img
-          height="200"
-          src="https://upload.wikimedia.org/wikipedia/commons/8/81/Zero_launching_from_a_Japanese_carrier.jpg"
-          alt="Japanese Zero launching"
-        ></img>
-        <figcaption>
-          Zeros depart from Shokaku to strike the US carriers
-        </figcaption>
-      </figure>
-      <figure>
-        <img
-          height="200"
-          src="https://pacificeagles.net/wp-content/uploads/2017/08/Lexington-sinking-in-Coral-Sea-678x381.jpg"
-          alt="Lexington sinking"
-        ></img>
-        <figcaption>Lexington abandoned and sinking</figcaption>
-      </figure>
-      <figure>
-        <img
-          height="200"
-          src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/USS_Yorktown_%28CV-5%29_in_a_dry_dock_at_the_Pearl_Harbor_Naval_Shipyard%2C_29_May_1942_%2880-G-13065%29.jpg/220px-USS_Yorktown_%28CV-5%29_in_a_dry_dock_at_the_Pearl_Harbor_Naval_Shipyard%2C_29_May_1942_%2880-G-13065%29.jpg"
-          alt="Yorktown undergoing repairs"
-        ></img>
-        <figcaption>Yorktown undergoing repairs for Midway</figcaption>
-      </figure>
-      <figure>
-        <img
+          width="200"
+        ></Figure.Image>
+        <Figure.Caption>Shoho on fire and sinking</Figure.Caption>
+      </Figure>
+      <Figure>
+        <Figure.Image
           height="200"
           src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Coral_Sea_Japanese_Type_99.jpg/220px-Coral_Sea_Japanese_Type_99.jpg"
           alt="Japanese Dive Bombers search for US fleet"
-        ></img>
-        <figcaption>
+          width="200"
+        ></Figure.Image>
+        <Figure.Caption>
           Japanese "Val" Dive Bombers head towards the US carriers
-        </figcaption>
-      </figure>
+        </Figure.Caption>
+      </Figure>
+      <Figure>
+        <Figure.Image
+          height="200"
+          src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/USS_Yorktown_%28CV-5%29_during_the_Battle_of_the_Coral_Sea%2C_April_1942.jpg/220px-USS_Yorktown_%28CV-5%29_during_the_Battle_of_the_Coral_Sea%2C_April_1942.jpg"
+          alt="Yorktown before battle"
+          width="200"
+        ></Figure.Image>
+        <Figure.Caption>Yorktown before the battle</Figure.Caption>
+      </Figure>
+      <Figure>
+        <Figure.Image
+          height="200"
+          src="https://pacificeagles.net/wp-content/uploads/2017/08/Lexington-sinking-in-Coral-Sea-678x381.jpg"
+          alt="Lexington sinking"
+          width="200"
+        ></Figure.Image>
+        <Figure.Caption>Lexington abandoned and sinking</Figure.Caption>
+      </Figure>
+      <Figure>
+        <Figure.Image
+          height="200"
+          src="https://upload.wikimedia.org/wikipedia/commons/8/81/Zero_launching_from_a_Japanese_carrier.jpg"
+          alt="Japanese Zero launching"
+          width="200"
+        ></Figure.Image>
+        <Figure.Caption>
+          Zeros depart from Shokaku to strike the US carriers
+        </Figure.Caption>
+      </Figure>
+      <Figure>
+        <Figure.Image
+          height="200"
+          src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/USS_Yorktown_%28CV-5%29_in_a_dry_dock_at_the_Pearl_Harbor_Naval_Shipyard%2C_29_May_1942_%2880-G-13065%29.jpg/220px-USS_Yorktown_%28CV-5%29_in_a_dry_dock_at_the_Pearl_Harbor_Naval_Shipyard%2C_29_May_1942_%2880-G-13065%29.jpg"
+          alt="Yorktown undergoing repairs"
+          width="200"
+        ></Figure.Image>
+        <Figure.Caption>Yorktown undergoing repairs for Midway</Figure.Caption>
+      </Figure>
+    </p>
+    <p>
       <h3>Battle of Midway: June 4th - 7th, 1942</h3>
       <i>
         <b>
@@ -934,82 +989,83 @@ export default () => (
       were now the only two US battle ready carriers to oppose any future
       Japanese moves in the Pacific.
       <br></br>
-      <figure>
-        <img
-          height="200"
-          src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/AkagiDeckApril42.jpg/220px-AkagiDeckApril42.jpg"
-          alt="Akagi"
-        ></img>
-        <figcaption>Japanese carrier Akagi served as flagship.</figcaption>
-      </figure>
-      <figure>
-        <img
+      <Figure>
+        <Figure.Image
           height="200"
           src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Douglas_TBD-1_Devastators_of_VT-6_are_spotted_for_launch_aboard_USS_Enterprise_%28CV-6%29_on_4_June_1942_%2880-G-41686%29.jpg/220px-Douglas_TBD-1_Devastators_of_VT-6_are_spotted_for_launch_aboard_USS_Enterprise_%28CV-6%29_on_4_June_1942_%2880-G-41686%29.jpg"
           alt="TBD1 Devestator"
-        ></img>
-        <figcaption>
+        ></Figure.Image>
+        <Figure.Caption>
           TBD Devastator torpedo bombers on the flight deck on USS Enterprise.
-        </figcaption>
-      </figure>
-      <figure>
-        <img
+        </Figure.Caption>
+      </Figure>
+      <Figure>
+        <Figure.Image
           height="200"
           src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/USS_Yorktown_%28CV-5%29_is_hit_by_a_torpedo_on_4_June_1942.jpg/220px-USS_Yorktown_%28CV-5%29_is_hit_by_a_torpedo_on_4_June_1942.jpg"
           alt="Yorktown hit"
-        ></img>
-        <figcaption>
+        ></Figure.Image>
+        <Figure.Caption>
           Yorktown under attack from Kate torpedo bombers from Hiryu
-        </figcaption>
-      </figure>
-      <figure>
-        <img
-          height="200"
-          src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Japanese_heavy_cruiser_Mikuma_sinking_on_6_June_1942_%2880-G-414422%29.jpg/220px-Japanese_heavy_cruiser_Mikuma_sinking_on_6_June_1942_%2880-G-414422%29.jpg"
-          alt="Mikuma"
-        ></img>
-        <figcaption>
-          Mikuma sinking after attacks from dive bombers and USS Tambor
-        </figcaption>
-      </figure>
-      <figure>
-        <img
-          height="200"
-          src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Midway_survivor_on_PBY.jpg/220px-Midway_survivor_on_PBY.jpg"
-          alt="Catalina"
-        ></img>
-        <figcaption>A rescued US airman on Midway Atoll</figcaption>
-      </figure>
-      <figure>
-        <img
-          height="200"
-          src="https://cbsnews3.cbsistatic.com/hub/i/r/2017/06/02/7f602f2c-abae-44b3-9dd4-0b552ff67cbc/thumbnail/1200x630/d148571a7048d8f11ae09d34b30c0b30/battle-of-midway-dive-bombers-attack-japanese-ship-nara.jpg"
-          alt="Japanese Dive bombers"
-        ></img>
-        <figcaption>
-          Douglas SBD Dauntless dive bombers prepare to attack cruiser Mikuma
-        </figcaption>
-      </figure>
-      <figure>
-        <img
+        </Figure.Caption>
+      </Figure>
+      <Figure>
+        <Figure.Image
           height="200"
           src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Japanese_aircraft_carrier_Hiryu_adrift_and_burning_on_5_June_1942_%28NH_73065%29.jpg/220px-Japanese_aircraft_carrier_Hiryu_adrift_and_burning_on_5_June_1942_%28NH_73065%29.jpg"
           alt="Hiryu burning"
-        ></img>
-        <figcaption>
+        ></Figure.Image>
+        <Figure.Caption>
           Hiryu shortly before sinking following hits from Enterprise and Hornet
-        </figcaption>
-      </figure>
-      <figure>
-        <img
+        </Figure.Caption>
+      </Figure>
+      <Figure>
+        <Figure.Image
+          height="200"
+          src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Japanese_heavy_cruiser_Mikuma_sinking_on_6_June_1942_%2880-G-414422%29.jpg/220px-Japanese_heavy_cruiser_Mikuma_sinking_on_6_June_1942_%2880-G-414422%29.jpg"
+          alt="Mikuma"
+        ></Figure.Image>
+        <Figure.Caption>
+          Mikuma sinking after attacks from dive bombers and USS Tambor
+        </Figure.Caption>
+      </Figure>
+      {/* <Figure>
+        <Figure.Image
+          height="200"
+          src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Midway_survivor_on_PBY.jpg/220px-Midway_survivor_on_PBY.jpg"
+          alt="Catalina"
+        ></Figure.Image>
+        <Figure.Caption>A rescued US airman on Midway Atoll</Figure.Caption>
+      </Figure>
+      <Figure>
+        <Figure.Image
+          height="200"
+          src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/AkagiDeckApril42.jpg/220px-AkagiDeckApril42.jpg"
+          alt="Akagi"
+        ></Figure.Image>
+        <Figure.Caption>
+          Japanese carrier Akagi served as flagship.
+        </Figure.Caption>
+      </Figure>
+      <Figure>
+        <Figure.Image
+          height="200"
+          src="https://cbsnews3.cbsistatic.com/hub/i/r/2017/06/02/7f602f2c-abae-44b3-9dd4-0b552ff67cbc/thumbnail/1200x630/d148571a7048d8f11ae09d34b30c0b30/battle-of-midway-dive-bombers-attack-japanese-ship-nara.jpg"
+          alt="Japanese Dive bombers"
+        ></Figure.Image>
+        <Figure.Caption>
+          Douglas SBD Dauntless dive bombers prepare to attack cruiser Mikuma
+        </Figure.Caption>
+      </Figure>
+      <Figure>
+        <Figure.Image
           height="200"
           src="https://nationalinterest.org/sites/default/files/main_images/23876676272_39224239bb_b.jpg"
           alt="Starboard Mikuma"
-        ></img>
-        <figcaption>Starboard view of Mikuma on fire</figcaption>
-      </figure>
+        ></Figure.Image>
+        <Figure.Caption>Starboard view of Mikuma on fire</Figure.Caption>
+      </Figure> */}
     </p>
-
     <h2>The Solomon Islands Campaign</h2>
     <p>
       <h3>Battle of Tulagi and Gavutu-Tanambogo: August 7-9 1942</h3>
@@ -1053,44 +1109,50 @@ export default () => (
       Field. This airfield would become extremely important for control of
       Guadalcanal and the rest of the Solomon islands campaign.
       <br></br>
-      <figure>
-        <img
+      <Figure>
+        <Figure.Image
           height="200"
           src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/TulagiBattle1942.gif/220px-TulagiBattle1942.gif"
           alt="Aerial of Tulagi"
-        ></img>
-        <figcaption>
+          width="200"
+        ></Figure.Image>
+        <Figure.Caption>
           Aerial photo of the US Marine advance to Hill 281 on Tulagi
-        </figcaption>
-      </figure>
-      <figure>
-        <img
+        </Figure.Caption>
+      </Figure>
+      <Figure>
+        <Figure.Image
           height="200"
           src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/TulagiRupertus.jpg/220px-TulagiRupertus.jpg"
           alt="Rupertus superivising Tulagi assault"
-        ></img>
-        <figcaption>
+          width="200"
+        ></Figure.Image>
+        <Figure.Caption>
           General Rupertus observes the landings on Tulagi
-        </figcaption>
-      </figure>
-      <figure>
-        <img
+        </Figure.Caption>
+      </Figure>
+      <Figure>
+        <Figure.Image
           height="200"
           src="https://upload.wikimedia.org/wikipedia/commons/3/3d/TulagiBeachBlue.jpg"
           alt="US Marines on Tulagi"
-        ></img>
-        <figcaption>Marines wade ashore on Tulagi</figcaption>
-      </figure>
-      <figure>
-        <img
+          width="200"
+        ></Figure.Image>
+        <Figure.Caption>Marines wade ashore on Tulagi</Figure.Caption>
+      </Figure>
+      <Figure>
+        <Figure.Image
           height="200"
           src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/TulagiMarineOfficers.jpg/220px-TulagiMarineOfficers.jpg"
           alt="US Marines on Tulagi"
-        ></img>
-        <figcaption>
+          width="200"
+        ></Figure.Image>
+        <Figure.Caption>
           US Marine officers after the successful capture of Tulagi
-        </figcaption>
-      </figure>
+        </Figure.Caption>
+      </Figure>
+    </p>
+    <p>
       <h3>Battle of Savo Island: August 8-9 1942</h3>
     </p>
   </Layout>

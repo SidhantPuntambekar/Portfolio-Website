@@ -82,9 +82,9 @@ const carouselInformation = [
         "One of my favorite TV shows right now is Billions. This show follows a powerful hedge fund manager named Bobby Axelrod and a shrewd prosecutor named Chuch Rhoades. Axe is known for always squeezing the maximum amount of profit for his investors by any means possible including insider trading techniques while Chuck is always on his heels trying to apprehend him. The series also features intriguing characters such as Taylor Mason, Dollar Bill, and Chuck's wife Wendy Rhoades. I think the writers of this show are incredible given the plethora of allusions in the dialogue as well as the suspense built with the cat and mouse game of Wall Street hedge funds and government authorities."
       ),
       new CarouselItem(
-        "Designated Survivor",
-        "https://upload.wikimedia.org/wikipedia/en/5/5a/Designated_Survivor_titlecard.png",
-        "Designated Survivor is a new show I started watching on Netflix that deals with a doomsday scenario for the United States. Out of the ashes, a new President by the name of Tom Kirkman is sworn in and is thrust into many international crises involving the United States. However, he does have a very strong White House staff which allows him to come to consensus solutions to these crises. Overall, I think this show is great for highlighting several key issues currently facing the United States and how bipartisanship is the solution to solving these problems."
+        "Seinfeld",
+        "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR_IWBt4YnFoz09CmM9VT3Asl0jsmTbZ24orsw_WH4NudjTJVCA",
+        "Seinfeld is another one of my favorite comedy shows. The show has been termed a show about nothing in which the four main characters (Jerry Seinfeld, George Costanza, Elaine Benes, and Cosmo Kramer) experience the absolute minutia of everyday life in New York City. Both Jerry Seinfeld and Larry David are some of the most iconic writers and comedians on television and every episode feels somewhat oddly relatable to what people go through in their daily lives."
       ),
       new CarouselItem(
         "Last Week Tonight with John Oliver",
