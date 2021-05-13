@@ -183,7 +183,7 @@ class App extends React.Component {
           />
           <p responsiveWidth="9" style={{ margin: "10px" }}>
             Welcome to my portfolio website! My name is Sidhant Puntambekar and
-            I am currently a freshman undergraduate at the University of
+            I am currently a sophomore undergraduate at the University of
             Colorado, Boulder. I am currently majoring in Computer Science and
             plan to minor in Molecular, Cellular, and Developmental Biology and
             Computational Biology. While my main passions are in the areas of
