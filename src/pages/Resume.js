@@ -6,17 +6,17 @@ const resume = () => (
     <h2>Résumé</h2>
     <p>
       My résumé is available at the following{" "}
-      {/* <a
+      <a
         href={
           "https://drive.google.com/file/d/1fK9AA9fNa7nWl52VrlSl9GBVqzF0jzKe/view?usp=sharing"
         }
         target="blank"
       >
         link
-      </a> */}
-      <a href="../ResumePuntambekarWebsite.pdf">link</a>. It is a PDF compiled
-      with LaTeX. Feel free to reach out to me with any questions or other
-      details!
+      </a>
+      {/* <a href="../ResumePuntambekarWebsite.pdf">link</a> */}. It is a PDF
+      compiled with LaTeX. Feel free to reach out to me with any questions or
+      other details!
     </p>
     <h2>Programming</h2>
     <p>
