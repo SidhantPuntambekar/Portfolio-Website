@@ -1029,7 +1029,7 @@ export default () => (
           Mikuma sinking after attacks from dive bombers and USS Tambor
         </Figure.Caption>
       </Figure>
-      {/* <Figure>
+      <Figure>
         <Figure.Image
           height="200"
           src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Midway_survivor_on_PBY.jpg/220px-Midway_survivor_on_PBY.jpg"
@@ -1047,7 +1047,7 @@ export default () => (
           Japanese carrier Akagi served as flagship.
         </Figure.Caption>
       </Figure>
-      <Figure>
+      {/* <Figure>
         <Figure.Image
           height="200"
           src="https://cbsnews3.cbsistatic.com/hub/i/r/2017/06/02/7f602f2c-abae-44b3-9dd4-0b552ff67cbc/thumbnail/1200x630/d148571a7048d8f11ae09d34b30c0b30/battle-of-midway-dive-bombers-attack-japanese-ship-nara.jpg"
@@ -1153,7 +1153,161 @@ export default () => (
       </Figure>
     </p>
     <p>
-      <h3>Battle of Savo Island: August 8-9 1942</h3>
+      <h3>First Battle of Savo Island: August 8-9 1942</h3>
+      As the United States Marine landing force invaded Tulagi and Guadalcanal,
+      a joint US and Australian naval force under Rear Admiral Richmond Turner
+      and Rear Admiral Victor Crutchley comprising of 6 heavy cruisers, 2 light
+      cruisers and 15 destroyers sailed into the waters off of Savo Island to
+      the north of Guadalcanal and south of Tulagi and Florida Island for
+      support. The force was split into a Southern Group of cruisers HMAS
+      Australia, HMAS Canberra, USS Chicago with accompanying destroyers USS
+      Bagley and USS Patterson and a Northern Group composed of cruisers USS
+      Vincennes, USS Quincy, and USS Astoria with accompanying destroyers USS
+      Helm and USS Wilson. An Eastern Group acting as a picket consisted of
+      cruisers USS San Juan and HMAS Hobart with destroyers USS Monssen and USS
+      Buchanan. As the landings progressed throughout the day on August 7th and
+      8th, the Allied naval force provided aerial bombardment and supplies to
+      the Marines on the ground.
+      <br></br>
+      <br></br>
+      On the night of August 8th, Japanese Vice Admiral Mikawa Gunichi sailed a
+      smaller Japanese naval force of 5 heavy cruisers, 2 light cruisers and 1
+      destroyer from bases in Rabaul, New Britain and New Ireland down New
+      Georgia Sound which eventually received the nickname "The Slot". The force
+      consisted of heavy cruisers Chokai, Aoba, Furutaka, Kako, and Kinugasa,
+      light cruisers Tenryu and Yubai and destroyer Yunagi. Around midnight on
+      August 9th, the Japanese Force sailed past the radar picket of USS Blue
+      and USS Ralph Talbot at the head of the Allied naval force undetected.
+      Japanese naval operations at night were far superior to their Allied
+      counterparts, and as a result, the Japanese force surprised the Southern
+      Group at 1:31 AM on August 9th and opened fire. Salvos of torpedos were
+      launched into the inky darkness and Japanese launched flares illuminated
+      the entire Southern group. The first ships hit with Japanese heavy cruiser
+      fire was HMAS Canberra and USS Chicago. Canberra began listing to
+      starboard and had suffered total power loss and flooding. Chicago suffered
+      two torpedo hits and fled west to escape the Japanese force. Having sent
+      the Southern group into disarray, the Japanese turned north and attacked
+      the Northern cruiser force.
+      <br></br>
+      <br></br>
+      At 1:50 AM, the Japanese turned on their search lights and launched flares
+      to reveal the unsuspecting Northern force. The USS Astoria was the first
+      cruiser hit with combined fire from Chokai, Aoba, Kinugasa, and Kako. The
+      bombardment had set the US cruiser on fire and had damaged her fire
+      control systems. Astoria managed to return fire and knocked out one of
+      Chokai's forward turrets. Hearing the bombardment, the USS Quincy was
+      suddenly caught in a crossfire from Aoba, Furutaka, and Tenryu at 2:10 AM
+      causing her to sink at 2:38 AM. The USS Vincennes sighted the Japanese
+      flares to the South and began to turn North but was pursued by Japanese
+      cruiser Kako and Furutaka. As Vincennes moved closer to 25 knots, she was
+      struck by torpedos which irreparably damaged her boiler room and steering
+      and was hit with a total of 74 artillery shells. Vincennes sank at around
+      2:50 AM.
+      <br></br>
+      <br></br>
+      With considerable damage done to the Northern and Southern groups as well
+      as fear of an American carrier attack in the morning, Admial Mikawa
+      ordered the Japanese forces to turn around and head back up New Georgia
+      Sound. The remaining US forces had managed to seek refuge on the Northern
+      side of Savo Island. All in all, the American-Australian force had lost
+      1,077 men and 4 heavy cruisers which included HMAS Canberra, USS
+      Vincennes, USS Quincy, and USS Astoria. The Japanese forces suffered only
+      129 deaths and 2 heavy cruisers moderately damaged. Although the Japanese
+      had done considerable damage to the US cruiser fleet, the tranports
+      carrying reinforcement Marines were not affected and the US was able to
+      resupply the forces on Guadalcanal.
+      <br></br>
+      <Figure>
+        <Figure.Image
+          height="200"
+          src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Battle_of_Savo_Island_map_-_disposition_of_forces.png/220px-Battle_of_Savo_Island_map_-_disposition_of_forces.png"
+          alt="Savo Island Battle Map"
+          width="200"
+        ></Figure.Image>
+        <Figure.Caption>
+          Positioning of ships on the night of August 8th
+        </Figure.Caption>
+      </Figure>
+      <Figure>
+        <Figure.Image
+          height="200"
+          src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/View_from_the_Japanese_cruiser_Chokai_during_the_Battle_of_Savo_Island_on_9_August_1942.jpg/220px-View_from_the_Japanese_cruiser_Chokai_during_the_Battle_of_Savo_Island_on_9_August_1942.jpg"
+          alt="Chokai"
+          width="200"
+        ></Figure.Image>
+        <Figure.Caption>
+          Chokai illuminates the Southern Force with flares
+        </Figure.Caption>
+      </Figure>
+      <Figure>
+        <Figure.Image
+          height="200"
+          src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Japanese_cruiser_Yubari_shines_searchlights_during_the_Battle_of_Savo_Island_on_9_August_1942.jpg/220px-Japanese_cruiser_Yubari_shines_searchlights_during_the_Battle_of_Savo_Island_on_9_August_1942.jpg"
+          alt="Yubari"
+          width="200"
+        ></Figure.Image>
+        <Figure.Caption>
+          Yubari illuminates the Northern Force with flares
+        </Figure.Caption>
+      </Figure>
+      <Figure>
+        <Figure.Image
+          height="200"
+          src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/HMAS_Canberra_%28D33%29_underway_off_Tulagi%2C_circa_7_August_1942.jpg/220px-HMAS_Canberra_%28D33%29_underway_off_Tulagi%2C_circa_7_August_1942.jpg"
+          alt="Canberra Protects Transports"
+          width="200"
+        ></Figure.Image>
+        <Figure.Caption>
+          HMAS Canberra protects Allied transports near Tulagi
+        </Figure.Caption>
+      </Figure>
+      <Figure>
+        <Figure.Image
+          height="200"
+          src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Sinking_HMAS_Canberra_%28D33%29_with_US_destroyers_on_9_August_1942.jpg/220px-Sinking_HMAS_Canberra_%28D33%29_with_US_destroyers_on_9_August_1942.jpg"
+          alt="Canberra Scuttled"
+          width="200"
+        ></Figure.Image>
+        <Figure.Caption>
+          USS Blue evacuates the crew from the burning HMAS Canberra
+        </Figure.Caption>
+      </Figure>
+      <Figure>
+        <Figure.Image
+          height="200"
+          src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/USS_Quincy_%28CA-39%29_under_fire_during_the_Battle_of_Savo_Island_on_9_August_1942_%28NH_50346%29.jpg/300px-USS_Quincy_%28CA-39%29_under_fire_during_the_Battle_of_Savo_Island_on_9_August_1942_%28NH_50346%29.jpg"
+          alt="Quincy sinking"
+          width="200"
+        ></Figure.Image>
+        <Figure.Caption>
+          USS Quincy on fire and sinking from Japanese torpedoes and naval
+          artillery
+        </Figure.Caption>
+      </Figure>
+      <Figure>
+        <Figure.Image
+          height="200"
+          src="https://i.pinimg.com/originals/83/5d/6f/835d6f042dc8c14698ed77a9b166f762.jpg"
+          alt="Chokai"
+          width="200"
+        ></Figure.Image>
+        <Figure.Caption>Chokai served as Mikawa's flagship</Figure.Caption>
+      </Figure>
+      <Figure>
+        <Figure.Image
+          height="200"
+          src="https://upload.wikimedia.org/wikipedia/commons/2/25/SavoMikawaApproach.jpg"
+          alt="The Slot"
+          width="200"
+        ></Figure.Image>
+        <Figure.Caption>
+          Admiral Mikawa's route from New Ireland and New Britain down New
+          Georgia Sound nicknamed "The Slot"
+        </Figure.Caption>
+      </Figure>
+    </p>
+    <p>
+      <h3>Battle of Eastern Solomons: August 24-25 1942</h3>
     </p>
   </Layout>
 )

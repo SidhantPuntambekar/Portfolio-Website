@@ -1,5 +1,7 @@
 import React from "react"
+import { Figure } from "react-bootstrap"
 import Layout from "../components/Layout"
+
 import "../styles/Chess.css"
 
 export default () => (
@@ -82,44 +84,44 @@ export default () => (
       apologized publicly to Spassky and the match started on July 11th, 1972.
       <br></br>
       <br></br>
-      <figure>
-        <img
-          height="200"
-          src="https://d53j7mnhlzrdg.cloudfront.net/series/best-games-of-boris-spassky.jpg"
-          alt="Spassky"
-        ></img>
-        <figcaption>
-          Boris Vasiljevic Spassky, World Chess Defending Champion, USSR
-        </figcaption>
-      </figure>
-      <figure>
-        <img
+      <Figure>
+        <Figure.Image
           height="200"
           src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Bobby_Fischer_1972.jpg/200px-Bobby_Fischer_1972.jpg"
           alt="Fischer"
-        ></img>
-        <figcaption>
+        ></Figure.Image>
+        <Figure.Caption>
           Robert James Fischer, World Chess Championship Challenger, USA
-        </figcaption>
-      </figure>
-      <figure>
-        <img
+        </Figure.Caption>
+      </Figure>
+      <Figure>
+        <Figure.Image
+          height="200"
+          src="https://d53j7mnhlzrdg.cloudfront.net/series/best-games-of-boris-spassky.jpg"
+          alt="Spassky"
+        ></Figure.Image>
+        <Figure.Caption>
+          Boris Vasiljevic Spassky, World Chess Defending Champion, USSR
+        </Figure.Caption>
+      </Figure>
+      <Figure>
+        <Figure.Image
           height="200"
           src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Tigran_Petrosian_1962.jpg/220px-Tigran_Petrosian_1962.jpg"
           alt="Petrosian"
-        ></img>
-        <figcaption>Tigran Petrosian</figcaption>
-      </figure>
-      <figure>
-        <img
+        ></Figure.Image>
+        <Figure.Caption>Tigran Petrosian</Figure.Caption>
+      </Figure>
+      <Figure>
+        <Figure.Image
           height="200"
           src="https://www.chesshistory.com/winter/pics/cn5198_fischer.jpg"
           alt="Newspaper"
-        ></img>
-        <figcaption>
+        ></Figure.Image>
+        <Figure.Caption>
           Newspaper headline indicating the increase of prize fund money.
-        </figcaption>
-      </figure>
+        </Figure.Caption>
+      </Figure>
       <br></br>
       <br></br>
       <h3>
