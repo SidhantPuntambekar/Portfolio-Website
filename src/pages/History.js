@@ -865,6 +865,8 @@ export default () => (
       On the morning of May 7th, Fletcher launched his strike aircraft from
       carriers Yorktown and Lexington. The SBD Dauntless dive and TBD Devastator
       torpedo bombers encountered the light carrier Shoho and sunk her.
+      <br></br>
+      <br></br>
       Meanwhile, Japanese airstrikes from Shokaku and Zuikaku had discovered
       destroyer Sims and fleet oiler Neosho. The Val dive bombers and Kate
       torpedo bombers had sunk Neosho and badly damaged Sims. Both aircraft
@@ -909,7 +911,7 @@ export default () => (
             width="200"
           ></Card.Img>
           <Card.Body>
-            <Card.Title>Neosho on fire and sinking</Card.Title>
+            <Card.Title>USS Neosho on fire and sinking</Card.Title>
           </Card.Body>
         </Card>
         <Card>
@@ -1030,8 +1032,10 @@ export default () => (
       broadcast that there was a shortage of water on Midway Atoll upon which
       the Japanese relayed to the rest of the fleet units. After the Japanese
       message "AF was short on water" was intercepted, Nimitz ordered the
-      carriers USS Enterprise, USS Hornet, and USS Yorktown to Midway. The US
-      force comprised three fleet carriers, seven heavy cruisers, fifteen
+      carriers USS Enterprise, USS Hornet, and USS Yorktown to Midway.
+      <br></br>
+      <br></br>
+      The US force comprised three fleet carriers, seven heavy cruisers, fifteen
       destroyers and approximately 360 aircraft. The Japanese brought four fleet
       carriers, two battleships, two heavy cruisers, twelve destroyers and 248
       aircraft. In reserve, the Japanese also had two light carriers, five more
@@ -1056,42 +1060,44 @@ export default () => (
       later. Admiral Chuichi Nagumo, who was in charge of the carrier force, was
       forced to move his flag to the light cruiser Nagara. Hiryu was the only
       Japanese carrier that survived the initial attack, and within a few hours,
-      a counterattack was launched on the US fleet. The Val and Kate bombers
-      from Hiryu's first wave located Yorktown in the afternoon of June 4th.
-      They hit the forward flight elevator and all but one of Yorktown's
-      boilers. Emergency crews repaired Yorktown's engines quickly and by the
-      time the second wave of Hiryu's strike group came across Yorktown, they
-      thought they had found a completely new carrier. The second wave caused a
-      total loss of power in the carrier and the ship listed 23 degrees to port.
-      Salvage operations had begun on Yorktown throughout June 5th and June 6th,
-      but she was struck by two torpedoes fired from the Japanese submarine
-      I-168. On June 7th, it was determined that Yorktown could not be saved and
-      she eventually sunk at 7:01 AM. Hiryu was sighted in the evening of June
-      4th by a Yorktown scout plane, and aircraft from Enterprise and Hornet
-      decimated the last Japanese carrier. At nightfall, Admiral Raymond
-      Spruance, who was the US commander withdrew his carriers away from Midway
-      to the east. Yamamoto, with the loss of his fast carrier force, instead
-      detached his battleships to search for the US fleet. Spruance's decision
-      to pull the fleet away from Midway proved to be a prudent move since the
-      Japanese battleship force, which included super battleship Yamato, was
-      highly skilled in night attack tactics. On June 5th, Spruance failed to
-      regain contact with the Japanese battleship fleet and pulled Enterprise
-      and Hornet away from Midway. The US submarine Tambor contributed to the
-      battle by surprising the Japanese cruisers Mogami and Mikuma. Following
-      the encounter, Mikuma was rendered useless to move after a collision with
-      the Mogami and was eventually sunk by SBD Dauntless dive bombers. Mogami
-      was able to sustain severe damage and returned back to the Japanese home
-      islands for repairs. Following the Battle of Midway, the Japanese carrier
-      group had been utterly destroyed. The Japanese lost all four fleet
-      aircraft carriers, one heavy cruiser, and almost 248 aircraft destoyed.
-      The US on the other hand lost only one fleet carrier, one destroyer, and
-      150 aircraft. The battle halted any chance of further Japanese expansion
-      in the Pacific and effectively turned the tide of the Pacific War against
-      the Empire. The United States managed to destroy approximately 2/3 of the
-      Japanese carrier force, but the loss of the USS Yorktown shrunk the number
-      of operational US aircraft carriers to just two. Hornet and Enterprise
-      were now the only two US battle ready carriers to oppose any future
-      Japanese moves in the Pacific.
+      a counterattack was launched on the US fleet.
+      <br></br>
+      <br></br>
+      The Val and Kate bombers from Hiryu's first wave located Yorktown in the
+      afternoon of June 4th. They hit the forward flight elevator and all but
+      one of Yorktown's boilers. Emergency crews repaired Yorktown's engines
+      quickly and by the time the second wave of Hiryu's strike group came
+      across Yorktown, they thought they had found a completely new carrier. The
+      second wave caused a total loss of power in the carrier and the ship
+      listed 23 degrees to port. Salvage operations had begun on Yorktown
+      throughout June 5th and June 6th, but she was struck by two torpedoes
+      fired from the Japanese submarine I-168. On June 7th, it was determined
+      that Yorktown could not be saved and she eventually sunk at 7:01 AM. Hiryu
+      was sighted in the evening of June 4th by a Yorktown scout plane, and
+      aircraft from Enterprise and Hornet decimated the last Japanese carrier.
+      At nightfall, Admiral Raymond Spruance, who was the US commander withdrew
+      his carriers away from Midway to the east. Yamamoto, with the loss of his
+      fast carrier force, instead detached his battleships to search for the US
+      fleet. Spruance's decision to pull the fleet away from Midway proved to be
+      a prudent move since the Japanese battleship force, which included super
+      battleship Yamato, was highly skilled in night attack tactics. On June
+      5th, Spruance failed to regain contact with the Japanese battleship fleet
+      and pulled Enterprise and Hornet away from Midway. The US submarine Tambor
+      contributed to the battle by surprising the Japanese cruisers Mogami and
+      Mikuma. Following the encounter, Mikuma was rendered useless to move after
+      a collision with the Mogami and was eventually sunk by SBD Dauntless dive
+      bombers. Mogami was able to sustain severe damage and returned back to the
+      Japanese home islands for repairs. Following the Battle of Midway, the
+      Japanese carrier group had been utterly destroyed. The Japanese lost all
+      four fleet aircraft carriers, one heavy cruiser, and almost 248 aircraft
+      destoyed. The US on the other hand lost only one fleet carrier, one
+      destroyer, and 150 aircraft. The battle halted any chance of further
+      Japanese expansion in the Pacific and effectively turned the tide of the
+      Pacific War against the Empire. The United States managed to destroy
+      approximately 2/3 of the Japanese carrier force, but the loss of the USS
+      Yorktown shrunk the number of operational US aircraft carriers to just
+      two. Hornet and Enterprise were now the only two US battle ready carriers
+      to oppose any future Japanese moves in the Pacific.
       <br></br>
       <CardDeck>
         <Card>
@@ -1461,7 +1467,334 @@ export default () => (
       </CardDeck>
     </p>
     <p>
-      <h3>Battle of Eastern Solomons: August 24-25 1942</h3>
+      <h3>Battle of the Eastern Solomons: August 24-25 1942</h3>
+      Having destroyed a majority of the US cruiser force responsible for
+      protecting the Guadalcanal Marine invasion force, the Japanese sensed that
+      they had the initiative and realized that they may be able to retake
+      Guadalcanal. The Japanese mobilize a carrier task force to escort troop
+      transports from their bases in Rabaul (New Britain and New Ireland) and
+      Truk Lagoon down New Georgia Sound to retake Guadalcanal. The other
+      mission for the Japanese task force is to sink the US carrier group
+      comprising of USS Enterprise, USS Wasp, and USS Saratoga providing air
+      support to the Marine landing force on Guadalcanal from nearby Santa
+      Isabel Island.
+      <br></br>
+      <br></br>
+      The Japanese organize fleet carriers Shokaku and Zuikaku, light carrier
+      Ryujo as well as battleships Hiei and Kirishima to form the vanguard of
+      their task force. They also take heavy cruisers Atago, Maya, Takao, Myoko,
+      Haguro, Kumano, Suzuya, Chikuma, and Tone. The carrier/battleship force is
+      under the command of Vice Admiral Chuichi Nagumo while the cruiser force
+      is under the command of Nobutake Kondo. The US carrier force is seemingly
+      unaware of the Japanese task force and orders USS Wasp to head south to
+      the US base at Espiritu Santo to refuel. Therefore, the only carriers now
+      defending Guadalcanal are USS Enterprise and USS Saratoga as well as fast
+      battleship USS North Carolina. The US carrier force was under the command
+      of Admiral Frank Jack Fletcher.
+      <br></br>
+      <br></br>
+      On August 24th, 1942, USS Enterprise and USS Saratoga launched an initial
+      strike of SBD Dauntless dive bombers and F4F Wildcat fighters to locate
+      the nearby Japanese fleet. A PBY Catalina scout plane had spotted the
+      light carrier Ryujo and heavy cruiser Tone at 9:35AM near Guadalcanal. The
+      Dauntless dive bombers and Wildcats encountered Ryujo and heavily damaged
+      her with three to five bomb hits causing her to sink later in the day.
+      However, the US strike group that hit Ryujo did not discover the vanguard
+      force of carriers Shokaku and Zuikaku. Getting word of the attack on
+      Ryujo, Nagumo ordered a large strike composing of Val dive bombers, Kate
+      torpedo planes and Zero fighters from Shokaku and Zuikaku to strike the
+      American fleet.
+      <br></br>
+      <br></br>
+      At 4:00 PM, the sailors on Enterprise and Saratoga have no idea that the
+      Japanese air strike from Shokaku and Zuikaku is only 88 miles away.
+      American radar at this stage in the war is still extremely primitive and
+      has difficulties detecting targets inside of 90 to 50 miles. With faulty
+      detection from their radars, Enterprise and Saratoga went to general
+      quarters with every anti-aircraft gun looking for a large storm of
+      Japanese planes. At 4:19 PM, the American Wildcat combat air patrol
+      engaged the first two squadrons of Val dive bombers escorted by Zero
+      fighters. The F4F Wildcat's down 29 Japanese planes before they can make
+      it to the US carriers. Enterprise and Saratoga immediately launched every
+      available plane in their air wing to inderdict the oncoming Japanese
+      strike. At 4:29 PM, the US carriers and their escorts began shooting
+      anti-aircraft fire into the Japanese strike force. They initially started
+      attacking both Saratoga and Enterprise but shifted rapidly to attacking
+      Enterprise as it was the closest carrier to the Japanese strike package.
+      The first Val dive bomber missed his target and was promptly shot out of
+      the sky by a 20mm Oerlikon gun battery on Enterprise. Incredibly the bombs
+      dropped from the first nine Val dive bombers that attacked Enterprise all
+      missed due to evasive maneuvering and effective anti-aircraft fire from
+      battleship North Carolina.
+      <br></br>
+      <br></br>
+      Inveitably however, a Val piloted by Petty Officer Kiyoto Furuta hit
+      Enterprise with a 550 pound armor piercing bomb near the aft elevator at
+      4:44 PM. The bomb crashed through five decks before exploding near the
+      waterline which flooded Enterprise's aft section and killed 35 men.
+      Enterprise developed a list to port but did not suffer any major breaches
+      of hull integrity. Thirty seconds later, another Val piloted by Petty
+      Officer Tamotsu Akimoto landed another bomb 15 feet away from the first.
+      The bomb ignited a secondary explosion from the 5 inch anti aircraft gun
+      powder casings which killed an additional 35 sailors and started a new
+      fire near the flight and hangar decks. Many of the gun crews that had been
+      killed as a result of the second explosion had been discovered after the
+      battle frozen in place with some getting ready to load a shell into the
+      gun or aiming it to the sky. Two minutes after the second bomb hit, a
+      third and final Val piloted by Petter Officer Kazumi Horie hit Enterprise
+      forward of the midships elevator. A ten foot hole was created near the
+      elevator which put it out of comission as well as knocking out the central
+      steering and propulsion system. The rudder of Enterprise became locked in
+      the starboard configuration and thus the carrier began to circle in a
+      right hand turn. Following the third bomb hit, the Val dive bombers
+      switched their attack to USS North Carolina. Seven Vals made dives on
+      battleship North Carolina, but all of their bombs missed and all seven
+      were shot down by anti aircraft fire.
+      <br></br>
+      <br></br>
+      With Enterprise taking three bomb hits, the rest of the Japanese fighters
+      disappeared into the clouds to head back to Shokaku and Zuikaku. Damage
+      control parties on Enterprise amazingly managed to fix the steering
+      mechanism and control the raging fires in only one hour. At 5:46 PM, the
+      Enterprise and Saratoga manage to leave the battle area extremely wounded.
+      As a second wave of Japanese planes arrived over the expected position of
+      the American carrier group, they found nothing (due to the American
+      carrier group changing their course) and were forced to return back to the
+      Japanese carriers. Unfortunately, the US strike group had failed to locate
+      Nagumo's vanguard force and was forced to land at Henderson field on
+      Guadalcanal. USS Enterprise and her escorts sailed into Pearl Harbor
+      following the battle for an extensive repair from the damage she sustained
+      to her aft and midships elevators.
+      <br></br>
+      <br></br>
+      The Battle of the Eastern Solomons is considered a tactical and strategic
+      victory for the United States despite USS Enterprise sustaining heavy
+      damage. The Japanese lost the light carrier Ryujo and 61 veteran naval
+      pilots from their carrier force. The US on the other hand lost no aircraft
+      carriers (albeit Enterprise was sidelined for close to a month) and only
+      seven pilots. The US fleet had also managed to stop the Japanese carrier
+      task force sent to land troop transports on Guadalcanal which kept the
+      Marine invasion force intact and Henderson Field in American hands.
+      Nagumo's vanguard force and Kondo's cruisers turned around and headed back
+      to Rabaul and Truk staving off the reinforcement of the Japanese garrison
+      on Guadalcanal.
+      <br></br>
+      <CardDeck>
+        <Card>
+          <Card.Img
+            height="300"
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/USS_Enterprise_%28CV-6%29_under_attack_and_burning_during_the_Battle_of_the_Eastern_Solomons_on_24_August_1942_%28NH_97778%29.jpg/1280px-USS_Enterprise_%28CV-6%29_under_attack_and_burning_during_the_Battle_of_the_Eastern_Solomons_on_24_August_1942_%28NH_97778%29.jpg"
+            alt="Enterprise Eastern Solomons"
+          ></Card.Img>
+          <Card.Body>
+            <Card.Title>
+              Enterprise maneuvering under air attack from Japanese Val dive
+              bombers
+            </Card.Title>
+          </Card.Body>
+        </Card>
+        <Card>
+          <Card.Img
+            height="300"
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/USS_Wasp_%28CV-7%29%2C_USS_Saratoga_%28CV-3%29_and_USS_Enterprise_%28CV-6%29_operating_in_the_Pacific_south_of_Guadalcanal_on_12_August_1942.jpg/220px-USS_Wasp_%28CV-7%29%2C_USS_Saratoga_%28CV-3%29_and_USS_Enterprise_%28CV-6%29_operating_in_the_Pacific_south_of_Guadalcanal_on_12_August_1942.jpg"
+            alt="Enterprise Eastern Solomons"
+          ></Card.Img>
+          <Card.Body>
+            <Card.Title>
+              Enterprise, Wasp, and Saratoga operating near Guadalcanal before
+              Eastern Solomons
+            </Card.Title>
+          </Card.Body>
+        </Card>
+        <Card>
+          <Card.Img
+            height="300"
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Aerial_view_of_the_immobile_Japanese_carrier_Ryujo_with_two_destroyers_during_the_Battle_of_the_Eastern_Solomons%2C_24_August_1942_%2880-G-88018%29.jpg/220px-Aerial_view_of_the_immobile_Japanese_carrier_Ryujo_with_two_destroyers_during_the_Battle_of_the_Eastern_Solomons%2C_24_August_1942_%2880-G-88018%29.jpg"
+            alt="Enterprise Eastern Solomons"
+          ></Card.Img>
+          <Card.Body>
+            <Card.Title>
+              Ryujo with escorting destroyers under air attack from Enterprise
+              and Saratoga dive bombers
+            </Card.Title>
+          </Card.Body>
+        </Card>
+        <Card>
+          <Card.Img
+            height="300"
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Japanese_Aichi_D3A_dive_bomber_shot_over_USS_Enterprise_%28CV-6%29_on_24_August_1942_%2880-G-31349%29.jpg/220px-Japanese_Aichi_D3A_dive_bomber_shot_over_USS_Enterprise_%28CV-6%29_on_24_August_1942_%2880-G-31349%29.jpg"
+            alt="Enterprise Eastern Solomons"
+          ></Card.Img>
+          <Card.Body>
+            <Card.Title>
+              A Val dive bomber shot down by anti aircraft fire directly over
+              USS Enterprise
+            </Card.Title>
+          </Card.Body>
+        </Card>
+      </CardDeck>
+      <CardDeck>
+        <Card>
+          <Card.Img
+            height="300"
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Japanese_bomb_hits_USS_Enterprise_%28CV-6%29_flight_deck_during_Battle_of_the_Eastern_Solomons%2C_24_August_1942_%2880-G-17489%29.jpg/220px-Japanese_bomb_hits_USS_Enterprise_%28CV-6%29_flight_deck_during_Battle_of_the_Eastern_Solomons%2C_24_August_1942_%2880-G-17489%29.jpg"
+            alt="Enterprise Eastern Solomons"
+          ></Card.Img>
+          <Card.Body>
+            <Card.Title>
+              The third bomb dropped on Enterprise explodes near the midships
+              elevator
+            </Card.Title>
+          </Card.Body>
+        </Card>
+        <Card>
+          <Card.Img
+            height="300"
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Damaged_127mm_gun_on_USS_Enterprise_%28CV-6%29%2C_circa_in_August_1942.jpg/220px-Damaged_127mm_gun_on_USS_Enterprise_%28CV-6%29%2C_circa_in_August_1942.jpg"
+            alt="Enterprise Eastern Solomons"
+          ></Card.Img>
+          <Card.Body>
+            <Card.Title>
+              The burnt 5 inch anti aircraft gun on Enterprise which was taken
+              out by the second Val bomb hit
+            </Card.Title>
+          </Card.Body>
+        </Card>
+        <Card>
+          <Card.Img
+            height="300"
+            src="https://www.history.navy.mil/content/history/nhhc/research/histories/ship-histories/danfs/n/north-carolina-iii/jcr%3Acontent/body/media_asset/image.img.jpg/1561995906850.jpg"
+            alt="Enterprise Eastern Solomons"
+          ></Card.Img>
+          <Card.Body>
+            <Card.Title>
+              USS North Carolina which supported Enterprise during the battle
+            </Card.Title>
+          </Card.Body>
+        </Card>
+        <Card>
+          <Card.Img
+            height="300"
+            src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Aichi_D3A2.jpg"
+            alt="Enterprise Eastern Solomons"
+          ></Card.Img>
+          <Card.Body>
+            <Card.Title>Aichi D3A Val Dive Bomber</Card.Title>
+          </Card.Body>
+        </Card>
+      </CardDeck>
+    </p>
+    <p>
+      <h3>
+        Battle of Cape Esperance (Second Battle of Savo Island): October 11-12
+        1942
+      </h3>
+      As the American carriers left the battle area of Eastern Solomons and the
+      Japanese carrier task force was in full retreat back to Truk and Rabaul,
+      there was little major naval presence around the Solomon islands. However,
+      the Japanese still maintained naval supremacy at night near Savo Island
+      and Guadalcanal. The Japanese also planned a second invasion of
+      Guadalcanal to occur on October 20th with the renewed strength of their
+      carrier task force. As a preliminary run, Vice Admiral Gunichi Mikawa (who
+      led the cruiser force in the First Battle of Savo Island) planned to
+      deliver 700 soldiers, four howitzers, two field guns, and one anti
+      aircraft gun to Guadalcanal from Rabaul.
+      <br></br>
+      <br></br>
+      The force doing the preliminary run would consist of heavy cruisers Aoba,
+      Kinugasa, and Furutaka as well as destroyers Fubuki, Hatsuyuki, Asagumo,
+      Natsugumo, Yamagumo, Shirayuki, Murakumo, and Akizuki, and seaplane
+      carriers Chitose and Nisshin. Mikawa expected no US resistance near Savo
+      Island since no US navy warships had yet to inderdict the so called "Tokyo
+      Express" missions to Guadalcanl. However, the United States had stationed
+      a cruiser and destroyer force near Cape Esperance which is the
+      northernmost point on Guadalcanal. Led by Rear Admiral Norman Scott, the
+      force consisted of cruisers Helena, Salt Lake City, Boise, and San
+      Francisco as well as destroyers Farenholt, Duncan, Buchanan, McCalla, and
+      Laffey.
+      <br></br>
+      <br></br>
+      As the Japanese reinforcement force sailed down "The Slot", US
+      reconaissance aircraft sighted the cruisers and destroyers which allowed
+      Scott to have advanced warning of the approaching Japanese ships. The US
+      cruisers and destroyers had formed a battle line just ahead of Cape
+      Esperance where they would cut the Japanese off and destroy them. Equipped
+      with radar, the US cruisers were now able to see the Japanese force
+      incoming. Upon nearing Cape Esperance, the Japanese ships began to take
+      damage from the US warships. Aoba was hit with 40 shells from Helena, Salt
+      Lake City, San Francisco, Farenholt, and Laffey which knocked out her gun
+      directors and two main gun turrets. Aoba continuing to receive hits turned
+      to starboard which exposed Furutaka to US cruiser fire. The shells hit
+      Furutaka's torpedo tubes that ignited a large fire which crippled the
+      cruiser's engines. Moments later, destroyer Fubuki was hit with sustained
+      American shells and sank. As Furutaka withdrew, Kinugasa managed to launch
+      a salvo of torpedos which nearly hit cruiser Boise and fire from
+      Kinugasa's main battery exploded in Boise's ammunition magazine which
+      killed about 100 sailors. Ironically, a larger explosion was prevented on
+      Boise when seawater entering the magazine quenched the fire. Noticing that
+      the Japanese could not make progress around the American cruisers, they
+      retreated northward.
+      <br></br>
+      <br></br>
+      Following the shootout, cruiser Furutaka had sunk as well as destroyer
+      Fubuki. US dive bombers later the next day found Japanese destroyers
+      attempting to help Furutaka. In the dive bomber attack, the Japanese also
+      lost destroyers Natsugumo and Murakumo. The Americans had beaten back the
+      initial wave of Japanese attempts to land troops on Guadalcanal in October
+      and proved that US forces could still compete in night naval action near
+      Guadalcanal.
+      <br></br>
+      <CardDeck>
+        <Card>
+          <Card.Img
+            height="300"
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/AobaEsperance.jpg/300px-AobaEsperance.jpg"
+            alt="Enterprise Eastern Solomons"
+          ></Card.Img>
+          <Card.Body>
+            <Card.Title>
+              Aoba disembarking dead and wounded sailors after the Battle of
+              Cape Esperance
+            </Card.Title>
+          </Card.Body>
+        </Card>
+        <Card>
+          <Card.Img
+            height="300"
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/USS_Boise_%28CL-47%29_at_anchor%2C_circa_in_late_August_1942_%2880-G-K-558%29.jpg/220px-USS_Boise_%28CL-47%29_at_anchor%2C_circa_in_late_August_1942_%2880-G-K-558%29.jpg"
+            alt="Enterprise Eastern Solomons"
+          ></Card.Img>
+          <Card.Body>
+            <Card.Title>Boise at Espiritu Santo in August 1942</Card.Title>
+          </Card.Body>
+        </Card>
+        <Card>
+          <Card.Img
+            height="300"
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/USS_Boise_%28CL-47%29_Battle_of_Cape_Esperance_scoreboard%2C_in_November_1942_%2880-G-36299%29.jpg/220px-USS_Boise_%28CL-47%29_Battle_of_Cape_Esperance_scoreboard%2C_in_November_1942_%2880-G-36299%29.jpg"
+            alt="Enterprise Eastern Solomons"
+          ></Card.Img>
+          <Card.Body>
+            <Card.Title>
+              A sailor points to the scoreboard on USS Boise in November 1942.
+              Boise claims to have killed a Mogami class cruiser and Sendai
+              class cruiser neither of which were present at Cape Esperance
+            </Card.Title>
+          </Card.Body>
+        </Card>
+        <Card>
+          <Card.Img
+            height="300"
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Japanese_cruiser_Furutaka.jpg/300px-Japanese_cruiser_Furutaka.jpg"
+            alt="Enterprise Eastern Solomons"
+          ></Card.Img>
+          <Card.Body>
+            <Card.Title>
+              Heavy cruiser Furutaka which was sunk in the battle
+            </Card.Title>
+          </Card.Body>
+        </Card>
+      </CardDeck>
     </p>
   </Layout>
 )
