@@ -1,5 +1,6 @@
 import React from "react"
-import { Figure } from "react-bootstrap"
+import Card from "react-bootstrap/Card"
+import CardDeck from "react-bootstrap/CardDeck"
 import Layout from "../components/Layout"
 
 import "../styles/Chess.css"
@@ -84,44 +85,56 @@ export default () => (
       apologized publicly to Spassky and the match started on July 11th, 1972.
       <br></br>
       <br></br>
-      <Figure>
-        <Figure.Image
-          height="200"
-          src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Bobby_Fischer_1972.jpg/200px-Bobby_Fischer_1972.jpg"
-          alt="Fischer"
-        ></Figure.Image>
-        <Figure.Caption>
-          Robert James Fischer, World Chess Championship Challenger, USA
-        </Figure.Caption>
-      </Figure>
-      <Figure>
-        <Figure.Image
-          height="200"
-          src="https://d53j7mnhlzrdg.cloudfront.net/series/best-games-of-boris-spassky.jpg"
-          alt="Spassky"
-        ></Figure.Image>
-        <Figure.Caption>
-          Boris Vasiljevic Spassky, World Chess Defending Champion, USSR
-        </Figure.Caption>
-      </Figure>
-      <Figure>
-        <Figure.Image
-          height="200"
-          src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Tigran_Petrosian_1962.jpg/220px-Tigran_Petrosian_1962.jpg"
-          alt="Petrosian"
-        ></Figure.Image>
-        <Figure.Caption>Tigran Petrosian</Figure.Caption>
-      </Figure>
-      <Figure>
-        <Figure.Image
-          height="200"
-          src="https://www.chesshistory.com/winter/pics/cn5198_fischer.jpg"
-          alt="Newspaper"
-        ></Figure.Image>
-        <Figure.Caption>
-          Newspaper headline indicating the increase of prize fund money.
-        </Figure.Caption>
-      </Figure>
+      <CardDeck>
+        <Card>
+          <Card.Img
+            height="300"
+            src="https://www.picamon.com/wp-content/uploads/2014/09/Bobby-fischer-2.jpg"
+            alt="Fischer"
+          ></Card.Img>
+          <Card.Body>
+            <Card.Title>
+              Robert James Fischer, World Chess Championship Challenger, USA
+            </Card.Title>
+          </Card.Body>
+        </Card>
+        <Card>
+          <Card.Img
+            height="300"
+            src="https://d53j7mnhlzrdg.cloudfront.net/series/best-games-of-boris-spassky.jpg"
+            alt="Spassky"
+          ></Card.Img>
+          <Card.Body>
+            <Card.Title>
+              Boris Vasiljevic Spassky, World Chess Defending Champion, USSR
+            </Card.Title>
+          </Card.Body>
+        </Card>
+        <Card>
+          <Card.Img
+            height="300"
+            src="https://i.pinimg.com/originals/40/bc/0a/40bc0ad76f1a7503fff03f43dbec3d7c.jpg"
+            alt="Petrosian"
+          ></Card.Img>
+          <Card.Body>
+            <Card.Title>
+              Tigran Petrosian, Former World Chess Champion, USSR
+            </Card.Title>
+          </Card.Body>
+        </Card>
+        <Card>
+          <Card.Img
+            height="300"
+            src="https://www.chesshistory.com/winter/pics/cn5198_fischer.jpg"
+            alt="Newspaper"
+          ></Card.Img>
+          <Card.Body>
+            <Card.Title>
+              Newspaper headline indicating the increase of prize fund money.
+            </Card.Title>
+          </Card.Body>
+        </Card>
+      </CardDeck>
       <br></br>
       <br></br>
       <h3>
@@ -274,44 +287,54 @@ export default () => (
       </b>
       <br></br>
       <br></br>
-      <figure>
-        <img
-          height="200"
-          src="https://en.chessbase.com/Portals/all/thumbs/066/66585.jpeg"
-          alt="Game 1 start clock"
-        ></img>
-        <figcaption>
-          GM Lothar Schmid starts the clock with Fischer absent.
-        </figcaption>
-      </figure>
-      <figure>
-        <img
-          height="200"
-          src="https://images.csmonitor.com/csmarchives/2011/09/0916-Bobby-Fischer-review.jpg?alias=standard_900x600"
-          alt="Fischer arrives"
-        ></img>
-        <figcaption>
-          Fischer arrives late and he and Spassky shake hands
-        </figcaption>
-      </figure>
-      <figure>
-        <img
-          height="200"
-          src="https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/pete/phpEwVnvI.jpeg"
-          alt="Capturing a piece"
-        ></img>
-        <figcaption>Fischer captures a piece</figcaption>
-      </figure>
-      <figure>
-        <img
-          height="200"
-          src="https://en.chessbase.com/portals/4/files/news/2012/fischer09-spassky.jpg"
-          alt="Blunder"
-        ></img>
-        <figcaption>
-          Fischer blunders his bishop which loses the game.
-        </figcaption>
-      </figure>
+      <CardDeck>
+        <Card>
+          <Card.Img
+            height="300"
+            src="https://en.chessbase.com/Portals/all/thumbs/066/66585.jpeg"
+            alt="Game 1 start clock"
+          ></Card.Img>
+          <Card.Body>
+            <Card.Title>
+              GM Lothar Schmid starts the clock with Fischer absent.
+            </Card.Title>
+          </Card.Body>
+        </Card>
+        <Card>
+          <Card.Img
+            height="300"
+            src="https://images.csmonitor.com/csmarchives/2011/09/0916-Bobby-Fischer-review.jpg?alias=standard_900x600"
+            alt="Fischer arrives"
+          ></Card.Img>
+          <Card.Body>
+            <Card.Title>
+              Fischer arrives late and he and Spassky shake hands
+            </Card.Title>
+          </Card.Body>
+        </Card>
+        <Card>
+          <Card.Img
+            height="300"
+            src="https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/pete/phpEwVnvI.jpeg"
+            alt="Capturing a piece"
+          ></Card.Img>
+          <Card.Body>
+            <Card.Title>Fischer captures a piece</Card.Title>
+          </Card.Body>
+        </Card>
+        <Card>
+          <Card.Img
+            height="300"
+            src="https://en.chessbase.com/portals/4/files/news/2012/fischer09-spassky.jpg"
+            alt="Blunder"
+          ></Card.Img>
+          <Card.Body>
+            <Card.Title>
+              Fischer blunders his bishop which loses the game.
+            </Card.Title>
+          </Card.Body>
+        </Card>
+      </CardDeck>
       <br></br>
       <br></br>
       <h3>Game 3: Modern Benoni, Classical Main Line (A77)</h3>

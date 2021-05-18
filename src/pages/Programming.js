@@ -27,7 +27,7 @@ const programming = () => (
     </p>
     <h2>Project Showcase</h2>
     <CardDeck>
-      <Card style={{ width: "18rem" }}>
+      <Card>
         <Card.Img
           variant="top"
           src="https://rnabioco.github.io/clustifyr/reference/figures/logo.png"
@@ -54,7 +54,7 @@ const programming = () => (
           </a>
         </Card.Body>
       </Card>
-      <Card style={{ width: "18rem" }}>
+      <Card>
         <Card.Img
           variant="top"
           src="https://events.hackcu.org/assets/img/hackcu6_logo.png"
@@ -75,7 +75,7 @@ const programming = () => (
           </a>
         </Card.Body>
       </Card>
-      <Card style={{ width: "18rem" }}>
+      <Card>
         <Card.Img
           variant="top"
           src="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/947/043/datas/original.jpeg"
@@ -97,7 +97,7 @@ const programming = () => (
           </a>
         </Card.Body>
       </Card>
-      <Card style={{ width: "18rem" }}>
+      <Card>
         <Card.Img variant="top" src="../../images/stonkpeg.png"></Card.Img>
         <Card.Body>
           <Card.Title>StonkView</Card.Title>
