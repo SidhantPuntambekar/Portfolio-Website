@@ -1796,5 +1796,8 @@ export default () => (
         </Card>
       </CardDeck>
     </p>
+    <p>
+      <h3>Batle of the Santa Cruz Islands: October 25-27 1942</h3>
+    </p>
   </Layout>
 )
