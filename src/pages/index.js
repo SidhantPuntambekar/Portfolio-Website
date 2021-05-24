@@ -76,9 +76,9 @@ const carouselInformation = [
       "Seinfeld is another one of my favorite comedy shows. The show has been termed a show about nothing in which the four main characters (Jerry Seinfeld, George Costanza, Elaine Benes, and Cosmo Kramer) experience the absolute minutia of everyday life in New York City. Both Jerry Seinfeld and Larry David are some of the most iconic writers and comedians on television and every episode feels somewhat oddly relatable to what people go through in their daily lives."
     ),
     new CarouselItem(
-      "Last Week Tonight with John Oliver",
-      "https://i.pinimg.com/originals/cc/3a/4b/cc3a4b87c27834f90dc74286a4c10f63.jpg",
-      "Last Week Tonight with John Oliver is a show a late night TV show with British comedian John Oliver. The show highlights issues that may not be on the forefront of daily news but are extremely important in resolving given the vast number of people they affect. Oliver does a great job of putting together a twenty minute evidence based narrative on the issue while seemlessly integrating comedic elements. Some of my favorite episodes are Civil Forfeiture, Predatory Lending, and Narendra Modi."
+      "Curb Your Enthusiasm",
+      "https://hbomax-images.warnermediacdn.com/images/GVU2bygQ1go7DwvwIAT3r/tileburnedin?size=1280x720&format=jpeg&partner=hbomaxcom&productCode=hbomax&host=artist.api.cdn.hbo.com&w=1280",
+      "Created by the primary writer of Seinfeld, Larry David's Curb Your Enthusiasm follows the retirement life of Larry David with all of the antics of Seinfeld. The show is on HBO so it does contain a lot more adult humor compared to Seinfeld (which aired on NBC), but it still maintains a lot of the comedic value as Larry David interacts with a host of fellow characters including Jeff Greene (David's manager), Richard Lewis (fellow comedian), and Leon Black (David's roommate). Overall, I have found that the comedic situtations throughout the episodes are more wackier compared to Seinfeld which elicits more laughs."
     ),
     new CarouselItem(
       "Family Guy",
