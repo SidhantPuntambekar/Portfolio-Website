@@ -43,7 +43,11 @@ const programming = () => (
             visualization using a built-in library of references
             (clustifyrdatahub) compiled from reference bulk RNA-seq experiments,
             microarray expression data, and single-cell gene signatures. Built
-            with the R programming language with RShiny framework.
+            with the R programming language with RShiny framework. The web app
+            is available{" "}
+            <a target="blank" href="http://tinyurl.com/clustifyrapp">
+              here
+            </a>
           </Card.Text>
           <a
             class="btn btn-primary"

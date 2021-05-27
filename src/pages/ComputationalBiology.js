@@ -63,9 +63,13 @@ export default () => (
       During the school year of 2020-2021, I worked on creating an RShiny web
       application for the ClustifyR library as well as contributing to the
       Someta library which is designed to monitor and record metadata
-      submissions to NCBI GEO records. We also managed to publish a research
-      essay in the esteemed PLOS Biology Journal regarding the scRNA-seq
-      metadata submission problem with NCBI GEO. The paper is available{" "}
+      submissions to NCBI GEO records. The web app is available{" "}
+      <a target="blank" href="http://tinyurl.com/clustifyrapp">
+        here
+      </a>
+      . We also managed to publish a research essay in the esteemed PLOS Biology
+      Journal regarding the scRNA-seq metadata submission problem with NCBI GEO.
+      The paper is available{" "}
       <a
         target="blank"
         href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001077"
