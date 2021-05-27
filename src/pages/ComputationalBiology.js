@@ -11,7 +11,11 @@ export default () => (
     <h2>
       Summer Institute in Biomedical Informatics 2021, Harvard Medical School
     </h2>
-    <p>Stay tuned. Will be working in the Sunyaev lab under Dr. Evan Koch.</p>
+    <p>
+      Stay tuned. Will be working in the Sunyaev lab under Dr. Evan Koch
+      utilizing precise loss of function mutation rate estimates to measure the
+      selective constraint of genes.
+    </p>
     <h2>
       RNA Bioscience Initiative Summer Internship Program 2020, University of
       Colorado Anschutz School of Medicine
