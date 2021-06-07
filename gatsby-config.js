@@ -12,7 +12,7 @@ module.exports = {
     {
       resolve: "gatsby-source-filesystem",
       options: { path: `${__dirname}/assets/` },
-      icon: `static/favicon.ico`,
+      icon: `static/images/gatsby-config.png`,
     },
   ],
 }
