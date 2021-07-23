@@ -90,10 +90,11 @@ const programming = () => (
         <Card.Body>
           <Card.Title>Cyberhood</Card.Title>
           <Card.Text>
-            Cyberhood Project for HackCU VI. Keeping networks safer for everyone
-            using a wifi sniffer program called Kismet while storing device data
-            in a MongoDB database with analysis in MongoDB Compass. Written
-            primarily in Python while website primarily using HTML/CSS/JS.
+            Cyberhood hackathon project for HackCU VI. Keeping networks safer
+            for everyone using a wifi sniffer program called Kismet while
+            storing device data in a MongoDB database with analysis in MongoDB
+            Compass. Written primarily in Python while website primarily using
+            HTML/CSS/JS.
           </Card.Text>
           <a
             class="btn btn-primary"
