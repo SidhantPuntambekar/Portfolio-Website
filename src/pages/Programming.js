@@ -29,8 +29,9 @@ const programming = () => (
     <CardDeck>
       <Card>
         <Card.Img
+          height="400"
           variant="top"
-          src="https://rnabioco.github.io/clustifyr/reference/figures/logo.png"
+          src="../../images/clustifyr.png"
         ></Card.Img>
         <Card.Body>
           <Card.Title>ClustifyR Web Application</Card.Title>
@@ -60,8 +61,9 @@ const programming = () => (
       </Card>
       <Card>
         <Card.Img
+          height="400"
           variant="top"
-          src="https://events.hackcu.org/assets/img/hackcu6_logo.png"
+          src="../../images/hackcu.png"
         ></Card.Img>
         <Card.Body>
           <Card.Title>HackCU Hub Website</Card.Title>
@@ -81,8 +83,9 @@ const programming = () => (
       </Card>
       <Card>
         <Card.Img
+          height="400"
           variant="top"
-          src="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/947/043/datas/original.jpeg"
+          src="../../images/cyberhood.png"
         ></Card.Img>
         <Card.Body>
           <Card.Title>Cyberhood</Card.Title>
@@ -102,16 +105,21 @@ const programming = () => (
         </Card.Body>
       </Card>
       <Card>
-        <Card.Img variant="top" src="../../images/stonkpeg.png"></Card.Img>
+        <Card.Img
+          height="359"
+          variant="top"
+          src="../../images/someta.png"
+        ></Card.Img>
         <Card.Body>
-          <Card.Title>StonkView</Card.Title>
+          <Card.Title>Someta</Card.Title>
           <Card.Text>
-            StonkView provides a one stop shop stock watchlist website where
-            traders can actively interact with stock chart analysis and make
-            better trading decisions based on that information. Used
-            NodeJS/ExpressJS framework with EJS templating and Bootstrap CSS.
-            Also used MongoDB to store user information and stock holdings as
-            well as PassportJS/BCrypt for user authentication.
+            Cell-type annotations are frequently excluded from public single
+            cell datasets. This hinders single cell sequencing analysis
+            reproducibility and accessibility. To better describe the issue,
+            Someta monitors GEO entries monthly (currently set to auto-update at
+            1AM UTC, 1st of the month), and programmatically determines the
+            fraction of entries with (potentially, likely overestimated) usable
+            cell metadata.
           </Card.Text>
           <a
             class="btn btn-primary"
