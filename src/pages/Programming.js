@@ -124,7 +124,7 @@ const programming = () => (
           </Card.Text>
           <a
             class="btn btn-primary"
-            href="https://stonkview.herokuapp.com/"
+            href="https://rnabioco.github.io/someta/index.html"
             target="blank"
           >
             Link
