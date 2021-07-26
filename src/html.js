@@ -13,7 +13,7 @@ export default function HTML(props) {
         />
         {props.headComponents}
         <title>Sidhant Puntambekar</title>
-        <link rel={"icon"} href={"../images/me.jpg"} />
+        <link rel={"icon"} href={"images/me.jpg"} />
       </head>
       <body {...props.bodyAttributes}>
         {props.preBodyComponents}
