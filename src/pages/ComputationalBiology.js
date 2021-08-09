@@ -12,16 +12,43 @@ export default () => (
       Summer Institute in Biomedical Informatics 2021, Harvard Medical School
     </h2>
     <p>
-      Stay tuned. Will be working in the Sunyaev lab under Dr. Evan Koch
-      utilizing precise loss of function mutation rate estimates to measure the
-      selective constraint of genes.
+      During summer 2021, I interned at the Summer Institute in Biomedical
+      Informatics Program at Harvard Medical School/Brigham and Women's Hospital
+      in the computational genomics lab of Dr. Shamil Sunyaev. I worked with
+      postdoctoral fellow Dr. Evan Koch on a fine-scale mutation map to predict
+      missense and loss of function genetic variants in the human genome.
+    </p>
+    <p>
+      Missense and loss of function variants in the human genome are of
+      particular interest since they are typically associated with deleterious
+      effects in the phenotypes of individuals. Many non-conservative missense
+      and loss of function genomic variants can cause undiagnosed genetic
+      disorders with far reaching consequences for patients who have to suffer
+      with them. To this end, Harvard Medical School has created the Undiagnosed
+      Disease Network (UDN) in order to combat these diseases.
+    </p>
+    <p>
+      I was primarily working with the Genomic Aggregation Database (gnomAD)
+      which contains data from over 125,000 exome sequences and ~16,000 whole
+      genome sequences. The dataset essentially contains a collection of actual
+      points/sites in the human genome where either synonymous, missense, or
+      loss of function mutations may occur. The goal of the project is to
+      evaluate statistical prediction models of gene level constraint scores and
+      create an improved model similar to the model posed by Karczewski, K.J.,
+      Francioli, L.C., Tiao, G. et al. The mutational constraint spectrum
+      quantified from variation in 141,456 humans. Nature (2020).
+    </p>
+    <p>
+      Following my work over the summer, I am excited to continue this research
+      and eventually contribute to a paper re-analyzing and re-evaluating
+      Karczewski, et al.
     </p>
     <h2>
       RNA Bioscience Initiative Summer Internship Program 2020, University of
       Colorado Anschutz School of Medicine
     </h2>
     <p>
-      This past summer, I interned at the RNA Bioscience Initiative at the
+      During summer 2020, I interned at the RNA Bioscience Initiative at the
       University of Colorado Anschutz Medical School in the RBI Fellows Group.
       My project dealt with refining scRNA-seq analysis by improving
       reproducibility of results and conducting a large meta-analysis of
