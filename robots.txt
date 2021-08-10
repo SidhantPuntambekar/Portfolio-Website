@@ -1,5 +1,5 @@
 User-agent: *
 Allow: /
-Disallow: /search
+Disallow:
 Sitemap: https://sidhantpuntambekar.surge.sh/sitemap.xml
 Host: https://sidhantpuntambekar.surge.sh

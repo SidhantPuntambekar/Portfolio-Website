@@ -15,7 +15,7 @@ module.exports = {
       options: {
         host: "https://sidhantpuntambekar.surge.sh/",
         sitemap: "https://sidhantpuntambekar.surge.sh/sitemap.xml",
-        policy: [{ userAgent: "*", allow: "/", disallow: "/search" }],
+        policy: [{ userAgent: "*", allow: "/" }],
       },
     },
     "gatsby-transformer-sharp",
