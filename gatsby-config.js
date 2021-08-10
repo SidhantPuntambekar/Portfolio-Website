@@ -10,7 +10,14 @@ module.exports = {
     siteUrl: "https://sidhantpuntambekar.surge.sh/",
   },
   plugins: [
-    "gatsby-plugin-robots-txt",
+    {
+      resolve: "gatsby-plugin-robots-txt",
+      options: {
+        host: "https://sidhantpuntambekar.surge.sh/",
+        sitemap: "https://sidhantpuntambekar.surge.sh/sitemap.xml",
+        policy: [{ userAgent: "*", allow: "/", disallow: "/search" }],
+      },
+    },
     "gatsby-transformer-sharp",
     "gatsby-plugin-sharp",
     {
