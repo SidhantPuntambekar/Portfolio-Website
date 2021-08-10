@@ -6,7 +6,11 @@
 
 module.exports = {
   /* Your site config here */
+  siteMetadata: {
+    siteUrl: "https://sidhantpuntambekar.surge.sh/",
+  },
   plugins: [
+    "gatsby-plugin-robots-txt",
     "gatsby-transformer-sharp",
     "gatsby-plugin-sharp",
     {
