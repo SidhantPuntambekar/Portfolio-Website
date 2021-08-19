@@ -39,7 +39,7 @@ const carouselInformation = [
     new CarouselItem(
       "MATLAB",
       "images/Matlab.jpg",
-      "MATLAB in my opinion is the best language to use for data analysis. I believe that it allows optimum data visualization tools as well as the ability to implement machine learning algorithms for data processing. I used it quite a lot in my internship at the National Center for Atmospheric Research for analysis of the HURDAT2 data set and visualization of wind data."
+      "MATLAB in my opinion is the best language to use for data analysis. I believe that it allows optimum data visualization tools as well as the ability to implement machine learning algorithms for data processing and analysis. I used it quite a lot in my internship at the National Center for Atmospheric Research for analysis of the HURDAT2 data set and visualization of wind data."
     ),
   ]),
   new CarouselInformation("Music", "", [
