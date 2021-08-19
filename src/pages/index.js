@@ -34,7 +34,7 @@ const carouselInformation = [
     new CarouselItem(
       "C++",
       "images/C++.png",
-      "C++ is considered to be one of the forefather languages of object oriented programming. I first started using it in my college programming classes and loved the similarities between it and Java. I believe that it highlights the transition between higher level and lower level programming languages and also allows the programmer to grasp what is happening under the hood. Some of my C++ projects include various ciphers and a turn based Pokemon game."
+      "C++ is considered to be one of the forefather languages of object oriented programming. I first started using it in my college programming classes and loved the similarities between it and Java. I believe that it highlights the transition between higher level and lower level programming languages and also allows the programmer to grasp what is happening under the hood. Some of my C++ projects include implementations of various ciphers and a turn based Pokemon game."
     ),
     new CarouselItem(
       "MATLAB",
