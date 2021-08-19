@@ -24,7 +24,7 @@ const carouselInformation = [
     new CarouselItem(
       "Python",
       "images/Python.png",
-      "Python was the first programming language I started learning. I believe it is the best beginner language because of its intuitive syntax. Additionally, I like its ability to be used for all sorts of applications such as genomic data science and data visualization with softwares such as Matplotlib and Matlab. Although many dislike Python for its pseudocode like syntax, I believe that it serves as a great introductory language to programming."
+      "Python was the first programming language I started learning. I believe it is the best beginner language because of its intuitive syntax. Additionally, I like its ability to be used for all sorts of applications such as genomic data science and data visualization with softwares/libaries such as NumPy, Pandas, Matplotlib and Seaborn. Although many dislike Python for its pseudocode like syntax, I believe that it serves as a great introductory language to programming."
     ),
     new CarouselItem(
       "Java",
