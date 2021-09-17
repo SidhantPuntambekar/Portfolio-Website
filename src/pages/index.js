@@ -110,7 +110,7 @@ const carouselInformation = [
     new CarouselItem(
       "China Syndrome",
       "https://images-na.ssl-images-amazon.com/images/I/71jFawCzUUL.jpg",
-      "China Syndrome: The True Story of the 21st Century's First Great Epidemic by Karl Taro Greenfeld recounts the events of the 2002-2004 SARS-CoV-1 epidemic in Southern China, Hong Kong, and later around the world. Greenfeld worked as a reporter for Time Asia during the initial outbreak in Guangdong Province and provides a detailed commentary on the actions of the epidemiology and virology community around the world as ordinary citizens fell victim to coronavirus borne epidemic. Lessons learned from this book relate to the current time period where the SARS-CoV-2 pandemic has ravaged and fundamentally changed all aspects of our lives today."
+      "China Syndrome: The True Story of the 21st Century's First Great Epidemic by Karl Taro Greenfeld recounts the events of the 2002-2004 SARS-CoV-1 epidemic in Southern China, Hong Kong, and later around the world. Greenfeld worked as a reporter for Time Asia during the initial outbreak in Guangdong Province and provides a detailed commentary on the actions of the epidemiology and virology community around the world as ordinary citizens fell victim to a coronavirus borne epidemic. Lessons learned from this book relate to the current time period where the SARS-CoV-2 (COVID-19) pandemic has ravaged and fundamentally changed all aspects of our lives today."
     ),
   ]),
   new CarouselInformation("Movies", "", [
