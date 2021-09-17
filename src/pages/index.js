@@ -102,10 +102,15 @@ const carouselInformation = [
       "https://upload.wikimedia.org/wikipedia/en/thumb/4/48/ErnestHemmingway_ForWhomTheBellTolls.jpg/178px-ErnestHemmingway_ForWhomTheBellTolls.jpg",
       "For Whom the Bell Tolls is a novel written by Ernest Hemingway set to the backdrop of the Spanish Civil War. The novel follows Robert Jordan who is an American volunteer in one of the International Brigades fighting on the Republican side. He is tasked to blow up a bridge during the attack on the city of Segovia near the capital city of Madrid. The book paints a dark picture of the horror of the civil war which pitted Nazi backed Nationalists against the Soviet backed Republicans. Overall the book demonstrates themes such as camaraderie in war as well as making the ultimate sacrifice for a cause."
     ),
-    new CarouselItem(
-      "Heart of Darkness",
-      "https://kbimages1-a.akamaihd.net/e278c62e-943a-473e-846a-3e19bce5b5d8/1200/1200/False/heart-of-darkness-12.jpg",
-      "Heart of Darkness by Joseph Conrad tells the story of nineteenth century colonialism in Africa. Charles Marlow goes in search of the mysterious Kurtz who is said to be lost in the African jungle. However, Marlow witnessses that Kurtz has become a god-like figure to the native people and that he has descended into madness being consumed with the wilderness around him. Marlow upon returning grows dissatisfied with the so called civilized world and lies to Kurtz's wife about his last words. The novel paints a grim picture of colonialism in Africa as well as flipping the narrative of which world is considered to be civilized or not."
+    // new CarouselItem(
+    //   "Heart of Darkness",
+    //   "https://kbimages1-a.akamaihd.net/e278c62e-943a-473e-846a-3e19bce5b5d8/1200/1200/False/heart-of-darkness-12.jpg",
+    //   "Heart of Darkness by Joseph Conrad tells the story of nineteenth century colonialism in Africa. Charles Marlow goes in search of the mysterious Kurtz who is said to be lost in the African jungle. However, Marlow witnessses that Kurtz has become a god-like figure to the native people and that he has descended into madness being consumed with the wilderness around him. Marlow upon returning grows dissatisfied with the so called civilized world and lies to Kurtz's wife about his last words. The novel paints a grim picture of colonialism in Africa as well as flipping the narrative of which world is considered to be civilized or not."
+    // ),
+    new CarourselItem(
+      "China Syndrome",
+      "https://images-na.ssl-images-amazon.com/images/I/71jFawCzUUL.jpg",
+      "China Syndrome: The True Story of the 21st Century's First Great Epidemic by Karl Taro Greenfeld recounts the events of the 2002-2004 SARS-CoV-1 epidemic in Southern China, Hong Kong, and later around the world. Greenfeld worked as a reporter for Time Asia during the initial outbreak in Guangdong Province and provides a detailed commentary on the actions of the epidemiology and virology community around the world as ordinary citizens fell victim to coronavirus borne epidemic. Lessons learned from this book relate to the current time period where the SARS-CoV-2 pandemic has ravaged and fundamentally changed all aspects of our lives today."
     ),
   ]),
   new CarouselInformation("Movies", "", [
