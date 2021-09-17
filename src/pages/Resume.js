@@ -8,7 +8,7 @@ const resume = () => (
       My résumé is available at the following{" "}
       <a
         href={
-          "https://drive.google.com/file/d/186wsvKJvuPWrb2lL4dk2vpwkdnMHyaHt/view?usp=sharing"
+          "https://drive.google.com/file/d/1m47OHp7my3ohs7O0NVegkxl2LRsnBXZW/view?usp=sharing"
         }
         target="blank"
       >
