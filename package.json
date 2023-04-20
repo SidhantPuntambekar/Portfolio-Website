@@ -28,7 +28,7 @@
     "gatsby": "^2.32.13",
     "gatsby-image": "^3.5.0",
     "gatsby-plugin-robots-txt": "^1.6.8",
-    "gatsby-plugin-sharp": "^3.5.0",
+    "gatsby-plugin-sharp": "^4.25.1",
     "gatsby-plugin-sitemap": "^4.7.0",
     "gatsby-source-filesystem": "^3.5.0",
     "gatsby-transformer-sharp": "^3.5.0",
